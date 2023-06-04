@@ -3,14 +3,14 @@
   <entry>
     <title>爱我别走</title>
     <url>/music/music/dontleave/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><em>爱我别走</em>是台湾歌手张震岳作曲并演唱的一首歌。在保持原有的和声进行不变的同时，我重新编配了鼓点、钢琴以及吉他，为其赋予新的色彩。</p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p><em>爱我别走</em>是台湾歌手张震岳作曲并演唱的一首歌。在保持原有的和声进行不变的同时，我重新编配了鼓点、钢琴以及吉他，为其赋予新的色彩。</p>
 
-        <div id="aplayer-IewrGguf" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-jBIVOaRq" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-IewrGguf"),
+            element: document.getElementById("aplayer-jBIVOaRq"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -37,7 +37,7 @@
   <entry>
     <title>空无一人</title>
     <url>/music/music/empty/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><em>空无一人</em>是我于2022年毕业季创作的歌曲。它同样也是东南大学2022年毕业季主题曲，并获得了正青春全国大学生毕业季青春新歌声人气作品优秀作品。</p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p><em>空无一人</em>是我于2022年毕业季创作的歌曲。它同样也是东南大学2022年毕业季主题曲，并获得了正青春全国大学生毕业季青春新歌声人气作品优秀作品。</p>
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=800 height=86 src="//music.163.com/outchain/player?type=2&id=1938241138&auto=0&height=66"></iframe>
 
 <p>这首歌的词和曲是一天夜晚在校园闲逛时产生的。当时的我在体育馆的二楼边走边想，如果明天就毕业，今晚我会在做什么。我想我会在晚上和朋友们痛饮畅谈一番，结束后我会像现在这样一个人漫步在学校，回忆着四年的点点滴滴。循着这个思路，我创作了这样的一个故事：</p>
@@ -62,53 +62,34 @@
       </categories>
   </entry>
   <entry>
-    <title>星空如梦</title>
-    <url>/music/music/skydream/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>这首歌的灵感来源于《小王子》。下面是这首歌的一个片段。</p>
+    <title>五度圈</title>
+    <url>/music/music/fifth/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>关于五度圈的一个小片段。</p>
 
-        <div id="aplayer-JmtCseRu" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-FuDAuNFe" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-JmtCseRu"),
+            element: document.getElementById("aplayer-FuDAuNFe"),
             narrow: false,
             autoplay: false,
             showlrc: false,
             music: {
-              title: "星空如梦",
+              title: "五度圈",
               author: "Chongjie",
-              url: "skydream.wav",
-              pic: "/music/music/skydream/skydream.png",
+              url: "fifth.wav",
+              pic: "/music/music/fifth/fifth.png",
               lrc: ""
             }
           });
           window.aplayers || (window.aplayers = []);
           window.aplayers.push(ap);
         </script>
+<p>和声分析如下。</p>
+<div id="dplayer2" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer2"),"video":{"url":"/music/music/fifth/fifth.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script>
 
-<img src='https://pic4.zhimg.com/v2-41a7e336bd9fd1ba950542b208b1878f_b.webp' width=1000>
-
-<p>“我那时什么也不懂。我应该根据她的行为，而不是根据她的话来判断她。她香气四溢，让我的生活更加芬芳多彩，我不该离开她的……我早该猜到，在她那可笑的伎俩后面是缱绻柔情啊。花朵是如此的天真无邪！可是，我毕竟是太年轻了，不知该如何去爱她。”</p>
-<p>小王子深爱着他的玫瑰，但他却不知道如何去爱。多么遗憾啊……当我们年轻时，我们深爱着彼此，但却常常因不知如何去爱而互相伤害。而当我们学会如何去爱时，她却早已离开，消失在人海。当你错过了她，便永远错过了她。</p>
-<p>下面是完整的歌曲。</p>
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=800 height=86 src="//music.163.com/outchain/player?type=2&id=1964119464&auto=0&height=66"></iframe>
-  
-<p>我也提供了一个简短的MV。</p>
-<div id="dplayer2" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer2"),"video":{"url":"/music/music/skydream/skydream.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script>
-
-<p>歌词：</p>
-<p>如果你住在一颗星星上<br>我会努力在星空下眺望<br>守护着一片有你的星光<br>还有看不见的远方</p>
-<p>时间抓住了抓住了黄昏的日落<br>喜欢你我就回我就会想很多<br>在漫漫长夜里<br>我的眼睛里脑海里全部都是你</p>
-<p>一朵花表里不一 我太年轻<br>不知道该怎样珍惜<br>失去后 才明白</p>
-<p>你说我想了太多 说了太多<br>可是最后错了又错<br>你留给我的沉默</p>
-<p>Inspired by <em>The Little Prince</em>, I wrote this song named <em>Starry Sky Dream</em>. Here is part of this song.</p>
-<p>“Back then, I didn’t understand anything. I thought I could judge her emotions based on her actions, but I ended up judging her based on her words. She bloomed for me, giving me fragrance and filling my life with color. I shouldn’t have left her and run away. I should have realized that behind those unremarkable tricks were hidden many tender feelings. Flowers themselves are so contradictory! Unfortunately, I was too young at that time and didn’t know how to take care of her.”</p>
-<p>The little prince loved his rose so much, but he didn’t know how to love her. How regretful it is. When we were young, we loved each other deeply, but often hurt because we didn’t know how to love. And when I learned how to love, she had already left. Once you miss someone, you miss them forever.</p>
-<p>You can also listen to the full version of the song at the link below. A short music video of this song is also provided.</p>
-<p>Lyrics Translation<br>If you lived on a star,<br>I’d try to gaze at it under the starry sky,<br>Guarding the starlight that belongs to you,<br>And the unseen distances beyond.</p>
-<p>Time has caught the sunset of dusk,<br>Liking you makes me think a lot,<br>In the long night, in my eyes,<br>And in my mind, it’s all about you.</p>
-<p>A flower has two faces,<br>I’m too young,<br>I don’t know how to cherish it,<br>Only after losing it do I realize,<br>You said I thought too much,<br>Said too much,<br>But in the end, it was all wrong,<br>And what you left me was silence.</p>
+<p>A small music fragement of circle of Fifths.<br>The harmonic analysis of this piece of music is also provided.</p>
 ]]></content>
       <categories>
         <category>music</category>
@@ -117,14 +98,14 @@
   <entry>
     <title>半岛铁盒</title>
     <url>/music/music/ironbox/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><em>半岛铁盒</em>是由周杰伦作曲并演唱的歌曲。我重写了鼓点、钢琴以及四部和声，并翻唱了这首歌曲。</p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p><em>半岛铁盒</em>是由周杰伦作曲并演唱的歌曲。我重写了鼓点、钢琴以及四部和声，并翻唱了这首歌曲。</p>
 
-        <div id="aplayer-XGRueGKp" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-JJvsaHQE" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-XGRueGKp"),
+            element: document.getElementById("aplayer-JJvsaHQE"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -155,43 +136,9 @@
       </categories>
   </entry>
   <entry>
-    <title>五度圈</title>
-    <url>/music/music/fifth/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>关于五度圈的一个小片段。</p>
-
-        <div id="aplayer-WwFlhaJc" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
-            <pre class="aplayer-lrc-content"></pre>
-        </div>
-        <script>
-          var ap = new APlayer({
-            element: document.getElementById("aplayer-WwFlhaJc"),
-            narrow: false,
-            autoplay: false,
-            showlrc: false,
-            music: {
-              title: "五度圈",
-              author: "Chongjie",
-              url: "fifth.wav",
-              pic: "/music/music/fifth/fifth.png",
-              lrc: ""
-            }
-          });
-          window.aplayers || (window.aplayers = []);
-          window.aplayers.push(ap);
-        </script>
-<p>和声分析如下。</p>
-<div id="dplayer4" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer4"),"video":{"url":"/music/music/fifth/fifth.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script>
-
-<p>A small music fragement of circle of Fifths.<br>The harmonic analysis of this piece of music is also provided.</p>
-]]></content>
-      <categories>
-        <category>music</category>
-      </categories>
-  </entry>
-  <entry>
     <title>愿不愿意</title>
     <url>/music/music/marry/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>应朋友的邀请，我写下这首歌，帮助他向心爱的女孩求婚。</p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>应朋友的邀请，我写下这首歌，帮助他向心爱的女孩求婚。</p>
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=800 height=86 src="//music.163.com/outchain/player?type=2&id=2005342595&auto=0&height=66"></iframe>
 
 <p>这首歌是我编配过的最复杂的歌曲之一。A1部分，我只使用钢琴作为伴奏，在柱式和弦的基础上加花，营造出安静的氛围。A2段，鼓点和贝斯加了进来，情绪开始抬升，一直到副歌B1和B2段，弦乐和和声一起烘托着情感达到最高点。在副歌即将结束的时候，我使用排钟作为结束的信号，并再次只使用钢琴作为伴奏，情感再次沉寂下来，为接下来做准备。</p>
@@ -210,16 +157,69 @@
       </categories>
   </entry>
   <entry>
-    <title>晚霞</title>
-    <url>/music/music/sunset/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>从实验室的窗外望去，晚霞染红了天空，夕阳落在我的脸上。我仰望着秋日的天空，一种莫名的思乡之情从心底蔓延开来。在这种感动中，我写下了这首曲子。</p>
+    <title>星空如梦</title>
+    <url>/music/music/skydream/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>这首歌的灵感来源于《小王子》。下面是这首歌的一个片段。</p>
 
-        <div id="aplayer-CgUCFYPA" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-FdsEURoF" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-CgUCFYPA"),
+            element: document.getElementById("aplayer-FdsEURoF"),
+            narrow: false,
+            autoplay: false,
+            showlrc: false,
+            music: {
+              title: "星空如梦",
+              author: "Chongjie",
+              url: "skydream.wav",
+              pic: "/music/music/skydream/skydream.png",
+              lrc: ""
+            }
+          });
+          window.aplayers || (window.aplayers = []);
+          window.aplayers.push(ap);
+        </script>
+
+<img src='https://pic4.zhimg.com/v2-41a7e336bd9fd1ba950542b208b1878f_b.webp' width=1000>
+
+<p>“我那时什么也不懂。我应该根据她的行为，而不是根据她的话来判断她。她香气四溢，让我的生活更加芬芳多彩，我不该离开她的……我早该猜到，在她那可笑的伎俩后面是缱绻柔情啊。花朵是如此的天真无邪！可是，我毕竟是太年轻了，不知该如何去爱她。”</p>
+<p>小王子深爱着他的玫瑰，但他却不知道如何去爱。多么遗憾啊……当我们年轻时，我们深爱着彼此，但却常常因不知如何去爱而互相伤害。而当我们学会如何去爱时，她却早已离开，消失在人海。当你错过了她，便永远错过了她。</p>
+<p>下面是完整的歌曲。</p>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=800 height=86 src="//music.163.com/outchain/player?type=2&id=1964119464&auto=0&height=66"></iframe>
+  
+<p>我也提供了一个简短的MV。</p>
+<div id="dplayer4" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer4"),"video":{"url":"/music/music/skydream/skydream.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script>
+
+<p>歌词：</p>
+<p>如果你住在一颗星星上<br>我会努力在星空下眺望<br>守护着一片有你的星光<br>还有看不见的远方</p>
+<p>时间抓住了抓住了黄昏的日落<br>喜欢你我就回我就会想很多<br>在漫漫长夜里<br>我的眼睛里脑海里全部都是你</p>
+<p>一朵花表里不一 我太年轻<br>不知道该怎样珍惜<br>失去后 才明白</p>
+<p>你说我想了太多 说了太多<br>可是最后错了又错<br>你留给我的沉默</p>
+<p>Inspired by <em>The Little Prince</em>, I wrote this song named <em>Starry Sky Dream</em>. Here is part of this song.</p>
+<p>“Back then, I didn’t understand anything. I thought I could judge her emotions based on her actions, but I ended up judging her based on her words. She bloomed for me, giving me fragrance and filling my life with color. I shouldn’t have left her and run away. I should have realized that behind those unremarkable tricks were hidden many tender feelings. Flowers themselves are so contradictory! Unfortunately, I was too young at that time and didn’t know how to take care of her.”</p>
+<p>The little prince loved his rose so much, but he didn’t know how to love her. How regretful it is. When we were young, we loved each other deeply, but often hurt because we didn’t know how to love. And when I learned how to love, she had already left. Once you miss someone, you miss them forever.</p>
+<p>You can also listen to the full version of the song at the link below. A short music video of this song is also provided.</p>
+<p>Lyrics Translation<br>If you lived on a star,<br>I’d try to gaze at it under the starry sky,<br>Guarding the starlight that belongs to you,<br>And the unseen distances beyond.</p>
+<p>Time has caught the sunset of dusk,<br>Liking you makes me think a lot,<br>In the long night, in my eyes,<br>And in my mind, it’s all about you.</p>
+<p>A flower has two faces,<br>I’m too young,<br>I don’t know how to cherish it,<br>Only after losing it do I realize,<br>You said I thought too much,<br>Said too much,<br>But in the end, it was all wrong,<br>And what you left me was silence.</p>
+]]></content>
+      <categories>
+        <category>music</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>晚霞</title>
+    <url>/music/music/sunset/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>从实验室的窗外望去，晚霞染红了天空，夕阳落在我的脸上。我仰望着秋日的天空，一种莫名的思乡之情从心底蔓延开来。在这种感动中，我写下了这首曲子。</p>
+
+        <div id="aplayer-pIqwmKpf" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+            <pre class="aplayer-lrc-content"></pre>
+        </div>
+        <script>
+          var ap = new APlayer({
+            element: document.getElementById("aplayer-pIqwmKpf"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -244,369 +244,9 @@
       </categories>
   </entry>
   <entry>
-    <title>你的幸运，我来不及</title>
-    <url>/docs/docs/%E4%BD%A0%E7%9A%84%E5%B9%B8%E8%BF%90%E6%88%91%E6%9D%A5%E4%B8%8D%E5%8F%8A/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>我喜欢走夜路，走那种很长很长的夜路，尤其是独自一人在黑夜里摸索，直到遇见了你。</p>
-<p>我喜欢和你一起走夜路，走那种并不是很晚的夕阳，走那种并不是很黑的光明，走那种并不是很暗的灯光，走那种很长很长的路。</p>
-<p>我喜欢在路上与你交谈，谈天说地；我不喜欢在脚下设立目标，标准某地；我喜欢在时空中与你并肩，肩并肩向前；我不喜欢在夜幕里寻找流星，星光满地。</p>
-<p>脚下的目标一旦明确，不禁会忘却身边的人，一心只想着赶路；夜幕的星光固然美丽，正因如此，才可能会遮掩身边的美，让我后悔不已。</p>
-<p>那就放慢脚步，和你一起穿梭在车水马龙间，穿行在亭台楼阁中，穿越了人山人海，穿起了一切的平凡与不平凡，一切的繁华与冷落，一切的真实与虚无，一切的爱与感伤。</p>
-<p>路很短，我们只走了很短的一截，我甚至才度过短短的时光。</p>
-<p>路很短，我们只并肩前行了一小会，我甚至没能触碰你滚烫的脸颊。</p>
-<p>路很短，我们只不平凡了一秒钟的时光，我甚至没能感觉樱花飘落的速度。</p>
-<p>路很短，我们只流星了一块夜幕，我甚至没能感受到你衣摆的弧度。</p>
-<p>路很短。</p>
-<p>路很长。</p>
-<p>突然手机的屏幕亮了一下，我伸出早已疲倦的手，勉强挺起躺卧在沙发上的身子，打开了手机。</p>
-<p>“我们算是朋友吗？”</p>
-<p>“嗯。”</p>
-<p>“那样很好。”</p>
-<p>要是我的回答并不是如此，又会发生什么样的情况呢？我不知道，也不想知道。我知道的，只是今晚，我们走了很久。</p>
-<h2 id="一"><a href="#一" class="headerlink" title="一"></a>一</h2><p>我坐在钢琴前，痴痴地看着黑白的琴键，手指不听指挥的硬是按了下去，一种沉默的棉花音打破了图书馆静谧的气氛。</p>
-<p>“你要弹钢琴吗？”</p>
-<p>“不不不，我不会，只是很好奇。”</p>
-<p>我突然间起身抬头看了看眼前的你。</p>
-<p>“我想去前面的琴行转一转。”</p>
-<p>“那我们一起去吧。”</p>
-<p>“那你得跟着我走啦。”</p>
-<p>张嘉佳的一段话在某一瞬间闪现在我的脑海中：故事的开头总是这样，适逢其会，猝不及防。康德说，滑稽是理想与现实间的巨大落差。适逢其会么？应该很早就认识了吧，只是，只是由于某些原因吧，失去的太多，交流的太少。猝不及防么？很早很早就想这样走了，只是缺少了主人公。滑稽么？我已经没有心思去想康德怎么说了。我从不甘心做配角，但在这个时刻，这片夜空下，我以头顶的繁星与脚下的土地起誓，我真的真的只愿做一个配角。</p>
-<p>暗黄的灯光还在城市中摇曳不定，街边的小摊还在时不时响起吆喝的声音。可以就这么走下去吗？没有目的地，没有梦想，没有特别想要的与抛弃的，整个世界中只有你。</p>
-<p>“抱歉呢，这家琴行好像关门了，害你走了这么远。”</p>
-<p>“没关系，我很开心。”</p>
-<p>开心么？我真的真的不想停下脚步，一直走，一直走，走到天涯海角，和你一起，模模糊糊又朦朦胧胧地走下去。</p>
-<h2 id="二"><a href="#二" class="headerlink" title="二"></a>二</h2><p>我站在楼下仰望夜空，突然觉得自己就像一片落叶，像一颗流星从一颗星滑到了另一颗星。也许走的太匆忙，打翻了我手中所有的时间。错了，又错了，还是错的。</p>
-<p>“月亮很美吧。”我顺手拍了张照片发了过去。</p>
-<p>“明天下雨，今晚会有月亮么？”</p>
-<p>“月亮很难受。”</p>
-<p>月亮难受地躲在厚厚的云层里，不愿出面。或许，月亮在流泪。</p>
-<p>月亮会哭，但普鲁斯特会笑。似水流年啊，追忆无穷无尽。温暖的时光很短，却有可能一辈子记忆。</p>
-<p>真的是一片黑暗，只有酒店依旧亮着残酷的灯。新华书店的门已经关闭，门前的漫咖啡馆里的人们也早已散去，只留下杂乱而伤感的桌椅。</p>
-<h2 id="三"><a href="#三" class="headerlink" title="三"></a>三</h2><p>“我们向哪走呢？”</p>
-<p>“我们石头剪刀布吧，你赢了向前，我赢了左转。”</p>
-<p>“石头剪刀布。”</p>
-<p>“好，那我们向前走吧。”你调皮的眨了眨眼，捋了捋耳边飘起的长发。</p>
-<p>“我喜欢出布，因为这能代表我海纳百川的包容之心，哈哈。”</p>
-<p>“我喜欢出石头。”我顿了顿，却没有再说下去。</p>
-<p>你停下脚步，撅起小嘴，傻傻地看着欲言又止的我，“为什么呢？”</p>
-<p>傻瓜，我怎么可能会告诉你，因为我喜欢让你赢。</p>
-<p>街边的发廊响起了简单爱。“我想就这样牵着你的手不放开，爱能不能够永远单纯没有悲哀，你靠着我的肩膀，你在我胸口睡着……”那我可以牵你的手么？你向远处走去，我在远处等你。</p>
-<p>“我们再来一次吧。”</p>
-<p>“嗯，石头剪刀布。”</p>
-<p>“诶？为什么你会出布，你不是喜欢出石头的么？我还想出剪让你赢来着。”</p>
-<p>“因为即使世界与你为敌，我都会包容你。”</p>
-<p>若有可能，就请时间暂停吧，停在那一秒。我多么想侧身转向你，将你紧紧抱住。但理性将我拉回现实，告诉我不能这么做。</p>
-<p>或许通过黑洞，人们终将发现白洞，发现白洞那边的新世界；或许通过虫洞，人们终将能够使时间流逝，能够以光速飞回千年前，飞到千年后。</p>
-<p>可是我并不在乎，我只想与你寻找砌在墙里的传说，你与我被遗忘的姓名。</p>
-<p>可是我并不在乎，我只在乎满地的太阳，我只在乎满天的泪滴。</p>
-<h2 id="四"><a href="#四" class="headerlink" title="四"></a>四</h2><p>我卧在沙发上，推送了一条消息。</p>
-<p>“其实今晚这样，挺好”</p>
-<p>又出现了一条新消息。</p>
-<p>“其实今晚和你在一起，挺好。”</p>
-<p>“没有杂念与目标。”</p>
-<p>“机会很珍贵吧。”我叹了口气。</p>
-<p>“我们算是朋友吗？”我不相信自己的眼睛，为什么你会问这么一个问题。你想要的答案是什么，你想要的答案我可以给么？</p>
-<p>“嗯。”</p>
-<p>“那样很好。”</p>
-<h2 id="五"><a href="#五" class="headerlink" title="五"></a>五</h2><p>“很好吗？”我走在路上，向你问道。</p>
-<p>“对呀，虽然不是很清楚，但这条小街的感觉真的很好。”</p>
-<p>气氛十分静谧，居民楼闪烁着忽明忽暗的灯光。人们纷纷迈着疲惫的步伐，回到各自的居所。</p>
-<p>“你看他们的鲜花，终将枯萎。”你指着前方男人手中滴水的玫瑰，笑着小声告诉我。玫瑰失去了原色，花瓣失去了光泽。但只要送花的人心里火热，心里如春，即使枯萎也同样能拥有生机。</p>
-<p>是的，玫瑰终将枯萎，花瓣终将凋谢。但我们的故事不会停止，继续，不停止，还会继续。靠着树干坐下，头顶满树韶光，树叶的罅隙里斜斜透着记忆，落满一地思念。醒来拍拍裤管，向不知名的地方走去。</p>
-<p>故事戛然而止。</p>
-<h2 id="六"><a href="#六" class="headerlink" title="六"></a>六</h2><p>我站在楼下，趁着夜幕降临漆黑之时，顺手拍了张照片。浓厚的云层遮住了典雅的月光。</p>
-<p>“月亮很美吧。”我把照片发给你。</p>
-<p>“明天下雨，今晚会有月亮吗？”</p>
-<p>“月亮很难受。”一阵无声的静寂。</p>
-<p>我走上楼去站在你的门前，却迟迟不敢敲门，只得在楼道间废弃的沙发上坐着。</p>
-<p>“其实今晚这样，挺好。”</p>
-<p>“其实今晚和你在一起，挺好。”</p>
-<p>“没有杂念与目标。”</p>
-<p>“机会很珍贵吧。”我长长地叹了口气。</p>
-<p>“我们算是朋友吗？”我怔了怔，不知如何回答。在那么一刻，我想回答：不，我们已经超过了朋友的关系。但我还是忍了下来，用颤抖的手指轻轻地敲出:</p>
-<p>“嗯。”</p>
-<p>“那样很好。”</p>
-<p>很好吗？不，一点都不好，我不甘心！为什么不能鼓起勇气，大声地说出：</p>
-<p>“不，我们已经超过了朋友的关系！”</p>
-<p>退后，我们都忘了前进；停止，我们都忘了继续。</p>
-<p>门，开了。</p>
-<p>我拿出了写好的日记，慢慢地翻动着，你的目光也随之游离。</p>
-<p>“我会哭，但普鲁斯特会笑。”</p>
-<p>“是吗？月亮很难受。”</p>
-<p>“笨蛋，我说的是晕车很难受。”你笑了笑。</p>
-<p>“街边的魔术店还有刘谦的签名呢。”</p>
-<p>“嗯，你还答应要教我变魔术呢。”你加了一句。</p>
-<p>……</p>
-<h2 id="七"><a href="#七" class="headerlink" title="七"></a>七</h2><p>我喜欢走夜路，走那种很长很长的夜路，直到遇见了你。</p>
-<p>你静静地看着我，站在马路的对面，我突然有一种冲动，想飞奔到你那边。只是，车闸缓缓拉升，红灯缓缓亮起，川流不息的车辆横亘在我们之间。</p>
-<p>没有新海诚般的错过，没有张嘉佳般的告白，只有平静的点了点头，然后永不回眸的走了下去。</p>
-<p>这是与我相知相识的你么？这是与我欢笑一路的你么？只是那个少年曾经的梦么？</p>
-<p>这一切，好像都是梦。</p>
-<p>我永远无法苏醒。</p>
-<p>“文章以对话为主体不是很好哦，可能没有内容。”</p>
-<p>“但是对话最能反映内容呢。”</p>
-<p>“是这样子么？”</p>
-<p>“是这样子吧。”</p>
-<p>“但就像走夜路，如果只低着头，而忘记了景色，那又有什么意义呢？”</p>
-<p>“如果我只注意了景色，却错过了你，那又有什么意义呢？”</p>
-<p>你歪了歪头，若有所思。</p>
-<p>从此，我不再走夜路。</p>
-<p>岁月是那么的漫长，漫长到迷失自己，不明是非，愈合了伤痕累累，却仍旧不顾一切地走进伤痛；漫长到让人忘记自己是怎么走到这里的。但总有一天，总有一个人会在路口与你相遇，而后向新的地方义无反顾地走下去。</p>
-<p>有些人适合陪伴在身边，一起厮守年华。有些人适合活在心里，时刻回想都能温暖时光，惊艳回忆。</p>
-<p>也许当年的时光，就该搭配当年的我们，发生着那样的故事。再相见，哪怕物是人在，我们也不属于那个夜晚；再相见，哪怕桃花依旧，当年的欢乐也抓不住回不来。</p>
-<p>我们已经记不起什么是惆怅。</p>
-<p>“我们算是朋友吗？”</p>
-<p>“不，我们已经超过了朋友的关系。”</p>
-<p>“嗯，那样很好。我很幸运。”</p>
-<p>你的幸运，我来不及。</p>
-]]></content>
-      <categories>
-        <category>docs</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>地铁</title>
-    <url>/docs/docs/%E5%9C%B0%E9%93%81/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>坐在地铁上的座位上，百无聊赖的看着手机闪光的屏幕打发时间。还有多久才能到站呢？或许很久吧。</p>
-<p>“九龙湖站到了。”地铁传来沉闷的报站声。我抬头看了看地铁屏幕上的字，又低下头来。</p>
-<p>“最近过得怎么样呢？”</p>
-<p>“每天都是那样，索然无味。生活的意义到底是什么呢？”</p>
-<p>“活着便是意义吧。”</p>
-<p>“请要下车的乘客做好准备。”</p>
-<p>生活是一趟永不停息的列车，大家在不同的地方上车，却在同一个终点站下车。命运总是如此戏谑，你永远不知道身边的乘客是谁，谁会半路下车，而又有谁会中途上车坐在你的对面或身旁。</p>
-<p>生活是一趟不可回头的列车，一旦搭乘便向终点义无反顾地开去，永不回头。</p>
-<p>“诚信大道站到了。”</p>
-<p>生活和地铁又有多大的区别呢？我靠着椅子，关上手机。车厢里的人逐渐散去，我突然发现，整节车厢只有我一个人。或许生命到了最后也是这般？一个人孤独的到终点，一个人下车离去。</p>
-<p>生活总是充满了烦恼。就像她，仿佛近在眼前，却也悄悄的离去。但就算重来，我还会有所改变么？</p>
-<p>地铁缓缓的停了下来，我也缓缓的站了起来。耳边的风静悄悄的吹过，指间的水也悄悄的滴下。</p>
-<p>“九龙湖站到了。”屏幕上滚动着显示出这么几个字。</p>
-<p>我看了看笑了笑。</p>
-<p>突然一愣，仿佛在那么一瞬间，世界都静止了。</p>
-<p>这趟永不回头的地铁，这趟脚步不停的地铁，是回头了吗，是停住脚步往回走了吗？</p>
-<p>我站在打开的门前，犹豫着要不要下车。时间静静地流逝，却也仿佛能听见嘀嗒的水流声。</p>
-<p>门就这么开着，也没有急促的关门的提示音。</p>
-<p>终于，我迈出了第一步。</p>
-<p>当我的脚终于踏上站台，我感觉指尖多了些什么。低头一看，指尖的水也正在看着我，缓缓上升，慢慢爬到我的脸上，爬进眼睛里。</p>
-<p>我走出站台。似乎与平常无异，似乎又有那么些区别。指示牌还是在哪里告诉着人们前进或是后退的方向，检票口还是吞咽或是吐出一枚枚硬币。我站在那里，好像与这一幕融为一体，成为画中人；又好像与这个世界格格不入。可是这终归不是我的终点站，就算下站又有什么意义？</p>
-<p>转身回去。地铁还是在那里停着，仿佛预料到我会回头。门依旧没关，依旧没有急促的滴滴声。</p>
-<p>我突然意识到，我踏上的是一趟特殊的地铁。</p>
-<p>再次进入车厢里，还坐在原来的座位上。车厢里依旧空无一人，一排排扶手像不会说话的风铃一样闭着眼。</p>
-<p>门关了。我看着窗外的广告牌开始慢慢向身后溜走，最终成为一道光影。隧道里黑漆漆一片，只有车内亮着微弱的灯。抬头看了看，车顶仿佛映着天，那么广阔，什么也看不清，什么也看不全，什么重点也把握不住。那干脆闭上眼睛吧，什么都不去想，什么都不去做，什么事情都不管不顾，任由地铁载着我，去往不知名的远方。</p>
-<p>车停了，鸡鸣寺，40分钟前。我看着我自己站在地铁站的出口，站在十字路口的中央，徘徊在梧桐树下，徘徊在古老校区的门口。我看见我发着消息，却记不清发的是什么。</p>
-<p>“是在最大的那个门等你么？”</p>
-<p>“嗯，就是有四个大字的那个门。”</p>
-<p>她来了，和别人一起。</p>
-<p>她好像看见我了，却又好像没看见。因为我面对着她，她却与我擦肩而过。</p>
-<p>她看了我一眼，也只看了我一眼。</p>
-<p>有些人原来一辈子都不会与你有交集，可总在阴差阳错之下与你相遇相识相知，又在不知不觉中离你而去。</p>
-<p>她走了，和别人一起。</p>
-<p>我走了，孑然一身。</p>
-<p>车停了，排练室，1天前。我看见我自己拿着琴和别的朋友一起讨论着和弦的走向，只为她来的时候能听到最动人的旋律。弦乐器唱着歌，月亮也变成湖水，爱也变成了舟。</p>
-<p>她进来了，紫色的衣裳甚是好看。她看着我露出甜美的笑容，而我却微微失神。手中的琴弦停了下来，朋友的黑白键依旧在不停跳动。</p>
-<p>她开心的看着排练室多种多样的乐器，忍不住想敲打架子鼓，便径自坐在椅子上，正如现在坐在车内看着这一幕幕的我一样。手中的棒槌比划着敲打下去，连鼓也闷哼出微微的叹息。</p>
-<p>当时的我笑的多快乐，笑的多开心。</p>
-<p>车内的我也不免嘴角上扬，仿佛我只是个看客，这些故事都与我无关。</p>
-<p>“下一站。”</p>
-<p>车并不会停留，好像一直也不会停留。我始终坐在车上，时间缓缓地倒退，曾经的一幕幕慢慢呈现在我眼前。</p>
-<p>车又停了。门开了。</p>
-<p>是到站了吗？我起身踏上站台，走出车站。</p>
-<p>月色朦胧，出发的时候是下午，不知不觉已经是晚上了？</p>
-<p>周围都是陌生的人，陌生的街道。几辆归途的车驶过，昏暗的灯光也阻挡不了回家的心。</p>
-<p>不，好像也有点熟悉。</p>
-<p>一年前。那时的我好像就这样拥有了她，拥有了一切。</p>
-<p>一年前，我记得我就在这里向她告白，也是一个月色朦胧的夜晚。</p>
-<p>一年前，那时的我还怀揣炙热的心，那时的她还拥有羞涩的表情。</p>
-<p>一年前，一年的时光飞速溜走。</p>
-<p>我站在这里，深有感触。这一切的一切逐渐熟悉逐渐清晰，却又让人无可奈何。</p>
-<p>“在想什么呐？”</p>
-<p>我回头发现，她向我走来。恍恍惚惚，真实而又不真实。我向她挥了挥手，却没收到任何的回应。</p>
-<p>她双眼直视前方，面带微笑。她好像看不见我。</p>
-<p>她从我身边经过。</p>
-<p>就这样，再一次擦肩而过。</p>
-<p>如果明知道结局，那么还会开始吗？我坐在地铁上，低头沉思。留在时光中的都是那些闪亮的回忆，好像所有的难过与心酸都随风而逝，在风中飘荡。</p>
-<p>车又一次停下来，仿佛也是最后一次停下来。</p>
-<p>“终点站到了。”</p>
-<p>刺耳的女声响起时，也标志着旅途到达终点。</p>
-<p>这次会回到哪里呢？我想会是第一次相遇的地方吧。记忆中的梧桐树下是那么的美好。她拿着手中的课本静静地坐在树下的长椅上。</p>
-<p>如果不相遇，又会是什么样呢？现在坐在我身边的乘客会是她么？</p>
-<p>她好像能看得见我，向我微微点头。</p>
-<p>我点头致意，沉默，坐在她的身旁。</p>
-<p>如果选择开始，便不会回头，一去不复返；如果知道了结局，还会继续么？</p>
-<p>或许生活的乐章就是这样不确定才变得跌宕起伏。</p>
-<p>“你好，你是？”</p>
-<p>如果已经知道了最后还是在这里，还是在梧桐树下，我们转身离去，渐行渐远，如果。</p>
-<p>我望着她，眼带笑意。</p>
-]]></content>
-      <categories>
-        <category>docs</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>台球那些事儿</title>
-    <url>/docs/docs/%E5%8F%B0%E7%90%83%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>隐约记得从高中开始喜欢上台球这项运动。谁都有放荡不羁的时候，在高中那个中二的年纪，台球这项运动在我心中许许多多个染发青年围坐在一张桌子周围，嘴里叼着烟，甚至可能喝着啤酒，看着台球桌前的两个人挥舞着球杆，像挥舞着金箍棒一样指点江山，叱咤风云。这场面让我想起曾经的那些港片中描述的古惑仔，光头哥们带着自己的小弟手持棍棒的场面。那时候在高中还算是好好学生的我其实内心也是向往这些看起来中二但热血的活动，所以高中毕业之后便开始苦练技艺。虽不说球能不能打进，光是那一副架势就挺吓人。</p>
-<p>不过话说回来，周围绝大部分没有接触过台球这项运动的人可能确实更容易对台球有负面的情绪偏向。去成都的前一天和朋友去打台球，当被问及行踪时我坦率的说出台球室，结果毫无疑问的被冠上“出去浪”的罪名，而当我说在打乒乓球或者篮球的时候则从来没有这种烦恼。身边的朋友老师也会有一些自己独特的看法，不过我后来了解到他们的这种了解是基于他们所看见的路边或游戏厅里的新一代古惑仔们所产生的自己的一些偏见，罢了。</p>
-<p>高中毕业的那个假期可以称得上是最轻松的一个假期，没有作业的压迫以及升学的压力。于是乎我开始从零入门台球。依稀记得当时的市体育馆里面有两张台球桌，于是那里很快便成了我的革命根据地。台球桌紧挨乒乓球桌，所以专注于台球的我时不时也会受到来自隔壁乒乓老大爷的友好问候，与他们一起问候的还有他们的球。</p>
-<p>刚开始打的时候，觉得每一个球都很好打，每一个球都有下球路线。虽然现在看来很是可笑，不过这也许就是一种初生牛犊不怕虎的心理状态吧。有一天一个看上去年近五十的大叔从乒乓球台下来，来到我这边旁观。大叔穿着蓝色的运动服，脖子上还挂着条毛巾。估计也是技痒，很快他便忍不住亲自撸袖子下场。当了他几场陪练，听了一些经验之谈，我也是从那一刻起才真正入门。</p>
-<p>看体育馆大门的是个老大爷。大爷六十多岁的样子，精神矍铄，一看就是充分发挥了其职责的主观能动性，每天积极加入健身大军的队伍。我来体育馆很是频繁，一来二去也便相互熟悉。每天晚上咱都很有默契，当我看到他走向电闸的时候，我也主动地收拾东西准备离开。不过大爷有时候也过于死板，隔壁乒乓球比赛想延迟几分钟关灯都不行。毕竟每个人都有责任，也都有自己的难处吧，毕竟你大爷还是你大爷。</p>
-<p>上大学之后，我也就很少去体育馆了，也不知大爷近况怎么样。后来技艺略微精湛了些，便转移到家门口的一个台球室。</p>
-<p>当野史得到了正史的承认，当体制外的人第一次窥见体制内的生活，这种感觉还是相当奇妙。毫不犹豫的办了会员卡，从此以后这里便是我一个新的练球场所。老板人不高，精瘦精瘦的，戴个金丝眼镜居然显得还有点书卷气。每次看到他，他不是在擦球杆整理球桌，就是在陪媳妇儿。一家三口人和和美美，儿子刚上小学没多久，偶尔也能在球馆见到，每次碰见都闹着说不想写作业，妈妈总是很头疼的站在一旁，爸爸则手拿着球杆，就像是拿着鸡毛掸子一般具有威胁性，儿子穿双袜子站在球台上，手里握着一个球。孩子就是孩子，还是太小太年轻，明知道最终的结局还是要去写作业，又何必自讨一顿打呢？不划算不划算。每次看到这一幕，我也总是会心一笑，摸了摸自己的屁股，仿佛想起了自己曾经的那段噼啪岁月。</p>
-<p>老板的球技还是没的话说，和他打过几次每次都把我杀的片甲不留。一两百平的台球室里，始终有那么一张桌子是他留给自己的朋友们的。于是神奇而又理所当然的事情出现了，无论是上午一点还是下午一点，你总能看见那张桌子人满为患，一群三十多岁四十多岁的老男人们窝在一起，手一扬一指，此时此刻化身为最专业最幽默的解说员，对球场上两人的表现评价一二，张三力量不足，李四大力出奇迹。正如台球室的名字“部落台球”一般，这张桌子就像是一个部落的聚集地，聚集了一帮子喜爱同一项运动的人们。</p>
-<p>此后我去过很多家台球室，都会发现有这么张桌子。我始终也没想明白其中的道理，只能简单的理解为老板自身打球的需要。不过换个角度来看，这也可能是当年的那帮人们眼中的小混混们长大之后，其中的一个开了家店。一人得道鸡犬升天，一人开店哥们成仙。</p>
-<p>后来由于种种原因，我没在去过那家店。不过办的会员卡依旧还在，卡里面不到一百块钱的余额用了三年还没有消费完，这隐隐约约的也就给自己留了一个练球的场所。其实后来发现很多事也是这样，做的时候无意，但日后也不知不觉给自己留下了许多的退路与选择。</p>
-<p>上大学之后，选择哪家台球室对于我来说更像是选择游击战的场地一样。不过每当我回家的时候，我依旧有我自己的一个固定选择。当然不再是家门口的那个部落，而是在老城区的一个普普通通的球馆。舍近求远自然有舍近求远的道理，不然也不至于放假每天都开着车过去，从下午打到晚上。</p>
-<p>2018年刚去的时候，看店的是个大妈，据说是帮着她儿子看店。比较有意思的是她儿子是一个消防员，不过从我转移阵地过来之后一个月就辞职了。和部落不同，这边没有一张固定的球桌给老板的朋友提供方便，因为每一张桌子都有一定的概率被朋友们临幸。老板年纪也不大，可能只比我大个一两岁，所以作为同龄人的优势便在交流时与结账时充分体现。有时候实在不好意会给老板买包烟。他也毫不客气，拆了之后转手递给我一根，我总是会笑着拒绝。老板有时候也会不好意思，于是经常性的晚上回请我们吃外卖。没错，是我们，因为还有他的那群朋友。时间一久，不知不觉间我作为一个看客也变成了看客眼中的那个人。我开始享受到“专属”台的福利。</p>
-<p>当然，我的技术也得到进一步的提高，谋略与思考在台球运动中的比重进一步加大。所以其实我一直都认为，台球并不是一项俗气的运动，他只是很接地气。说简单些，苍蝇馆子也可能品尝得优雅端庄，米其林餐厅也可能吃得狼吞虎咽，看吃饭的人处于哪个阶段罢了而已。</p>
-<p>也是从这家店，我开始接触斯诺克，开始学习斯诺克的打法。</p>
-<p>不过好景不长，这家店很快就易手转让了。我打电话问了问老板，原来是长时间入不敷出，经营不善。嘿，像他这种能挣到钱才怪。所以人们常说义不掌兵，慈不掌财，是有相应的道理的。有趣的是，新的老板是原老板的小舅，虽然是舅字辈，但年纪真不大，估计也是沾了上一辈的光。幸运的是，原来的这帮老主顾并没有像敌军进城时被驱逐的手无寸铁的老百姓一样，我们反而继续得到了照顾。不过圈子也在不断的融合，很快这个新圈子里我就变成最年纪最小的了，周围的人有向30岁奔跑的趋势。</p>
-<p>新的老板说话很洋气，是不是还会蹦出一两个发音并不那么标准的单词，有时候还需要考虑一会才反应过来是什么意思。俗话说新官上任三把火，他来之后的第一把火就把我们的饭给烧没了。虽说上一任老板一直请客吃饭我们也知道并不是一个维持生计的法子，毕竟我们每天给他创造的利润有限，他又全部拿出来请客，甚至还倒贴，不过谁让一直白嫖一直爽；更主要的是球馆的一顿饭完美的衔接了中场休息。斯诺克比赛时间长，局数多，而吃饭的时间更像是提供了一个吐槽的机会，对手与对手在觥筹交错之间刀光剑影，共同许下友谊第一比赛第二的美好承诺。索性我滴酒不沾，更不会打醉球，在无形之中占了相当多对手的一个便宜。而当晚饭这个机缘没有了之后，大家往往相视一笑，相约明日再战。</p>
-<p>暑假的时候每天下午一点到五点走，炎热的天气与猛烈的暴雨都无法阻止我前来求学之心。打球不知不觉间变成了上班，而我的业务逐渐变得越来越熟练。学无先后，达者为师，所以当你看到一个犄角旮旯的箱子里的一个球馆内有一个年轻人和一个中年人勾肩搭背时也不要吃惊，毕竟技艺就是这么切搓出来的，感情也就是这么切搓出来的。</p>
-<p>由于打的时间久，虽然和新老板并不是很熟悉，但是久而久之他也可了我这个老顾客。台球室有一条不成文的规矩，一个人来练球是不收费的，这也是为什么我能够长时间出入台球室而不带上苦痛面具的原因。不然不是我捂着脸哭着出球馆，就是我捂着钱包哭着出球馆。后来有一天练完球，老板很反常的问了我一句不打了吗，我嗯了一声。只见他直接走到柜台后电脑前，熟练地移动着鼠标结账收费，一波操作直接迷惑了我。再给你打个七折，老板愉快地说道。</p>
-<p>好吧，可能不付钱练球只是我一厢情愿。</p>
-<p>不过一个星期之后，这个老板又跑路了。我后来因为离家上学所以差不多半年没去过球馆了。当我再回来打球的时候，老板又换了一个新的。所谓肥水不流外人田，新老板是第一任老板的大伯，四十岁左右，一看就是那种很木讷寡言少语的人。新老板姓王，周围的朋友都称呼他为老王。不过我总觉得老王这个称呼有一种怪怪的感觉，它总能让我想起存活于各大小说期刊中的隔壁老王。所以出于礼貌我称呼他王总。老板话不多，但心倒是火热，原来的晚饭又回来了。</p>
-<p>现在球馆的晚饭呐，称之为晚宴也不为过。球馆隔壁是我们当地一个非常有名的私房菜馆，饭馆老板姓老八，所以饭馆名就跟着老板，叫老八私房菜。每天晚上，王总就喊着八哥给送菜到球馆来。不一会，一张小小的木质方桌边便围了一大帮人。这一些无一不年愈不惑，作为唯一的一个小年轻的我在人堆里格外扎眼。同样都是晚饭，这席间的交流相比于之前则更多的充满了接地气的东西。没有好高骛远的谈论，有的只是最真实的柴米油盐，还有一些调侃与玩笑。有一次我无意中了解到原来王总以前喊老八送菜的时候，老八利用谐音占了王总的便宜，嘴里嘟哝着又给不成器的儿子送饭。从那以后王总就称呼他为八哥，原因是谐音八哥鸟。后来有一次也是在饭桌上，我了解到前一任老板是因为欠债太多跑路了。联想到曾经我来练球还收取我费用的老板，我沉默不语。可能那个时候就已经火烧眉毛了吧。</p>
-<p>在一起吃晚饭的这一波中年人中绝大部分我都交过手，也有机会赢几场比赛，不过输的几率更大些。输赢乃兵家常事，反倒是在此过程中我不断吸收他们的思路与长处，逐渐来弥补自身的不足，以致于最终也能和他们一起赌球坐庄。这是后话。</p>
-<p>不得不提的有这么两个人。一个是我的教练，据说是曾经某一年华东赛区斯诺克总冠军。所谓真人不露相，没想到这么个人居然生活在这么一座小城，舒舒服服安逸的生活着。我刚来没多久便和他过了手，除了收获了一堆的败局，也收获了他半年的教学。由此我一个杂牌军开始正式变成一个记名正规军。在这半年的学习中，我的斯诺克逻辑不断变得缜密，杆法灵活多变起来。</p>
-<p>教练也算是半个奇怪的人。每当我出现在台球室时，我也总能看见他在忙碌的弯腰抬头出杆挺身，有时还会扬扬手去让我给他买一包烟。烟有了，跑路费也有了，接下来便是茶水时间。有时他会和我聊一些他打斯诺克的经验与体会，有时则聊一些奇怪的东西。他作为曾经的一个冠军，安居于一个小城市，也算是深藏功与名。后来有一次吹牛他无意中提到，他现在在玩玉。</p>
-<p>嘿，有意思。我认为两种人最为深藏不漏：一种是玩彩票的人。全国各地大大小小的彩票站里你总是能看到有些人，双手交叉于胸前，抬头看着墙上老板为他们精心设计的每一期彩票开奖号码的折线图，若有所思。有一次我也学着他们盯着墙上的折线趋势图看，大眼瞪小眼盯了半天也没盯出个所以然。这些人往往一坐就是一下午顺带一晚上，有时候晚饭也是就地解决。没准儿彩票站和台球室一样，也有一大堆老炮儿，隔三差五聚在一起讨论最新的彩票走势，吹牛打屁。第二种人就是玩玉的人。这些人有个非常鲜明的特点，你总能在他的脖子上手腕上或者其他部位甚至牙齿都有可能看见玉。这些人也不知道怎么挣钱怎么养活自己的小家庭，但最奇妙的就是你会发现他们过的很挺好甚至还很上档次。没准儿脖子上挂着的就是康熙乾隆时期的玉，就像教练脖子上那块一样。</p>
-<p>说到奇怪的人，就不得不提球馆里的一个胖哥。大家都称呼他为宝哥，所以我称呼他为宝叔。宝叔这个人是一个妥妥的胖哥，挺个圆滚滚的肚子，笑起来特别憨厚，因此人也显得特别老实。不过在球场上的宝叔则是个林火的胖子，弯腰时居然能控制肚皮不贴到球，而母球在他的球杆下被控制的游刃有余。后来有段时间我在外没有回来，结果回来那天正巧遇见他也在打球，一番交手之后意外的发现他已经不复当年勇，一经询问才发现原来他也很久没有打球，所以手感不佳，控球略显生疏。于是索性不打球，他也不说话，我就只好喝着茶企图缓解这久违的尴尬。所谓不鸣则已，一开口就是石破天惊，胖哥侧着头眯着眼对我挑了挑眉，问我有没有兴趣来赌球。我丈二摸不着头脑，赌啥球。他也没做声，指了指手机露出一副奸计得逞的表情，说，稳赚不赔的生意。这时候另外两个老炮儿多半是听见了我们的谈话，也过来凑了凑热闹。原来宝叔在赌球，赌足球比赛的输赢。我对足球近乎一窍不通。</p>
-<p>看着他笃定的眼神，他们俩毫不犹豫的拿出了背着老婆藏的小金库，我也掏出了藏在鞋底已久的钱，加上他自己的赌资在一起凑了一两万。投进去没多久，一个多小时，好家伙，我直接赚了小半年的生活费。我望着他的眼神里充满了复杂的感情，有敬佩，有疑惑，还有一种豁然开朗的感觉，终于明白这胖哥为啥能和别人打一局比赛押几千块了。宝叔笑的跟如来佛似的，拍了拍我的肩膀，说这只是碰巧包赚的，也不一定就能遇的上。嗯，或许这只是一种谦词而已，不过以后每次遇见宝叔，我都会问问有没有可以投资的玩意儿，他吃肉我跟着喝汤。</p>
-<p>宝叔还经常在球馆里打有赌注的比赛，一局少则一包烟，多则五千上万，反正最初的我每当看到这样的场景总是目瞪口呆。不过久而久之也就习惯了，甚至自己的心也开始躁动起来。毕竟人嘛，天生都有赌博的精神。没想到宝叔有一天还真的和我赌起来了，赌注是一包烟。毫无疑问我输了，老老实实给他买了一包烟，双手亲自奉上。不过自从那以后，我就开始好风凭借力，扶我上青云。球馆只要来新客参与赌球的游戏时，宝叔便会衡量衡量对方的水平，如果比我差，那么他的对手便是我，他的赌注也正在奔向我口袋的路上。所以说塞翁失马焉知祸福。以一包烟为代价换来了更大的利润，这就是福兮祸之所获，但毕竟风水轮流转，阴阳相转的事情听的也不少。打了几次之后我便不再赌球，从此金盆洗手，告别赌坛，希望几天之后江湖上仍然能够流传那个年轻人的故事。</p>
-<p>后来啊，由于距离以及越来越忙碌，这家台球室我已经很少再去，不过倒是在我现在所在的城市又发现了一些新的欢乐的场所。新发现的台球室位于一个很偏僻的地下室，所以一年四季都比较潮湿昏暗。最遗憾的是，这家球馆没有斯诺克桌，索性只能打中式八球。不过略微丧失专业性的台球成了一种更好的大众娱乐方式，每逢有空我的朋友便会约我一起去这个地下室寻找台球的快乐。</p>
-<p>刚开始去这家店是去参加台球社的活动。每个周六台球室都会组织台球比赛与练习，而我作为一个编外人员常常浑水摸鱼，也跟着他们一起快乐。台球室的加盟也在不知不觉中使这家店成为了学校指定的官方活动场所。球馆的老板是个东北人，基本不来球馆，我也只见过那么一次。而天天在球馆坐镇的是他的弟弟。两个人说话的口音都带着浓浓的东北烧烤味，为人也比较豪爽。来这边基本都是和朋友一起，所以极少与老板过手。</p>
-<p>去成都的前一天晚上，一个在美国旅行时认识的哥们约我去球馆打球。我看了看第二天早上7点半的机票，看了看手机上的讯息，想了想屏幕对面他的神情，犹豫再三还是答应了。本以为只有我和他两个人，没想到还有另一个哥们和我们一路。我们三走到大门口时，正好遇到迎面走过来的四个人，其中一个应该是他们两的朋友，身上还飘着淡淡的酒气，估计是才参加完什么聚会回来的。</p>
-<p>就这样又半路截胡了一人，我们一行四人坐上出租车便直奔目的地而去。出租车狭小的空间不一会便被欢声笑语所充斥，短短的时间四个人便相识相知相互熟悉开起玩笑。这次出行另外两哥们都已经顺利保研，无事一身轻。</p>
-<p>和我认识的那个哥们叫小侯，长得也像小猴，一看就是那种特别机灵的人。我们在美国旧金山的时候，当时正值香港出事，我原来计划从香港转机回国的计划也被迫中止，只好选择从北京转机。巧合的是我和他买了正好是同一班飞机。临行的前一天，我们两坐在公寓楼下的沙发上，翘个二郎腿商量着如何度过这一漫长的夜晚。飞机是早晨7点起飞，想睡觉恐怕不太现实。于是我们索性选择了通宵打球。没错，通宵打台球，打了近7个小时。这是我迄今为止经历过的和台球相关的最离谱的事情，我不记得是谁提出这个想法是谁鼓动对方付诸实践，我只记得打到最后我已经两眼昏花，球都有重影了。这恐怕是我距离打醉球最接近的一次。也正是打球打出了交集与交情，回国后我们也经常约球。</p>
-<p>晚上回去的时候，我们还意犹未尽，我甚至都忘了早晨的飞机，另外一哥们则直接搓起了麻将。好吧，可能我还是不够清闲。</p>
-<p>现在呢，由于所拥有的空闲时间越来越少，我很少在打台球了。不过出去旅游的时候，每当路过球馆，我还是会忍不住打两杆。技术早已经不及当年，打的球也是歪歪扭扭毫无章法可言，所以有些时候啊，每打一杆之后我就会很生气，生气自己打不进，生气自己没有当年的自己厉害有技术。所以我到底是在生谁的气呢。</p>
-<p>​	不过生气归生气，很多事情本身就是这样，当你缺少时间的投入，自然也会是颗粒无收。毕竟要做的事情太多，总不能把时间花在同一件事上太久，总要给其他事情让路。不过，当我再想起台球时，我也总会在心里描绘出我打球的动作神态，以及宝叔王总那一张张记忆深刻的脸，这些人将永远给台球这项运动打上深刻的烙印，让我想起时不免感叹唏嘘。</p>
-]]></content>
-      <categories>
-        <category>docs</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>思想观的变化录</title>
-    <url>/docs/docs/%E6%80%9D%E6%83%B3%E8%A7%82%E7%9A%84%E5%8F%98%E5%8C%96%E5%BD%95/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>近来一直想写篇这样的文章，一来算是整理自己读书带来的思想与价值之转变，二来是给自己过去的单一的思想和现在稍微成熟些的思想做个总结与反思。思想的变化总是与书和事分不开，所以我打算从两方面给自己做一个记录。</p>
-<p>年少时思想总是很单纯，读书便为读书，心无杂念。相信很多人儿时都曾被问过这样一个问题，长大了想做些什么。这个问题问得好啊，问的既远，同时又寄托了家长的殷切期望。现在过年时偶尔也会有哥哥姐姐问着自家的小朋友，小朋友支支吾吾的说了句，我想当一个老师，因为可以管小朋友。在一片哄笑中他的妈妈或者老一辈的亲戚会告诉他，以后呀要好好学习，将来赚大钱。</p>
-<p>其实相比“学而优则仕”这种传统观念来说，我以为现代观念已经有了长足之进步。不过学习读书在多数人眼里始终是与赚钱划等号，这可能与“读书改变命运”的思想观念密不可分。</p>
-<p>印象中我小的时候也被问到过相似的问题，只不过答案已经记不清，或许从来就没有过答案，只是和别的小朋友说个一样的应付一下便完事。所以我现在认为当时的自己有无读书的目标是一件非常模棱两可的事。但我可以确定的事，无论儿时的我有没有说过将来想做什么，我以后将做的事都不可能是儿时口中玩笑般的美好憧憬。</p>
-<p>其实直到上高中时，我都没有想明白为什么要读书为什么要上学。那时的我只知道，初中读完升入高中，高中读完进入大学，大学之后硕士博士，彷佛读书拿学位是一件顺其自然人人应做的事。成绩与排名带来的满足感和自信感也逐渐麻痹了我的心智，使我沉浸在可能算是“小我”的世界里。这里就像是一个舒适区，我不想轻易走出，因此思想上容易懒惰懈怠，也就懒得去想除了学习之外的事情。我这里指的学习，只是指应付高考而学习的六门功课。不过这也有可能是一个高考生最好的状态了吧？</p>
-<p>后来有一天，我无意中想到曾经的那个问题：为什么要读书，为什么高一念完了念高二。这些问题困扰了我很久，也正是在那段时间我读了很多的书，从我以前的日记里我还能找到我对这些问题的记录与想法。最终，我形成了我自己的看法。读书的目的，是为了帮助更多的人，是为了有能力帮助更多的人。读书是获取知识的一种手段，拥有了知识即掌握了最重要的武器。至于高一高二之分，我觉得甚没必要，这只不过是为了阶段性教学能拥有一套较为完整的计划。知识毕竟不分高一高二，正如学无先后，达者为师。</p>
-<p>可能正是处于那个意气风发的年纪，想问题也一根筋，认死理。不过我对读书学习最初的认识已经建立起来，现在开了上帝视角的我以为这种观念并没有偏离正轨。</p>
-<p>进入大学之后，我频繁接受马列主义以及爱国主义的熏陶，一度立志为国做贡献。时至今日我还能够记得我与好友坐在食堂二楼的椅子上，告诉他，我今天所学，是为了国家将来所用，所以今日的我，定当努力学习。刚入校的我，每做任何一件事，每学任何一门课，每参加任何一次会议，我都会想这对当下的我和未来的我有什么帮助，而不是去想这会让我得到多高的分数。正是因为有着这种想法，我上半年的生活相当充实且正能量，成绩自然而然也不差。我始终以为成绩、分数、排名是在正确价值观指导下进行学习所带来的副产品，而不是追求的目标与学习的目的。</p>
-<p>真希望后来的我也能一直能坚守这份初心。欲戴皇冠，必承其重，刚开学的我，什么外来之物都没有，无姓无名。一场考试之后，排名带给你的除了头上的光环，也有喘不过气的压力。我意识到要想继续做稳第一把交椅，就必须付出更多的努力。所以毫无疑问，下半年的收获很丰富，但生活非常的辛苦与劳累。我后来意识到，这是因为我学习的目的变了，我变得浮躁并且更加注重所谓的排名与名气。结合之前的经历，我顿时就感受到，名和利这两者就没一个是好东西。在此二者的长期驱使下有谁还能坚定的守住本心呢？无非是时间与多少的问题。从那时起我便坚定不从政的职业态度，即使我知道从政并不意味着贪污与腐败，但是这条路上会有数不尽的诱惑，甚至会有主动上门的诱惑和不得不收的诱惑。</p>
-<p>进入大学之后，我能够很明显的感觉到自己的视野变得开阔，同时也会因为种种事情一次又一次的冲击着我看待读书观点的高楼大厦。后来有一天，我突然得知我的朋友的父亲去世。想到一个星期前还送我和朋友回学校的他，一个星期之后却不在了，我有些恍惚，有些不真实，我感觉我坚信的读书报国论受到了最强悍的一次冲击。</p>
-<p>我们大部分人从小生活在一个提倡美化的环境中，提倡学习的目的是为了报效社会报效祖国，而对参杂个人因素的目的很多情况下都嗤之以鼻。不论学习的目的具体是什么，我想每个人都会有那么一段日子是真心把回报国家社会作为内心真实想法而努力，不过现实是绝大部分人最终还是会被生活所打倒，为茶米油盐而忙碌终生。</p>
-<p>我想表达的和目标远不远大没关系，我想说的是，这种大规模的采样结果绝非偶然。当时我感触颇深，有病的人帮不了，有需要帮助的人帮不了，连想着去资助都要考虑各方面的压力与因素，学习究竟是为了什么。心里想着那么多宏伟的目标，可对于我来说今后能否给自己糊弄过去都是个问题，还怎么去谈这些空洞的目标。</p>
-<p>以前看到水滴筹总是会捐一些，无论多少，可是现在也许都不会点开；以前看见生活困难的人总想着怎么样能尽自己的一份力帮助他们，可是现在也许也只会感叹一句生活不易。或许还有很多个这样的以前这样的现在，或许归于一句话就是看得多了，也许就麻木了。就算帮得了一两个，也帮不了那么多，心有余而力不足。</p>
-<p>或许觉得能帮一个是一个，或许说学习能让你有能力去帮助更多的人。只不过对于这种话，我已经不再相信了，我感觉我甚至可能大部分人未来的十年基本已经确定，读研，也许读博，工作，没了。我甚至能够想象十年后的我会想些什么思考些什么。现实总是残酷的，我个人的意志和理想就是在两年半的大学时光里不断被消磨，曾经的满腔热血壮志凌云也不断的回归到现实生活，毕竟谁也无法逃离它，只活在自己天马行空的世界里。</p>
-<p>记得曾经和一个家长交流时说到，做好自己的本职工作，不给社会添麻烦，在有能力的范围内关心别人，就算是为社会做贡献。当时觉得是最低标准，现在再想想觉得真的能做到其实还挺难。光是能力范围内就很难界定。</p>
-<p>当我30岁40岁时，假设我能活到那么久并且我拥有独立生存或者养家糊口的能力时，我又有多少能力帮助别人，或者说以什么形式帮助呢。物质？又能提供多少物质帮助？精神？接受十几年甚至几十年教育的人就只能拍拍别人的肩膀说声加油或者节哀？这就是我纠结和难过的点啊。</p>
-<p>我已经不止一次质疑我为什么要努力学习，只不过从来就没有答案。</p>
-<p>我知道自己的能量首先得强大，才能坚守住初心，我也在努力的做，成绩算不上好但也绝对不差，可是一想到就算我做的再怎么出色，看到需要帮助的人我还是帮不上。生活从来不容易，只有相对轻松这一说法。也许我在别人眼中也在费力的乞讨着生活，但我怎么样不重要，重要的是，就像小红花里所描述的那些，我只能看着老奶奶孤独地等着她被拐走的孙子有一天能回来，只能看着抗癌战士一个个癌细胞被带走，只能看着学生在他这个年纪承担着生活的重担，连帮助时还怕触及内心而小心翼翼，只能看着他们费力的与生活斗争。</p>
-<p>我很难过，也很抱歉。</p>
-<p>从这时起，我的思想发生巨大的转变。我渴望在书籍里能够找到解决我类似心病的解药，我也渴望从师长从同辈间得到解答。我看了很多书也问了很多人，只不过从未得到答案。客观情况一直真实存在且发生，我深感无力阻止，更无力帮助，这是一种无奈的无力感。我的老师告诉我，有很多人在为他们而奋斗，我深以为然，然而我眼前看到的听到的却一直在告诉我，你还是没办法解决他们的困难，正如一屋不扫何以扫天下，眼前的困难都解决不掉，如何去谈更大更深层次的困难呢。</p>
-<p>我怀揣着一种混沌的价值观浑浑噩噩的过了一年。这一年里我愈发感觉到世间事物与人们行为的可笑，也愈发的迷茫与不安。我和同辈多次交流思想，也从未有顿悟之感。终于，当我再次读完道德经之后，我选择了老庄思想作为我逃避现实的一个精神地。虚空的虚空，一切都是虚空，我深以为然。我逐渐学习着看淡对周遭人的评价与议论，看轻周围事件对我的潜在影响，我只希望能够和光同尘，知白守黑。那段时间我研读了相当多的老庄哲学以及空性哲学。</p>
-<p>这样的状态维持了整整一年。这一年我不争不抢但也不惧，所有机会全部拱手让出，所有岗位凡是不指名道姓需要我皆不申请。也是在这一年我开始有点消极的思想，长期的这种所谓“无为”的处事风格让我觉得凡事都没有意义与价值，因为意义全部是人所赋予的，而人本身是否有意义尚未定论，又怎么能随意给物下定意义呢。</p>
-<p>什么时候开始意识到不对劲呢，我想大约是最近几天吧。最近高考放榜让我想起了三年前的这个时候。突然思绪如潮水般涌上心间，不由得感慨万千，内心触动良多，满满的遗憾感随之而来。也正是这个时候，我突然意识到，我一直所接受并已经实践的老庄哲学空性哲学，它只是我的一个避风港，一个逃避现实的场所，一个安慰自己的精神乐园。这和吸食大麻又有什么区别呢。又联想到之前很多件告诉自己无关紧要的事，其实内心多少不还是有些波澜吗？我以为真正的放下与不争不抢，是那种完全不在乎，而不是内心会有起伏甚至是遗憾。</p>
-<p>老庄思想不是一种积极的处世态度，我经历了一个从抗拒到接受的过程。时至今日，虽然我已从老庄哲学的安乐椅中站了出来，但不得不承认的是，空性哲学在我的身上留下了深刻的烙印，我的处事已经深受老庄哲学的影响。现在的我偶遇机会仍会拱手让出，因为“别人更需要”这种观念已经在我脑袋里扎根。这也许是一种崇高的思想，只不过生错了年代；被人借了三个月的碎银子不还，也就不要，因为不想因此撕破脸，更觉着这种身外之物与人相比甚是无所谓。</p>
-<p>回顾短短20年思想变化的过程，我认为有三个重要的转折点。我自认为我具有强烈的悲悯心与同情心，这可能是引导我思想变化的最根本的原因。年少时不懂事，以为学习就是简单的读书争名次，后来逐渐接触到更加深层次的道理，明白了要想改变那些生活在水生火热之中的人们的生活，要想让人们能吃的上饭看得起病受的了教育有地方住，就要努力学习，这是我思想的第一个转折点。我以为这是最宏观的方向，我们每个人在做的事都是在为这个方向更进一步而努力。后来我终于感受到自己的渺小，自己的无能为力，自己没法给普天下所有需要帮助的人给予帮助，哪怕是一句安慰的话语都显得力不从心，因此我选择老庄哲学作为精神的避难所，这是我思想的第二个转折。第三个转折的时间就是最近了，我终于发现我所信仰依靠的哲学彷佛是也只是我的一个安乐花园，只是我不忍心面对现实众多苦难从而选择的一个逃避的场所。几年前的我因为高考改变了思想，谁又能想到几年后的我同样也是因为高考再一次转变了思想，一轮一回，冥冥之中，自有天意。</p>
-<p>其实每次思想发生重大转变前夕，我都会非常的迷茫，三年前的我是这样，现在的我也是这样。我从未想到有这么一天我会否定我之前的行为，我会突然间的认为过去种种行为写满了“逃避”二字。每逢此情此景，一种颓废的荒唐感便会袭来全身。但也正是因为经历过荒唐感之后带来的那种玄之又玄的体会，我才相信是有“开悟”一说，我才能够相信我的思想变得更深层次。至于是进步还是退步，是先进还是落伍，是积极还是消极，是正面还是逃避，只有等以后再回头自我反思之后，才能下结论。</p>
-<p>我现在正身陷于颓废的荒唐感之中，但我认为能够否定过去的思想行为便是种改变，虽然不一定能有所改观，毕竟行为习惯已经慢慢固定，思维模式亦然。我想起100多年前的人们探索救国道路的情景，从师夷长技以制夷，到百日维新，到新文化运动，再到马列主义，正确的道路就是在这种一步步地修正与改造中被发现的，所谓不破不立是矣。人的思想观也是，至少我已经接触过不同的主义与哲学，并不是说他们都不合适我，而是他们出现在了并不适合他们长期生存繁衍的、与应该形成这些思想观点的年龄不相符的我的脑袋里。在错误的时间错误的地方误打误撞遇见了也许是不合适的思想，多数人一辈子都是这样。所以一辈子上下求索，潜心问道，如是。</p>
-<p>不知何时能拨云见日 ，甲光向日金陵开。我想我必会寻找到新的思想作为指引我的旗帜，而这一次，我相信我的思考将会更加成熟。</p>
-]]></content>
-      <categories>
-        <category>docs</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>末日的审判</title>
-    <url>/docs/docs/%E6%9C%AB%E6%97%A5%E7%9A%84%E5%AE%A1%E5%88%A4/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>周日，阴雨的早晨。</p>
-<p>早期智人伸了一个懒腰，揉了揉尚未睁开的双眼，抬起还没有完全清醒的脑袋，向洞口摇摇晃晃地走去。迎接他的不是往日的煦日和风，而是滂沱大雨。他慌忙躲进洞中。这下，他完全清醒了。</p>
-<p>早期智人逐渐进化成了现代人类。</p>
-<p>周日，阴雨的早晨。</p>
-<p>现代人类伸了一个懒腰，揉了揉尚未睁开的双眼，抬起还没有完全清醒的脑袋，打开木制的门，摇摇晃晃地走出去。迎接他的不是往日的煦日和风，而是滂沱大雨。他慌忙躲进屋内。这下，他完全清醒了。</p>
-<p>雨哗哗的下个不停，天上的窗口好像也打开了。连续几天雨一直下。四十天过去，雨还在下。终于，这场持续很长时间的暴雨停了下来。雨水淹没了平地，淹没了高山，禽鸟亦无踏足之地，一切生灵皆丧命于这场暴雨之中，唯独诺亚一家进了方舟，得以存活。</p>
-<p>现代人类逐渐进化成了现代智人。</p>
-<p>周日，阴雨的早晨。</p>
-<p>“据最新消息，航拍卫星在阿勒山附近再次拍到了类似于诺亚方舟的遗骸，船身……”迈克教授正坐在临时搭建的大本营中避雨。“奇怪的天气，原来说是最近一周晴朗无云，天怎么说变就变。”迈克教授不免发发牢骚。</p>
-<p>迈克教授是一名以色列考古学家，也是一名登山爱好者。他曾经征服了许多世界著名高峰，成功登顶珠穆朗玛峰的事更是被考古学同行们大加赞赏。按照人们的惯性思维，考古学家总是那种戴着眼镜身体瘦弱的人，但迈克教授却完全不同。</p>
-<p>“这座山里拍摄到了诺亚方舟？笑话。现在的人们，总是喜欢将神话故事与现实混为一谈。”迈克教授不由自主的感叹道。考古多年，这类事情他见得多的去了。</p>
-<p>雨终于停了。他带上装备，收拾好东西，又继续向上爬。此时此刻，迈克教授正在阿勒山上。他不知爬了多久，忽然在山上发现了一个洞口。于是，他便选择在这里稍作整顿。可在他进入洞口的那一瞬间，他目瞪口呆：洞中的墙壁上画的都是些什么！考古学家的本性流露出来，他忍不住走近观察，这，是原始罪恶么？难道这两个人是亚当和夏娃？这又是什么？他一幅接着一幅地看，直到最后一幅壁画。</p>
-<p>洪水。</p>
-<p>150天的洪水淹没了大地淹没了一切有生命的东西。他惊得说不出话。这些壁画，据初步判断，时间应该在几千年之前呐！他不免低下头沉思。忽然，他看见远处似乎有什么建筑物。他小步跑去。洞内越来越宽阔，前方的建筑也越来越明显。没错，是一个祭坛。他不禁想起《圣经》中的话：“诺亚为上帝建了一所祭坛。”</p>
-<p>忽然，他大叫一声，应声倒地。</p>
-<p>他是被人从身后击昏在地。</p>
-<p>再次醒来时，天气是那么的晴朗。他揉了揉尚未睁开的双眼，抬起还没有完全清醒的脑袋坐了起来。迈克教授慢慢的回忆起自己的遭遇，他猛然起身，想去找那个洞口时，才发现自己正坐在阿勒山的山顶上。</p>
-<p>“莫非，诺亚方舟的事历史上真的有过？那将是惊天动地的发现啊。”</p>
-<p>而此时此刻，比起这些，他更享受站在山顶向下俯视的感觉。他再次出发，准备下山返回。然而当他下山时，他的脚步像是受到了什么力量的牵引，毫不犹豫的朝一个方向走去。</p>
-<p>“我这是怎么了？”他自言自语道。“起来，向前走。”他忽然感觉到心里有什么声音在一直提醒他。终于，他停下了脚步。与脚步一起停下的，还有他的眼睛。</p>
-<p>眼前的，正是迷失多年的诺亚方舟。</p>
-<p>绕着尚可踏足的地方走了一圈，他不禁为这只方舟而震撼。当时的人们怎么会有如此的力量建造这么雄伟的方舟。他最终决定打开木门。歌斐木制的船身有些已经腐蚀。“飞鸟各从其类，禽兽各从其类，一公一母地带入方舟。”望着眼前一个又一个独立而精致的小室，他不由的感叹。</p>
-<p>内部构造是多么精美啊！他想起了《圣经》上的话，“分三层”，于是他想，他看到的可能是第一层。一根又一根的歌斐木堆在一起，舟身居然还有透光处。他找到了类似于楼梯的构造，便爬了上去。</p>
-<p>船身在缓缓的倾斜。</p>
-<p>第二层与第一层结构相仿。唯一不同的是，第二层所分的空间比第一层更细致，也更狭小。</p>
-<p>船身在缓缓的倾斜。</p>
-<p>第三层也是如此，只不过，空间更大了些，倒像是诺亚的住所。</p>
-<p>方舟笔直的坠落。</p>
-<p>迈克教授正躺卧在他所进入的那个神秘山洞中，伸了一个懒腰，揉了揉尚未睁开的双眼，抬起还没有完全清醒的脑袋，摇摇晃晃地走出去。突然，他发现似乎有一个人，正在缓缓的走进山洞。那个人面貌模糊不清，但好像在盯着墙上的什么东西。他找了找身边可以用的东西，只发现了背包里的铁棍。那个人越来越近，直到他完全停下脚步。迈克教授悄悄地走到他身后，突然一棒挥去，那个人应声倒地。</p>
-<p>迈克教授应声倒地。</p>
-<p>迈克教授发现自己正躺卧在一条巨轮上。不，说是巨大的船也许更加合适。歌斐木制的船身摇摇晃晃。“这是在哪？”迈克教授四下里看了看，自己好像正坐在船的顶层。他慢慢的回忆起自己的经历，慢慢地想起自己击昏的那个人惊恐的脸——那不是他自己么！</p>
-<p>“这是怎样的遭遇，我居然自己击昏了自己！”他顾不得去解释这些神秘的体验，连忙爬起来，向周围走动。</p>
-<p>他找到了类似于楼梯的结构，便爬了下去。下面，都是飞禽走兽，各从其类。他的头突然有一点昏昏沉沉，“飞鸟各从其类，禽兽各从其类，一公一母地带入方舟。”他忽然想起什么，匆匆忙忙地爬上去打开了窗子。</p>
-<p>天正在下着瓢泼大雨。</p>
-<p>天终于晴了，他再次打开窗户，放出一只乌鸦去。那乌鸦飞来飞去，直到地上的水都干了。他又放出一只鸽子，要看看地上的水退去了没有。但遍地都是水，鸽子找不到落脚之地，就回到船里面。迈克教授等了几天又把鸽子放了出去，到了晚上，鸽子飞回到他那里，嘴里叼着一个新拧下来的橄榄叶子。迈克教授就知道地上的水退了。当他七天后再次放出鸽子时，鸽子就不再回来了。</p>
-<p>地上的水好像都退去了。于是，迈克教授打开了船的窗子，船的门。</p>
-<p>洪水汹涌着灌进船身。</p>
-<p>“你醒了。”</p>
-<p>“你还记得发生了什么？”</p>
-<p>迈克教授站在一个雾气缭绕的园子里，不知所措。</p>
-<p>“我记得我发现了一个神秘的山洞，进去之后看到了许多古老的壁画，然后就被人击昏了。”迈克教授停了下来，若有所思。“但那个人好像是我自己。”</p>
-<p>“我醒来时发现自己正在阿勒山的山顶。在下山途中，发现了诺亚方舟……”</p>
-<p>“你还记得什么？”那个声音打断了他，继续问道。</p>
-<p>“我记得我又回到了山洞中，并且出于防备，击昏了一个人，但，我发现击昏的人好像是我自己啊。”迈克教授好像十分苦恼，他似乎找不到什么合理的理由来解释这一切。</p>
-<p>“我好像又回到了方舟上，不过天正在下暴雨。等到雨停后，我打开了门，后来就不知道了。”</p>
-<p>“你还记得什么？”那个声音继续问道。</p>
-<p>“我说过了我记不清了。”</p>
-<p>“你还记得什么？”那个声音继续问道。</p>
-<p>“这是哪？”迈克教授没有理会那个声音，因为他的心中有很多的疑问亟待解决。</p>
-<p>“这是伊甸园，独居的民最后的归宿。”</p>
-<p>“独居的民？我怎么到这里来了？”迈克教授恨不得把所有的问题一连串的说出。此时此刻，他的心中充满了疑惑，他对自己所经历的一切感到十分恐惧。</p>
-<p>他并不知道回答他的声音从哪里来，像是从天上，又像是从心里；他也不知道对他说话是谁。但他就是有一种感觉——那个人好像知道一切。</p>
-<p>“独居的民是上帝的选民，他们终将万民之中分离开来。”</p>
-<p>“你是谁？”迈克教授目瞪口呆而又惊慌失措的看着周围的一切。雾气从地上腾出，滋润遍地。四条河流从那地流出，环绕全地。</p>
-<p>“他是谁并不重要，重要的是，你是谁。”</p>
-<p>迎面走来一位白衣老者。他慈祥的笑容中又好像多了一份圣洁。“你是上帝的选民，你是那独居的民。万物的结局近了，所以你要警醒自守。”</p>
-<p>“您是？”迈克教授忽然想起，他可能是一位先知。先知并没有回答他，他只是笑了笑，若有所思地说道，“到那时，兽的印记会标记在人们的身上，又会有各种的异象……”</p>
-<p>“您能告诉我为什么我会在这里么，我现在一头雾水，我经历了到底是些什么？”迈克教授略带恐慌的打断了他。先知并没有生气，依然温和地笑着。</p>
-<p>“今天是周日，是上帝的安息日。你闯入了上帝曾与诺亚立约的圣殿。确实是你自己击昏了自己，只不过被击昏的，是你已死去的老我。你现在是一个新造的人，上帝拣选了你。”</p>
-<p>“你经历的一切，只不过是上帝的灵临到了你到身上，是你被上帝拯救的全过程。从今以后，你就是一个义人。因为时候已到，上帝必将你们从万民中分离开来。”</p>
-<p>迈克教授听得不知所措，“您的意思是，上帝真实存在，而且还要毁灭万民么？”他有点难以置信，但事到如今，他仿佛找不到什么更好的理由去解释这一切。他忽然想起了曾经他的教授说过的一句话：一切问题的根源到最后都要用神学来解释。</p>
-<p>“这是个罪恶的时代，人们放纵情欲与肉体，沉溺在罪恶之中。你们的仇敌魔鬼如同吼叫的狮子，遍地寻找可吞吃的人。这个时代不再会有诺亚，也不再会有方舟。”</p>
-<p>迈克教授目光呆滞，他看着眼前的先知，这位老者，感到有些意外。他好像是……</p>
-<p>他是在山洞中被自己击昏的人！迈克教授满脸惊恐，哆哆嗦嗦的伸出一只手指向先知，“你不是……”</p>
-<p>“没错，我是你。我也是诺亚。”先知笑了笑，逐渐转身消失。</p>
-<p>七位天使掌管着最后的灾，上帝大怒的七碗倒扣在地。</p>
-<p>生命册缓缓打开，世界迎来了末日的审判。</p>
-<p>那是一片新天新地。</p>
-<p>人们再次发现迈克教授时，是在阿勒山的一个山洞里。令人匪夷所思的是，此时的迈克教授目光空洞。而且在山洞里，人们还发现了另外一具没有头颅的尸体。与此同时，人们还走进了方舟中，并进一步确认了这就是神话故事中的诺亚方舟。</p>
-<p>迈克教授仍然目光空洞的待在山洞里。几天没有进食，但他的生命特征仍然明显。</p>
-<p>“你们看墙上！”一名科考队员吃惊的喊道。</p>
-<p>迈克教授突然间笑了笑，他飞快地奔向洞内，来到祭坛前。</p>
-<p>山洞轰然倒塌。</p>
-<p>再也没有方舟的出现。</p>
-<p>天开始下起了一场永不停息的雨。</p>
-]]></content>
-      <categories>
-        <category>docs</category>
-      </categories>
-  </entry>
-  <entry>
     <title>书院记忆</title>
     <url>/docs/docs/%E4%B9%A6%E9%99%A2%E8%AE%B0%E5%BF%86/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>刚入校的时候，宿舍楼下是一片很大的空地。咱们这个宿舍楼更像是一个大一些的四合院，楼与楼之间有联系，宿舍与宿舍之间也有联系。</p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>刚入校的时候，宿舍楼下是一片很大的空地。咱们这个宿舍楼更像是一个大一些的四合院，楼与楼之间有联系，宿舍与宿舍之间也有联系。</p>
 <p>那时候，宿舍一楼停放着许多的自行车，俨然就是一个小的停车库。上学的学子们匆匆忙忙地从楼下推着车手里拿着饭团，有时甚至还叼着一瓶奶，骑着车绝尘而去，而下课回来的朋友们则背着书包三三两两悠悠哉哉，有说有笑的走进车库安放好自己的坐骑。</p>
 <p>我也曾是他们中的一员，每天早晨风风火火的骑着车赶在上课铃前到达教室，傍晚时分不急不慢的迎着夕阳回来。这也算是一种固定而惬意的生活方式吧。</p>
 <p>车库外的走廊上有一排长长的座椅，那里也承载着我许多的记忆。我曾在许多个夜晚坐在椅子上，低头看地或者抬头看天，和家乡的亲人聊聊天，和远在天边的朋友吹吹牛，调侃着近来发生的有趣的故事。有些时候也能看见个别朋友蹲坐在椅子上，和异地的女朋友笑嘻嘻地打着电话，手指在椅子上画着圈，嘴里叽叽喳喳说个不停，好像要把一天的思念都诉说殆尽。当然也有一些哭着闹着和电话的那边提分手的朋友们，一边哭一边吼着，手一边锤着椅子，小小的椅子承载了他这个体型不该承受的痛苦。更有甚者，小情侣们在楼下卿卿我我，旁若无人，或者直接上演分手大剧，一不小心就连吃瓜群众也会被波及。</p>
@@ -881,9 +521,209 @@
       </categories>
   </entry>
   <entry>
+    <title>你的幸运，我来不及</title>
+    <url>/docs/docs/%E4%BD%A0%E7%9A%84%E5%B9%B8%E8%BF%90%E6%88%91%E6%9D%A5%E4%B8%8D%E5%8F%8A/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>我喜欢走夜路，走那种很长很长的夜路，尤其是独自一人在黑夜里摸索，直到遇见了你。</p>
+<p>我喜欢和你一起走夜路，走那种并不是很晚的夕阳，走那种并不是很黑的光明，走那种并不是很暗的灯光，走那种很长很长的路。</p>
+<p>我喜欢在路上与你交谈，谈天说地；我不喜欢在脚下设立目标，标准某地；我喜欢在时空中与你并肩，肩并肩向前；我不喜欢在夜幕里寻找流星，星光满地。</p>
+<p>脚下的目标一旦明确，不禁会忘却身边的人，一心只想着赶路；夜幕的星光固然美丽，正因如此，才可能会遮掩身边的美，让我后悔不已。</p>
+<p>那就放慢脚步，和你一起穿梭在车水马龙间，穿行在亭台楼阁中，穿越了人山人海，穿起了一切的平凡与不平凡，一切的繁华与冷落，一切的真实与虚无，一切的爱与感伤。</p>
+<p>路很短，我们只走了很短的一截，我甚至才度过短短的时光。</p>
+<p>路很短，我们只并肩前行了一小会，我甚至没能触碰你滚烫的脸颊。</p>
+<p>路很短，我们只不平凡了一秒钟的时光，我甚至没能感觉樱花飘落的速度。</p>
+<p>路很短，我们只流星了一块夜幕，我甚至没能感受到你衣摆的弧度。</p>
+<p>路很短。</p>
+<p>路很长。</p>
+<p>突然手机的屏幕亮了一下，我伸出早已疲倦的手，勉强挺起躺卧在沙发上的身子，打开了手机。</p>
+<p>“我们算是朋友吗？”</p>
+<p>“嗯。”</p>
+<p>“那样很好。”</p>
+<p>要是我的回答并不是如此，又会发生什么样的情况呢？我不知道，也不想知道。我知道的，只是今晚，我们走了很久。</p>
+<h2 id="一"><a href="#一" class="headerlink" title="一"></a>一</h2><p>我坐在钢琴前，痴痴地看着黑白的琴键，手指不听指挥的硬是按了下去，一种沉默的棉花音打破了图书馆静谧的气氛。</p>
+<p>“你要弹钢琴吗？”</p>
+<p>“不不不，我不会，只是很好奇。”</p>
+<p>我突然间起身抬头看了看眼前的你。</p>
+<p>“我想去前面的琴行转一转。”</p>
+<p>“那我们一起去吧。”</p>
+<p>“那你得跟着我走啦。”</p>
+<p>张嘉佳的一段话在某一瞬间闪现在我的脑海中：故事的开头总是这样，适逢其会，猝不及防。康德说，滑稽是理想与现实间的巨大落差。适逢其会么？应该很早就认识了吧，只是，只是由于某些原因吧，失去的太多，交流的太少。猝不及防么？很早很早就想这样走了，只是缺少了主人公。滑稽么？我已经没有心思去想康德怎么说了。我从不甘心做配角，但在这个时刻，这片夜空下，我以头顶的繁星与脚下的土地起誓，我真的真的只愿做一个配角。</p>
+<p>暗黄的灯光还在城市中摇曳不定，街边的小摊还在时不时响起吆喝的声音。可以就这么走下去吗？没有目的地，没有梦想，没有特别想要的与抛弃的，整个世界中只有你。</p>
+<p>“抱歉呢，这家琴行好像关门了，害你走了这么远。”</p>
+<p>“没关系，我很开心。”</p>
+<p>开心么？我真的真的不想停下脚步，一直走，一直走，走到天涯海角，和你一起，模模糊糊又朦朦胧胧地走下去。</p>
+<h2 id="二"><a href="#二" class="headerlink" title="二"></a>二</h2><p>我站在楼下仰望夜空，突然觉得自己就像一片落叶，像一颗流星从一颗星滑到了另一颗星。也许走的太匆忙，打翻了我手中所有的时间。错了，又错了，还是错的。</p>
+<p>“月亮很美吧。”我顺手拍了张照片发了过去。</p>
+<p>“明天下雨，今晚会有月亮么？”</p>
+<p>“月亮很难受。”</p>
+<p>月亮难受地躲在厚厚的云层里，不愿出面。或许，月亮在流泪。</p>
+<p>月亮会哭，但普鲁斯特会笑。似水流年啊，追忆无穷无尽。温暖的时光很短，却有可能一辈子记忆。</p>
+<p>真的是一片黑暗，只有酒店依旧亮着残酷的灯。新华书店的门已经关闭，门前的漫咖啡馆里的人们也早已散去，只留下杂乱而伤感的桌椅。</p>
+<h2 id="三"><a href="#三" class="headerlink" title="三"></a>三</h2><p>“我们向哪走呢？”</p>
+<p>“我们石头剪刀布吧，你赢了向前，我赢了左转。”</p>
+<p>“石头剪刀布。”</p>
+<p>“好，那我们向前走吧。”你调皮的眨了眨眼，捋了捋耳边飘起的长发。</p>
+<p>“我喜欢出布，因为这能代表我海纳百川的包容之心，哈哈。”</p>
+<p>“我喜欢出石头。”我顿了顿，却没有再说下去。</p>
+<p>你停下脚步，撅起小嘴，傻傻地看着欲言又止的我，“为什么呢？”</p>
+<p>傻瓜，我怎么可能会告诉你，因为我喜欢让你赢。</p>
+<p>街边的发廊响起了简单爱。“我想就这样牵着你的手不放开，爱能不能够永远单纯没有悲哀，你靠着我的肩膀，你在我胸口睡着……”那我可以牵你的手么？你向远处走去，我在远处等你。</p>
+<p>“我们再来一次吧。”</p>
+<p>“嗯，石头剪刀布。”</p>
+<p>“诶？为什么你会出布，你不是喜欢出石头的么？我还想出剪让你赢来着。”</p>
+<p>“因为即使世界与你为敌，我都会包容你。”</p>
+<p>若有可能，就请时间暂停吧，停在那一秒。我多么想侧身转向你，将你紧紧抱住。但理性将我拉回现实，告诉我不能这么做。</p>
+<p>或许通过黑洞，人们终将发现白洞，发现白洞那边的新世界；或许通过虫洞，人们终将能够使时间流逝，能够以光速飞回千年前，飞到千年后。</p>
+<p>可是我并不在乎，我只想与你寻找砌在墙里的传说，你与我被遗忘的姓名。</p>
+<p>可是我并不在乎，我只在乎满地的太阳，我只在乎满天的泪滴。</p>
+<h2 id="四"><a href="#四" class="headerlink" title="四"></a>四</h2><p>我卧在沙发上，推送了一条消息。</p>
+<p>“其实今晚这样，挺好”</p>
+<p>又出现了一条新消息。</p>
+<p>“其实今晚和你在一起，挺好。”</p>
+<p>“没有杂念与目标。”</p>
+<p>“机会很珍贵吧。”我叹了口气。</p>
+<p>“我们算是朋友吗？”我不相信自己的眼睛，为什么你会问这么一个问题。你想要的答案是什么，你想要的答案我可以给么？</p>
+<p>“嗯。”</p>
+<p>“那样很好。”</p>
+<h2 id="五"><a href="#五" class="headerlink" title="五"></a>五</h2><p>“很好吗？”我走在路上，向你问道。</p>
+<p>“对呀，虽然不是很清楚，但这条小街的感觉真的很好。”</p>
+<p>气氛十分静谧，居民楼闪烁着忽明忽暗的灯光。人们纷纷迈着疲惫的步伐，回到各自的居所。</p>
+<p>“你看他们的鲜花，终将枯萎。”你指着前方男人手中滴水的玫瑰，笑着小声告诉我。玫瑰失去了原色，花瓣失去了光泽。但只要送花的人心里火热，心里如春，即使枯萎也同样能拥有生机。</p>
+<p>是的，玫瑰终将枯萎，花瓣终将凋谢。但我们的故事不会停止，继续，不停止，还会继续。靠着树干坐下，头顶满树韶光，树叶的罅隙里斜斜透着记忆，落满一地思念。醒来拍拍裤管，向不知名的地方走去。</p>
+<p>故事戛然而止。</p>
+<h2 id="六"><a href="#六" class="headerlink" title="六"></a>六</h2><p>我站在楼下，趁着夜幕降临漆黑之时，顺手拍了张照片。浓厚的云层遮住了典雅的月光。</p>
+<p>“月亮很美吧。”我把照片发给你。</p>
+<p>“明天下雨，今晚会有月亮吗？”</p>
+<p>“月亮很难受。”一阵无声的静寂。</p>
+<p>我走上楼去站在你的门前，却迟迟不敢敲门，只得在楼道间废弃的沙发上坐着。</p>
+<p>“其实今晚这样，挺好。”</p>
+<p>“其实今晚和你在一起，挺好。”</p>
+<p>“没有杂念与目标。”</p>
+<p>“机会很珍贵吧。”我长长地叹了口气。</p>
+<p>“我们算是朋友吗？”我怔了怔，不知如何回答。在那么一刻，我想回答：不，我们已经超过了朋友的关系。但我还是忍了下来，用颤抖的手指轻轻地敲出:</p>
+<p>“嗯。”</p>
+<p>“那样很好。”</p>
+<p>很好吗？不，一点都不好，我不甘心！为什么不能鼓起勇气，大声地说出：</p>
+<p>“不，我们已经超过了朋友的关系！”</p>
+<p>退后，我们都忘了前进；停止，我们都忘了继续。</p>
+<p>门，开了。</p>
+<p>我拿出了写好的日记，慢慢地翻动着，你的目光也随之游离。</p>
+<p>“我会哭，但普鲁斯特会笑。”</p>
+<p>“是吗？月亮很难受。”</p>
+<p>“笨蛋，我说的是晕车很难受。”你笑了笑。</p>
+<p>“街边的魔术店还有刘谦的签名呢。”</p>
+<p>“嗯，你还答应要教我变魔术呢。”你加了一句。</p>
+<p>……</p>
+<h2 id="七"><a href="#七" class="headerlink" title="七"></a>七</h2><p>我喜欢走夜路，走那种很长很长的夜路，直到遇见了你。</p>
+<p>你静静地看着我，站在马路的对面，我突然有一种冲动，想飞奔到你那边。只是，车闸缓缓拉升，红灯缓缓亮起，川流不息的车辆横亘在我们之间。</p>
+<p>没有新海诚般的错过，没有张嘉佳般的告白，只有平静的点了点头，然后永不回眸的走了下去。</p>
+<p>这是与我相知相识的你么？这是与我欢笑一路的你么？只是那个少年曾经的梦么？</p>
+<p>这一切，好像都是梦。</p>
+<p>我永远无法苏醒。</p>
+<p>“文章以对话为主体不是很好哦，可能没有内容。”</p>
+<p>“但是对话最能反映内容呢。”</p>
+<p>“是这样子么？”</p>
+<p>“是这样子吧。”</p>
+<p>“但就像走夜路，如果只低着头，而忘记了景色，那又有什么意义呢？”</p>
+<p>“如果我只注意了景色，却错过了你，那又有什么意义呢？”</p>
+<p>你歪了歪头，若有所思。</p>
+<p>从此，我不再走夜路。</p>
+<p>岁月是那么的漫长，漫长到迷失自己，不明是非，愈合了伤痕累累，却仍旧不顾一切地走进伤痛；漫长到让人忘记自己是怎么走到这里的。但总有一天，总有一个人会在路口与你相遇，而后向新的地方义无反顾地走下去。</p>
+<p>有些人适合陪伴在身边，一起厮守年华。有些人适合活在心里，时刻回想都能温暖时光，惊艳回忆。</p>
+<p>也许当年的时光，就该搭配当年的我们，发生着那样的故事。再相见，哪怕物是人在，我们也不属于那个夜晚；再相见，哪怕桃花依旧，当年的欢乐也抓不住回不来。</p>
+<p>我们已经记不起什么是惆怅。</p>
+<p>“我们算是朋友吗？”</p>
+<p>“不，我们已经超过了朋友的关系。”</p>
+<p>“嗯，那样很好。我很幸运。”</p>
+<p>你的幸运，我来不及。</p>
+]]></content>
+      <categories>
+        <category>docs</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>台球那些事儿</title>
+    <url>/docs/docs/%E5%8F%B0%E7%90%83%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>隐约记得从高中开始喜欢上台球这项运动。谁都有放荡不羁的时候，在高中那个中二的年纪，台球这项运动在我心中许许多多个染发青年围坐在一张桌子周围，嘴里叼着烟，甚至可能喝着啤酒，看着台球桌前的两个人挥舞着球杆，像挥舞着金箍棒一样指点江山，叱咤风云。这场面让我想起曾经的那些港片中描述的古惑仔，光头哥们带着自己的小弟手持棍棒的场面。那时候在高中还算是好好学生的我其实内心也是向往这些看起来中二但热血的活动，所以高中毕业之后便开始苦练技艺。虽不说球能不能打进，光是那一副架势就挺吓人。</p>
+<p>不过话说回来，周围绝大部分没有接触过台球这项运动的人可能确实更容易对台球有负面的情绪偏向。去成都的前一天和朋友去打台球，当被问及行踪时我坦率的说出台球室，结果毫无疑问的被冠上“出去浪”的罪名，而当我说在打乒乓球或者篮球的时候则从来没有这种烦恼。身边的朋友老师也会有一些自己独特的看法，不过我后来了解到他们的这种了解是基于他们所看见的路边或游戏厅里的新一代古惑仔们所产生的自己的一些偏见，罢了。</p>
+<p>高中毕业的那个假期可以称得上是最轻松的一个假期，没有作业的压迫以及升学的压力。于是乎我开始从零入门台球。依稀记得当时的市体育馆里面有两张台球桌，于是那里很快便成了我的革命根据地。台球桌紧挨乒乓球桌，所以专注于台球的我时不时也会受到来自隔壁乒乓老大爷的友好问候，与他们一起问候的还有他们的球。</p>
+<p>刚开始打的时候，觉得每一个球都很好打，每一个球都有下球路线。虽然现在看来很是可笑，不过这也许就是一种初生牛犊不怕虎的心理状态吧。有一天一个看上去年近五十的大叔从乒乓球台下来，来到我这边旁观。大叔穿着蓝色的运动服，脖子上还挂着条毛巾。估计也是技痒，很快他便忍不住亲自撸袖子下场。当了他几场陪练，听了一些经验之谈，我也是从那一刻起才真正入门。</p>
+<p>看体育馆大门的是个老大爷。大爷六十多岁的样子，精神矍铄，一看就是充分发挥了其职责的主观能动性，每天积极加入健身大军的队伍。我来体育馆很是频繁，一来二去也便相互熟悉。每天晚上咱都很有默契，当我看到他走向电闸的时候，我也主动地收拾东西准备离开。不过大爷有时候也过于死板，隔壁乒乓球比赛想延迟几分钟关灯都不行。毕竟每个人都有责任，也都有自己的难处吧，毕竟你大爷还是你大爷。</p>
+<p>上大学之后，我也就很少去体育馆了，也不知大爷近况怎么样。后来技艺略微精湛了些，便转移到家门口的一个台球室。</p>
+<p>当野史得到了正史的承认，当体制外的人第一次窥见体制内的生活，这种感觉还是相当奇妙。毫不犹豫的办了会员卡，从此以后这里便是我一个新的练球场所。老板人不高，精瘦精瘦的，戴个金丝眼镜居然显得还有点书卷气。每次看到他，他不是在擦球杆整理球桌，就是在陪媳妇儿。一家三口人和和美美，儿子刚上小学没多久，偶尔也能在球馆见到，每次碰见都闹着说不想写作业，妈妈总是很头疼的站在一旁，爸爸则手拿着球杆，就像是拿着鸡毛掸子一般具有威胁性，儿子穿双袜子站在球台上，手里握着一个球。孩子就是孩子，还是太小太年轻，明知道最终的结局还是要去写作业，又何必自讨一顿打呢？不划算不划算。每次看到这一幕，我也总是会心一笑，摸了摸自己的屁股，仿佛想起了自己曾经的那段噼啪岁月。</p>
+<p>老板的球技还是没的话说，和他打过几次每次都把我杀的片甲不留。一两百平的台球室里，始终有那么一张桌子是他留给自己的朋友们的。于是神奇而又理所当然的事情出现了，无论是上午一点还是下午一点，你总能看见那张桌子人满为患，一群三十多岁四十多岁的老男人们窝在一起，手一扬一指，此时此刻化身为最专业最幽默的解说员，对球场上两人的表现评价一二，张三力量不足，李四大力出奇迹。正如台球室的名字“部落台球”一般，这张桌子就像是一个部落的聚集地，聚集了一帮子喜爱同一项运动的人们。</p>
+<p>此后我去过很多家台球室，都会发现有这么张桌子。我始终也没想明白其中的道理，只能简单的理解为老板自身打球的需要。不过换个角度来看，这也可能是当年的那帮人们眼中的小混混们长大之后，其中的一个开了家店。一人得道鸡犬升天，一人开店哥们成仙。</p>
+<p>后来由于种种原因，我没在去过那家店。不过办的会员卡依旧还在，卡里面不到一百块钱的余额用了三年还没有消费完，这隐隐约约的也就给自己留了一个练球的场所。其实后来发现很多事也是这样，做的时候无意，但日后也不知不觉给自己留下了许多的退路与选择。</p>
+<p>上大学之后，选择哪家台球室对于我来说更像是选择游击战的场地一样。不过每当我回家的时候，我依旧有我自己的一个固定选择。当然不再是家门口的那个部落，而是在老城区的一个普普通通的球馆。舍近求远自然有舍近求远的道理，不然也不至于放假每天都开着车过去，从下午打到晚上。</p>
+<p>2018年刚去的时候，看店的是个大妈，据说是帮着她儿子看店。比较有意思的是她儿子是一个消防员，不过从我转移阵地过来之后一个月就辞职了。和部落不同，这边没有一张固定的球桌给老板的朋友提供方便，因为每一张桌子都有一定的概率被朋友们临幸。老板年纪也不大，可能只比我大个一两岁，所以作为同龄人的优势便在交流时与结账时充分体现。有时候实在不好意会给老板买包烟。他也毫不客气，拆了之后转手递给我一根，我总是会笑着拒绝。老板有时候也会不好意思，于是经常性的晚上回请我们吃外卖。没错，是我们，因为还有他的那群朋友。时间一久，不知不觉间我作为一个看客也变成了看客眼中的那个人。我开始享受到“专属”台的福利。</p>
+<p>当然，我的技术也得到进一步的提高，谋略与思考在台球运动中的比重进一步加大。所以其实我一直都认为，台球并不是一项俗气的运动，他只是很接地气。说简单些，苍蝇馆子也可能品尝得优雅端庄，米其林餐厅也可能吃得狼吞虎咽，看吃饭的人处于哪个阶段罢了而已。</p>
+<p>也是从这家店，我开始接触斯诺克，开始学习斯诺克的打法。</p>
+<p>不过好景不长，这家店很快就易手转让了。我打电话问了问老板，原来是长时间入不敷出，经营不善。嘿，像他这种能挣到钱才怪。所以人们常说义不掌兵，慈不掌财，是有相应的道理的。有趣的是，新的老板是原老板的小舅，虽然是舅字辈，但年纪真不大，估计也是沾了上一辈的光。幸运的是，原来的这帮老主顾并没有像敌军进城时被驱逐的手无寸铁的老百姓一样，我们反而继续得到了照顾。不过圈子也在不断的融合，很快这个新圈子里我就变成最年纪最小的了，周围的人有向30岁奔跑的趋势。</p>
+<p>新的老板说话很洋气，是不是还会蹦出一两个发音并不那么标准的单词，有时候还需要考虑一会才反应过来是什么意思。俗话说新官上任三把火，他来之后的第一把火就把我们的饭给烧没了。虽说上一任老板一直请客吃饭我们也知道并不是一个维持生计的法子，毕竟我们每天给他创造的利润有限，他又全部拿出来请客，甚至还倒贴，不过谁让一直白嫖一直爽；更主要的是球馆的一顿饭完美的衔接了中场休息。斯诺克比赛时间长，局数多，而吃饭的时间更像是提供了一个吐槽的机会，对手与对手在觥筹交错之间刀光剑影，共同许下友谊第一比赛第二的美好承诺。索性我滴酒不沾，更不会打醉球，在无形之中占了相当多对手的一个便宜。而当晚饭这个机缘没有了之后，大家往往相视一笑，相约明日再战。</p>
+<p>暑假的时候每天下午一点到五点走，炎热的天气与猛烈的暴雨都无法阻止我前来求学之心。打球不知不觉间变成了上班，而我的业务逐渐变得越来越熟练。学无先后，达者为师，所以当你看到一个犄角旮旯的箱子里的一个球馆内有一个年轻人和一个中年人勾肩搭背时也不要吃惊，毕竟技艺就是这么切搓出来的，感情也就是这么切搓出来的。</p>
+<p>由于打的时间久，虽然和新老板并不是很熟悉，但是久而久之他也可了我这个老顾客。台球室有一条不成文的规矩，一个人来练球是不收费的，这也是为什么我能够长时间出入台球室而不带上苦痛面具的原因。不然不是我捂着脸哭着出球馆，就是我捂着钱包哭着出球馆。后来有一天练完球，老板很反常的问了我一句不打了吗，我嗯了一声。只见他直接走到柜台后电脑前，熟练地移动着鼠标结账收费，一波操作直接迷惑了我。再给你打个七折，老板愉快地说道。</p>
+<p>好吧，可能不付钱练球只是我一厢情愿。</p>
+<p>不过一个星期之后，这个老板又跑路了。我后来因为离家上学所以差不多半年没去过球馆了。当我再回来打球的时候，老板又换了一个新的。所谓肥水不流外人田，新老板是第一任老板的大伯，四十岁左右，一看就是那种很木讷寡言少语的人。新老板姓王，周围的朋友都称呼他为老王。不过我总觉得老王这个称呼有一种怪怪的感觉，它总能让我想起存活于各大小说期刊中的隔壁老王。所以出于礼貌我称呼他王总。老板话不多，但心倒是火热，原来的晚饭又回来了。</p>
+<p>现在球馆的晚饭呐，称之为晚宴也不为过。球馆隔壁是我们当地一个非常有名的私房菜馆，饭馆老板姓老八，所以饭馆名就跟着老板，叫老八私房菜。每天晚上，王总就喊着八哥给送菜到球馆来。不一会，一张小小的木质方桌边便围了一大帮人。这一些无一不年愈不惑，作为唯一的一个小年轻的我在人堆里格外扎眼。同样都是晚饭，这席间的交流相比于之前则更多的充满了接地气的东西。没有好高骛远的谈论，有的只是最真实的柴米油盐，还有一些调侃与玩笑。有一次我无意中了解到原来王总以前喊老八送菜的时候，老八利用谐音占了王总的便宜，嘴里嘟哝着又给不成器的儿子送饭。从那以后王总就称呼他为八哥，原因是谐音八哥鸟。后来有一次也是在饭桌上，我了解到前一任老板是因为欠债太多跑路了。联想到曾经我来练球还收取我费用的老板，我沉默不语。可能那个时候就已经火烧眉毛了吧。</p>
+<p>在一起吃晚饭的这一波中年人中绝大部分我都交过手，也有机会赢几场比赛，不过输的几率更大些。输赢乃兵家常事，反倒是在此过程中我不断吸收他们的思路与长处，逐渐来弥补自身的不足，以致于最终也能和他们一起赌球坐庄。这是后话。</p>
+<p>不得不提的有这么两个人。一个是我的教练，据说是曾经某一年华东赛区斯诺克总冠军。所谓真人不露相，没想到这么个人居然生活在这么一座小城，舒舒服服安逸的生活着。我刚来没多久便和他过了手，除了收获了一堆的败局，也收获了他半年的教学。由此我一个杂牌军开始正式变成一个记名正规军。在这半年的学习中，我的斯诺克逻辑不断变得缜密，杆法灵活多变起来。</p>
+<p>教练也算是半个奇怪的人。每当我出现在台球室时，我也总能看见他在忙碌的弯腰抬头出杆挺身，有时还会扬扬手去让我给他买一包烟。烟有了，跑路费也有了，接下来便是茶水时间。有时他会和我聊一些他打斯诺克的经验与体会，有时则聊一些奇怪的东西。他作为曾经的一个冠军，安居于一个小城市，也算是深藏功与名。后来有一次吹牛他无意中提到，他现在在玩玉。</p>
+<p>嘿，有意思。我认为两种人最为深藏不漏：一种是玩彩票的人。全国各地大大小小的彩票站里你总是能看到有些人，双手交叉于胸前，抬头看着墙上老板为他们精心设计的每一期彩票开奖号码的折线图，若有所思。有一次我也学着他们盯着墙上的折线趋势图看，大眼瞪小眼盯了半天也没盯出个所以然。这些人往往一坐就是一下午顺带一晚上，有时候晚饭也是就地解决。没准儿彩票站和台球室一样，也有一大堆老炮儿，隔三差五聚在一起讨论最新的彩票走势，吹牛打屁。第二种人就是玩玉的人。这些人有个非常鲜明的特点，你总能在他的脖子上手腕上或者其他部位甚至牙齿都有可能看见玉。这些人也不知道怎么挣钱怎么养活自己的小家庭，但最奇妙的就是你会发现他们过的很挺好甚至还很上档次。没准儿脖子上挂着的就是康熙乾隆时期的玉，就像教练脖子上那块一样。</p>
+<p>说到奇怪的人，就不得不提球馆里的一个胖哥。大家都称呼他为宝哥，所以我称呼他为宝叔。宝叔这个人是一个妥妥的胖哥，挺个圆滚滚的肚子，笑起来特别憨厚，因此人也显得特别老实。不过在球场上的宝叔则是个林火的胖子，弯腰时居然能控制肚皮不贴到球，而母球在他的球杆下被控制的游刃有余。后来有段时间我在外没有回来，结果回来那天正巧遇见他也在打球，一番交手之后意外的发现他已经不复当年勇，一经询问才发现原来他也很久没有打球，所以手感不佳，控球略显生疏。于是索性不打球，他也不说话，我就只好喝着茶企图缓解这久违的尴尬。所谓不鸣则已，一开口就是石破天惊，胖哥侧着头眯着眼对我挑了挑眉，问我有没有兴趣来赌球。我丈二摸不着头脑，赌啥球。他也没做声，指了指手机露出一副奸计得逞的表情，说，稳赚不赔的生意。这时候另外两个老炮儿多半是听见了我们的谈话，也过来凑了凑热闹。原来宝叔在赌球，赌足球比赛的输赢。我对足球近乎一窍不通。</p>
+<p>看着他笃定的眼神，他们俩毫不犹豫的拿出了背着老婆藏的小金库，我也掏出了藏在鞋底已久的钱，加上他自己的赌资在一起凑了一两万。投进去没多久，一个多小时，好家伙，我直接赚了小半年的生活费。我望着他的眼神里充满了复杂的感情，有敬佩，有疑惑，还有一种豁然开朗的感觉，终于明白这胖哥为啥能和别人打一局比赛押几千块了。宝叔笑的跟如来佛似的，拍了拍我的肩膀，说这只是碰巧包赚的，也不一定就能遇的上。嗯，或许这只是一种谦词而已，不过以后每次遇见宝叔，我都会问问有没有可以投资的玩意儿，他吃肉我跟着喝汤。</p>
+<p>宝叔还经常在球馆里打有赌注的比赛，一局少则一包烟，多则五千上万，反正最初的我每当看到这样的场景总是目瞪口呆。不过久而久之也就习惯了，甚至自己的心也开始躁动起来。毕竟人嘛，天生都有赌博的精神。没想到宝叔有一天还真的和我赌起来了，赌注是一包烟。毫无疑问我输了，老老实实给他买了一包烟，双手亲自奉上。不过自从那以后，我就开始好风凭借力，扶我上青云。球馆只要来新客参与赌球的游戏时，宝叔便会衡量衡量对方的水平，如果比我差，那么他的对手便是我，他的赌注也正在奔向我口袋的路上。所以说塞翁失马焉知祸福。以一包烟为代价换来了更大的利润，这就是福兮祸之所获，但毕竟风水轮流转，阴阳相转的事情听的也不少。打了几次之后我便不再赌球，从此金盆洗手，告别赌坛，希望几天之后江湖上仍然能够流传那个年轻人的故事。</p>
+<p>后来啊，由于距离以及越来越忙碌，这家台球室我已经很少再去，不过倒是在我现在所在的城市又发现了一些新的欢乐的场所。新发现的台球室位于一个很偏僻的地下室，所以一年四季都比较潮湿昏暗。最遗憾的是，这家球馆没有斯诺克桌，索性只能打中式八球。不过略微丧失专业性的台球成了一种更好的大众娱乐方式，每逢有空我的朋友便会约我一起去这个地下室寻找台球的快乐。</p>
+<p>刚开始去这家店是去参加台球社的活动。每个周六台球室都会组织台球比赛与练习，而我作为一个编外人员常常浑水摸鱼，也跟着他们一起快乐。台球室的加盟也在不知不觉中使这家店成为了学校指定的官方活动场所。球馆的老板是个东北人，基本不来球馆，我也只见过那么一次。而天天在球馆坐镇的是他的弟弟。两个人说话的口音都带着浓浓的东北烧烤味，为人也比较豪爽。来这边基本都是和朋友一起，所以极少与老板过手。</p>
+<p>去成都的前一天晚上，一个在美国旅行时认识的哥们约我去球馆打球。我看了看第二天早上7点半的机票，看了看手机上的讯息，想了想屏幕对面他的神情，犹豫再三还是答应了。本以为只有我和他两个人，没想到还有另一个哥们和我们一路。我们三走到大门口时，正好遇到迎面走过来的四个人，其中一个应该是他们两的朋友，身上还飘着淡淡的酒气，估计是才参加完什么聚会回来的。</p>
+<p>就这样又半路截胡了一人，我们一行四人坐上出租车便直奔目的地而去。出租车狭小的空间不一会便被欢声笑语所充斥，短短的时间四个人便相识相知相互熟悉开起玩笑。这次出行另外两哥们都已经顺利保研，无事一身轻。</p>
+<p>和我认识的那个哥们叫小侯，长得也像小猴，一看就是那种特别机灵的人。我们在美国旧金山的时候，当时正值香港出事，我原来计划从香港转机回国的计划也被迫中止，只好选择从北京转机。巧合的是我和他买了正好是同一班飞机。临行的前一天，我们两坐在公寓楼下的沙发上，翘个二郎腿商量着如何度过这一漫长的夜晚。飞机是早晨7点起飞，想睡觉恐怕不太现实。于是我们索性选择了通宵打球。没错，通宵打台球，打了近7个小时。这是我迄今为止经历过的和台球相关的最离谱的事情，我不记得是谁提出这个想法是谁鼓动对方付诸实践，我只记得打到最后我已经两眼昏花，球都有重影了。这恐怕是我距离打醉球最接近的一次。也正是打球打出了交集与交情，回国后我们也经常约球。</p>
+<p>晚上回去的时候，我们还意犹未尽，我甚至都忘了早晨的飞机，另外一哥们则直接搓起了麻将。好吧，可能我还是不够清闲。</p>
+<p>现在呢，由于所拥有的空闲时间越来越少，我很少在打台球了。不过出去旅游的时候，每当路过球馆，我还是会忍不住打两杆。技术早已经不及当年，打的球也是歪歪扭扭毫无章法可言，所以有些时候啊，每打一杆之后我就会很生气，生气自己打不进，生气自己没有当年的自己厉害有技术。所以我到底是在生谁的气呢。</p>
+<p>​	不过生气归生气，很多事情本身就是这样，当你缺少时间的投入，自然也会是颗粒无收。毕竟要做的事情太多，总不能把时间花在同一件事上太久，总要给其他事情让路。不过，当我再想起台球时，我也总会在心里描绘出我打球的动作神态，以及宝叔王总那一张张记忆深刻的脸，这些人将永远给台球这项运动打上深刻的烙印，让我想起时不免感叹唏嘘。</p>
+]]></content>
+      <categories>
+        <category>docs</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>思想观的变化录</title>
+    <url>/docs/docs/%E6%80%9D%E6%83%B3%E8%A7%82%E7%9A%84%E5%8F%98%E5%8C%96%E5%BD%95/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>近来一直想写篇这样的文章，一来算是整理自己读书带来的思想与价值之转变，二来是给自己过去的单一的思想和现在稍微成熟些的思想做个总结与反思。思想的变化总是与书和事分不开，所以我打算从两方面给自己做一个记录。</p>
+<p>年少时思想总是很单纯，读书便为读书，心无杂念。相信很多人儿时都曾被问过这样一个问题，长大了想做些什么。这个问题问得好啊，问的既远，同时又寄托了家长的殷切期望。现在过年时偶尔也会有哥哥姐姐问着自家的小朋友，小朋友支支吾吾的说了句，我想当一个老师，因为可以管小朋友。在一片哄笑中他的妈妈或者老一辈的亲戚会告诉他，以后呀要好好学习，将来赚大钱。</p>
+<p>其实相比“学而优则仕”这种传统观念来说，我以为现代观念已经有了长足之进步。不过学习读书在多数人眼里始终是与赚钱划等号，这可能与“读书改变命运”的思想观念密不可分。</p>
+<p>印象中我小的时候也被问到过相似的问题，只不过答案已经记不清，或许从来就没有过答案，只是和别的小朋友说个一样的应付一下便完事。所以我现在认为当时的自己有无读书的目标是一件非常模棱两可的事。但我可以确定的事，无论儿时的我有没有说过将来想做什么，我以后将做的事都不可能是儿时口中玩笑般的美好憧憬。</p>
+<p>其实直到上高中时，我都没有想明白为什么要读书为什么要上学。那时的我只知道，初中读完升入高中，高中读完进入大学，大学之后硕士博士，彷佛读书拿学位是一件顺其自然人人应做的事。成绩与排名带来的满足感和自信感也逐渐麻痹了我的心智，使我沉浸在可能算是“小我”的世界里。这里就像是一个舒适区，我不想轻易走出，因此思想上容易懒惰懈怠，也就懒得去想除了学习之外的事情。我这里指的学习，只是指应付高考而学习的六门功课。不过这也有可能是一个高考生最好的状态了吧？</p>
+<p>后来有一天，我无意中想到曾经的那个问题：为什么要读书，为什么高一念完了念高二。这些问题困扰了我很久，也正是在那段时间我读了很多的书，从我以前的日记里我还能找到我对这些问题的记录与想法。最终，我形成了我自己的看法。读书的目的，是为了帮助更多的人，是为了有能力帮助更多的人。读书是获取知识的一种手段，拥有了知识即掌握了最重要的武器。至于高一高二之分，我觉得甚没必要，这只不过是为了阶段性教学能拥有一套较为完整的计划。知识毕竟不分高一高二，正如学无先后，达者为师。</p>
+<p>可能正是处于那个意气风发的年纪，想问题也一根筋，认死理。不过我对读书学习最初的认识已经建立起来，现在开了上帝视角的我以为这种观念并没有偏离正轨。</p>
+<p>进入大学之后，我频繁接受马列主义以及爱国主义的熏陶，一度立志为国做贡献。时至今日我还能够记得我与好友坐在食堂二楼的椅子上，告诉他，我今天所学，是为了国家将来所用，所以今日的我，定当努力学习。刚入校的我，每做任何一件事，每学任何一门课，每参加任何一次会议，我都会想这对当下的我和未来的我有什么帮助，而不是去想这会让我得到多高的分数。正是因为有着这种想法，我上半年的生活相当充实且正能量，成绩自然而然也不差。我始终以为成绩、分数、排名是在正确价值观指导下进行学习所带来的副产品，而不是追求的目标与学习的目的。</p>
+<p>真希望后来的我也能一直能坚守这份初心。欲戴皇冠，必承其重，刚开学的我，什么外来之物都没有，无姓无名。一场考试之后，排名带给你的除了头上的光环，也有喘不过气的压力。我意识到要想继续做稳第一把交椅，就必须付出更多的努力。所以毫无疑问，下半年的收获很丰富，但生活非常的辛苦与劳累。我后来意识到，这是因为我学习的目的变了，我变得浮躁并且更加注重所谓的排名与名气。结合之前的经历，我顿时就感受到，名和利这两者就没一个是好东西。在此二者的长期驱使下有谁还能坚定的守住本心呢？无非是时间与多少的问题。从那时起我便坚定不从政的职业态度，即使我知道从政并不意味着贪污与腐败，但是这条路上会有数不尽的诱惑，甚至会有主动上门的诱惑和不得不收的诱惑。</p>
+<p>进入大学之后，我能够很明显的感觉到自己的视野变得开阔，同时也会因为种种事情一次又一次的冲击着我看待读书观点的高楼大厦。后来有一天，我突然得知我的朋友的父亲去世。想到一个星期前还送我和朋友回学校的他，一个星期之后却不在了，我有些恍惚，有些不真实，我感觉我坚信的读书报国论受到了最强悍的一次冲击。</p>
+<p>我们大部分人从小生活在一个提倡美化的环境中，提倡学习的目的是为了报效社会报效祖国，而对参杂个人因素的目的很多情况下都嗤之以鼻。不论学习的目的具体是什么，我想每个人都会有那么一段日子是真心把回报国家社会作为内心真实想法而努力，不过现实是绝大部分人最终还是会被生活所打倒，为茶米油盐而忙碌终生。</p>
+<p>我想表达的和目标远不远大没关系，我想说的是，这种大规模的采样结果绝非偶然。当时我感触颇深，有病的人帮不了，有需要帮助的人帮不了，连想着去资助都要考虑各方面的压力与因素，学习究竟是为了什么。心里想着那么多宏伟的目标，可对于我来说今后能否给自己糊弄过去都是个问题，还怎么去谈这些空洞的目标。</p>
+<p>以前看到水滴筹总是会捐一些，无论多少，可是现在也许都不会点开；以前看见生活困难的人总想着怎么样能尽自己的一份力帮助他们，可是现在也许也只会感叹一句生活不易。或许还有很多个这样的以前这样的现在，或许归于一句话就是看得多了，也许就麻木了。就算帮得了一两个，也帮不了那么多，心有余而力不足。</p>
+<p>或许觉得能帮一个是一个，或许说学习能让你有能力去帮助更多的人。只不过对于这种话，我已经不再相信了，我感觉我甚至可能大部分人未来的十年基本已经确定，读研，也许读博，工作，没了。我甚至能够想象十年后的我会想些什么思考些什么。现实总是残酷的，我个人的意志和理想就是在两年半的大学时光里不断被消磨，曾经的满腔热血壮志凌云也不断的回归到现实生活，毕竟谁也无法逃离它，只活在自己天马行空的世界里。</p>
+<p>记得曾经和一个家长交流时说到，做好自己的本职工作，不给社会添麻烦，在有能力的范围内关心别人，就算是为社会做贡献。当时觉得是最低标准，现在再想想觉得真的能做到其实还挺难。光是能力范围内就很难界定。</p>
+<p>当我30岁40岁时，假设我能活到那么久并且我拥有独立生存或者养家糊口的能力时，我又有多少能力帮助别人，或者说以什么形式帮助呢。物质？又能提供多少物质帮助？精神？接受十几年甚至几十年教育的人就只能拍拍别人的肩膀说声加油或者节哀？这就是我纠结和难过的点啊。</p>
+<p>我已经不止一次质疑我为什么要努力学习，只不过从来就没有答案。</p>
+<p>我知道自己的能量首先得强大，才能坚守住初心，我也在努力的做，成绩算不上好但也绝对不差，可是一想到就算我做的再怎么出色，看到需要帮助的人我还是帮不上。生活从来不容易，只有相对轻松这一说法。也许我在别人眼中也在费力的乞讨着生活，但我怎么样不重要，重要的是，就像小红花里所描述的那些，我只能看着老奶奶孤独地等着她被拐走的孙子有一天能回来，只能看着抗癌战士一个个癌细胞被带走，只能看着学生在他这个年纪承担着生活的重担，连帮助时还怕触及内心而小心翼翼，只能看着他们费力的与生活斗争。</p>
+<p>我很难过，也很抱歉。</p>
+<p>从这时起，我的思想发生巨大的转变。我渴望在书籍里能够找到解决我类似心病的解药，我也渴望从师长从同辈间得到解答。我看了很多书也问了很多人，只不过从未得到答案。客观情况一直真实存在且发生，我深感无力阻止，更无力帮助，这是一种无奈的无力感。我的老师告诉我，有很多人在为他们而奋斗，我深以为然，然而我眼前看到的听到的却一直在告诉我，你还是没办法解决他们的困难，正如一屋不扫何以扫天下，眼前的困难都解决不掉，如何去谈更大更深层次的困难呢。</p>
+<p>我怀揣着一种混沌的价值观浑浑噩噩的过了一年。这一年里我愈发感觉到世间事物与人们行为的可笑，也愈发的迷茫与不安。我和同辈多次交流思想，也从未有顿悟之感。终于，当我再次读完道德经之后，我选择了老庄思想作为我逃避现实的一个精神地。虚空的虚空，一切都是虚空，我深以为然。我逐渐学习着看淡对周遭人的评价与议论，看轻周围事件对我的潜在影响，我只希望能够和光同尘，知白守黑。那段时间我研读了相当多的老庄哲学以及空性哲学。</p>
+<p>这样的状态维持了整整一年。这一年我不争不抢但也不惧，所有机会全部拱手让出，所有岗位凡是不指名道姓需要我皆不申请。也是在这一年我开始有点消极的思想，长期的这种所谓“无为”的处事风格让我觉得凡事都没有意义与价值，因为意义全部是人所赋予的，而人本身是否有意义尚未定论，又怎么能随意给物下定意义呢。</p>
+<p>什么时候开始意识到不对劲呢，我想大约是最近几天吧。最近高考放榜让我想起了三年前的这个时候。突然思绪如潮水般涌上心间，不由得感慨万千，内心触动良多，满满的遗憾感随之而来。也正是这个时候，我突然意识到，我一直所接受并已经实践的老庄哲学空性哲学，它只是我的一个避风港，一个逃避现实的场所，一个安慰自己的精神乐园。这和吸食大麻又有什么区别呢。又联想到之前很多件告诉自己无关紧要的事，其实内心多少不还是有些波澜吗？我以为真正的放下与不争不抢，是那种完全不在乎，而不是内心会有起伏甚至是遗憾。</p>
+<p>老庄思想不是一种积极的处世态度，我经历了一个从抗拒到接受的过程。时至今日，虽然我已从老庄哲学的安乐椅中站了出来，但不得不承认的是，空性哲学在我的身上留下了深刻的烙印，我的处事已经深受老庄哲学的影响。现在的我偶遇机会仍会拱手让出，因为“别人更需要”这种观念已经在我脑袋里扎根。这也许是一种崇高的思想，只不过生错了年代；被人借了三个月的碎银子不还，也就不要，因为不想因此撕破脸，更觉着这种身外之物与人相比甚是无所谓。</p>
+<p>回顾短短20年思想变化的过程，我认为有三个重要的转折点。我自认为我具有强烈的悲悯心与同情心，这可能是引导我思想变化的最根本的原因。年少时不懂事，以为学习就是简单的读书争名次，后来逐渐接触到更加深层次的道理，明白了要想改变那些生活在水生火热之中的人们的生活，要想让人们能吃的上饭看得起病受的了教育有地方住，就要努力学习，这是我思想的第一个转折点。我以为这是最宏观的方向，我们每个人在做的事都是在为这个方向更进一步而努力。后来我终于感受到自己的渺小，自己的无能为力，自己没法给普天下所有需要帮助的人给予帮助，哪怕是一句安慰的话语都显得力不从心，因此我选择老庄哲学作为精神的避难所，这是我思想的第二个转折。第三个转折的时间就是最近了，我终于发现我所信仰依靠的哲学彷佛是也只是我的一个安乐花园，只是我不忍心面对现实众多苦难从而选择的一个逃避的场所。几年前的我因为高考改变了思想，谁又能想到几年后的我同样也是因为高考再一次转变了思想，一轮一回，冥冥之中，自有天意。</p>
+<p>其实每次思想发生重大转变前夕，我都会非常的迷茫，三年前的我是这样，现在的我也是这样。我从未想到有这么一天我会否定我之前的行为，我会突然间的认为过去种种行为写满了“逃避”二字。每逢此情此景，一种颓废的荒唐感便会袭来全身。但也正是因为经历过荒唐感之后带来的那种玄之又玄的体会，我才相信是有“开悟”一说，我才能够相信我的思想变得更深层次。至于是进步还是退步，是先进还是落伍，是积极还是消极，是正面还是逃避，只有等以后再回头自我反思之后，才能下结论。</p>
+<p>我现在正身陷于颓废的荒唐感之中，但我认为能够否定过去的思想行为便是种改变，虽然不一定能有所改观，毕竟行为习惯已经慢慢固定，思维模式亦然。我想起100多年前的人们探索救国道路的情景，从师夷长技以制夷，到百日维新，到新文化运动，再到马列主义，正确的道路就是在这种一步步地修正与改造中被发现的，所谓不破不立是矣。人的思想观也是，至少我已经接触过不同的主义与哲学，并不是说他们都不合适我，而是他们出现在了并不适合他们长期生存繁衍的、与应该形成这些思想观点的年龄不相符的我的脑袋里。在错误的时间错误的地方误打误撞遇见了也许是不合适的思想，多数人一辈子都是这样。所以一辈子上下求索，潜心问道，如是。</p>
+<p>不知何时能拨云见日 ，甲光向日金陵开。我想我必会寻找到新的思想作为指引我的旗帜，而这一次，我相信我的思考将会更加成熟。</p>
+]]></content>
+      <categories>
+        <category>docs</category>
+      </categories>
+  </entry>
+  <entry>
     <title>最后一次</title>
     <url>/docs/docs/%E6%9C%80%E5%90%8E%E4%B8%80%E6%AC%A1/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>我深知这极有可能是我们最后一次见面、最后一次吃饭、最后一次一起逛街。</p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>我深知这极有可能是我们最后一次见面、最后一次吃饭、最后一次一起逛街。</p>
 <p>但是我还是义无反顾的与你一起畅想下一次去哪里玩，一起坐船，一起去逛商店。</p>
 <p>或许我们彼此都深知这一点，但都不说破。</p>
 <p>或许是我们也知道这是最后一次。最美的梦总是像吹在嘴边的泡泡糖，一旦说破了，梦就不见了。</p>
@@ -896,9 +736,204 @@
       </categories>
   </entry>
   <entry>
+    <title>末日的审判</title>
+    <url>/docs/docs/%E6%9C%AB%E6%97%A5%E7%9A%84%E5%AE%A1%E5%88%A4/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>周日，阴雨的早晨。</p>
+<p>早期智人伸了一个懒腰，揉了揉尚未睁开的双眼，抬起还没有完全清醒的脑袋，向洞口摇摇晃晃地走去。迎接他的不是往日的煦日和风，而是滂沱大雨。他慌忙躲进洞中。这下，他完全清醒了。</p>
+<p>早期智人逐渐进化成了现代人类。</p>
+<p>周日，阴雨的早晨。</p>
+<p>现代人类伸了一个懒腰，揉了揉尚未睁开的双眼，抬起还没有完全清醒的脑袋，打开木制的门，摇摇晃晃地走出去。迎接他的不是往日的煦日和风，而是滂沱大雨。他慌忙躲进屋内。这下，他完全清醒了。</p>
+<p>雨哗哗的下个不停，天上的窗口好像也打开了。连续几天雨一直下。四十天过去，雨还在下。终于，这场持续很长时间的暴雨停了下来。雨水淹没了平地，淹没了高山，禽鸟亦无踏足之地，一切生灵皆丧命于这场暴雨之中，唯独诺亚一家进了方舟，得以存活。</p>
+<p>现代人类逐渐进化成了现代智人。</p>
+<p>周日，阴雨的早晨。</p>
+<p>“据最新消息，航拍卫星在阿勒山附近再次拍到了类似于诺亚方舟的遗骸，船身……”迈克教授正坐在临时搭建的大本营中避雨。“奇怪的天气，原来说是最近一周晴朗无云，天怎么说变就变。”迈克教授不免发发牢骚。</p>
+<p>迈克教授是一名以色列考古学家，也是一名登山爱好者。他曾经征服了许多世界著名高峰，成功登顶珠穆朗玛峰的事更是被考古学同行们大加赞赏。按照人们的惯性思维，考古学家总是那种戴着眼镜身体瘦弱的人，但迈克教授却完全不同。</p>
+<p>“这座山里拍摄到了诺亚方舟？笑话。现在的人们，总是喜欢将神话故事与现实混为一谈。”迈克教授不由自主的感叹道。考古多年，这类事情他见得多的去了。</p>
+<p>雨终于停了。他带上装备，收拾好东西，又继续向上爬。此时此刻，迈克教授正在阿勒山上。他不知爬了多久，忽然在山上发现了一个洞口。于是，他便选择在这里稍作整顿。可在他进入洞口的那一瞬间，他目瞪口呆：洞中的墙壁上画的都是些什么！考古学家的本性流露出来，他忍不住走近观察，这，是原始罪恶么？难道这两个人是亚当和夏娃？这又是什么？他一幅接着一幅地看，直到最后一幅壁画。</p>
+<p>洪水。</p>
+<p>150天的洪水淹没了大地淹没了一切有生命的东西。他惊得说不出话。这些壁画，据初步判断，时间应该在几千年之前呐！他不免低下头沉思。忽然，他看见远处似乎有什么建筑物。他小步跑去。洞内越来越宽阔，前方的建筑也越来越明显。没错，是一个祭坛。他不禁想起《圣经》中的话：“诺亚为上帝建了一所祭坛。”</p>
+<p>忽然，他大叫一声，应声倒地。</p>
+<p>他是被人从身后击昏在地。</p>
+<p>再次醒来时，天气是那么的晴朗。他揉了揉尚未睁开的双眼，抬起还没有完全清醒的脑袋坐了起来。迈克教授慢慢的回忆起自己的遭遇，他猛然起身，想去找那个洞口时，才发现自己正坐在阿勒山的山顶上。</p>
+<p>“莫非，诺亚方舟的事历史上真的有过？那将是惊天动地的发现啊。”</p>
+<p>而此时此刻，比起这些，他更享受站在山顶向下俯视的感觉。他再次出发，准备下山返回。然而当他下山时，他的脚步像是受到了什么力量的牵引，毫不犹豫的朝一个方向走去。</p>
+<p>“我这是怎么了？”他自言自语道。“起来，向前走。”他忽然感觉到心里有什么声音在一直提醒他。终于，他停下了脚步。与脚步一起停下的，还有他的眼睛。</p>
+<p>眼前的，正是迷失多年的诺亚方舟。</p>
+<p>绕着尚可踏足的地方走了一圈，他不禁为这只方舟而震撼。当时的人们怎么会有如此的力量建造这么雄伟的方舟。他最终决定打开木门。歌斐木制的船身有些已经腐蚀。“飞鸟各从其类，禽兽各从其类，一公一母地带入方舟。”望着眼前一个又一个独立而精致的小室，他不由的感叹。</p>
+<p>内部构造是多么精美啊！他想起了《圣经》上的话，“分三层”，于是他想，他看到的可能是第一层。一根又一根的歌斐木堆在一起，舟身居然还有透光处。他找到了类似于楼梯的构造，便爬了上去。</p>
+<p>船身在缓缓的倾斜。</p>
+<p>第二层与第一层结构相仿。唯一不同的是，第二层所分的空间比第一层更细致，也更狭小。</p>
+<p>船身在缓缓的倾斜。</p>
+<p>第三层也是如此，只不过，空间更大了些，倒像是诺亚的住所。</p>
+<p>方舟笔直的坠落。</p>
+<p>迈克教授正躺卧在他所进入的那个神秘山洞中，伸了一个懒腰，揉了揉尚未睁开的双眼，抬起还没有完全清醒的脑袋，摇摇晃晃地走出去。突然，他发现似乎有一个人，正在缓缓的走进山洞。那个人面貌模糊不清，但好像在盯着墙上的什么东西。他找了找身边可以用的东西，只发现了背包里的铁棍。那个人越来越近，直到他完全停下脚步。迈克教授悄悄地走到他身后，突然一棒挥去，那个人应声倒地。</p>
+<p>迈克教授应声倒地。</p>
+<p>迈克教授发现自己正躺卧在一条巨轮上。不，说是巨大的船也许更加合适。歌斐木制的船身摇摇晃晃。“这是在哪？”迈克教授四下里看了看，自己好像正坐在船的顶层。他慢慢的回忆起自己的经历，慢慢地想起自己击昏的那个人惊恐的脸——那不是他自己么！</p>
+<p>“这是怎样的遭遇，我居然自己击昏了自己！”他顾不得去解释这些神秘的体验，连忙爬起来，向周围走动。</p>
+<p>他找到了类似于楼梯的结构，便爬了下去。下面，都是飞禽走兽，各从其类。他的头突然有一点昏昏沉沉，“飞鸟各从其类，禽兽各从其类，一公一母地带入方舟。”他忽然想起什么，匆匆忙忙地爬上去打开了窗子。</p>
+<p>天正在下着瓢泼大雨。</p>
+<p>天终于晴了，他再次打开窗户，放出一只乌鸦去。那乌鸦飞来飞去，直到地上的水都干了。他又放出一只鸽子，要看看地上的水退去了没有。但遍地都是水，鸽子找不到落脚之地，就回到船里面。迈克教授等了几天又把鸽子放了出去，到了晚上，鸽子飞回到他那里，嘴里叼着一个新拧下来的橄榄叶子。迈克教授就知道地上的水退了。当他七天后再次放出鸽子时，鸽子就不再回来了。</p>
+<p>地上的水好像都退去了。于是，迈克教授打开了船的窗子，船的门。</p>
+<p>洪水汹涌着灌进船身。</p>
+<p>“你醒了。”</p>
+<p>“你还记得发生了什么？”</p>
+<p>迈克教授站在一个雾气缭绕的园子里，不知所措。</p>
+<p>“我记得我发现了一个神秘的山洞，进去之后看到了许多古老的壁画，然后就被人击昏了。”迈克教授停了下来，若有所思。“但那个人好像是我自己。”</p>
+<p>“我醒来时发现自己正在阿勒山的山顶。在下山途中，发现了诺亚方舟……”</p>
+<p>“你还记得什么？”那个声音打断了他，继续问道。</p>
+<p>“我记得我又回到了山洞中，并且出于防备，击昏了一个人，但，我发现击昏的人好像是我自己啊。”迈克教授好像十分苦恼，他似乎找不到什么合理的理由来解释这一切。</p>
+<p>“我好像又回到了方舟上，不过天正在下暴雨。等到雨停后，我打开了门，后来就不知道了。”</p>
+<p>“你还记得什么？”那个声音继续问道。</p>
+<p>“我说过了我记不清了。”</p>
+<p>“你还记得什么？”那个声音继续问道。</p>
+<p>“这是哪？”迈克教授没有理会那个声音，因为他的心中有很多的疑问亟待解决。</p>
+<p>“这是伊甸园，独居的民最后的归宿。”</p>
+<p>“独居的民？我怎么到这里来了？”迈克教授恨不得把所有的问题一连串的说出。此时此刻，他的心中充满了疑惑，他对自己所经历的一切感到十分恐惧。</p>
+<p>他并不知道回答他的声音从哪里来，像是从天上，又像是从心里；他也不知道对他说话是谁。但他就是有一种感觉——那个人好像知道一切。</p>
+<p>“独居的民是上帝的选民，他们终将万民之中分离开来。”</p>
+<p>“你是谁？”迈克教授目瞪口呆而又惊慌失措的看着周围的一切。雾气从地上腾出，滋润遍地。四条河流从那地流出，环绕全地。</p>
+<p>“他是谁并不重要，重要的是，你是谁。”</p>
+<p>迎面走来一位白衣老者。他慈祥的笑容中又好像多了一份圣洁。“你是上帝的选民，你是那独居的民。万物的结局近了，所以你要警醒自守。”</p>
+<p>“您是？”迈克教授忽然想起，他可能是一位先知。先知并没有回答他，他只是笑了笑，若有所思地说道，“到那时，兽的印记会标记在人们的身上，又会有各种的异象……”</p>
+<p>“您能告诉我为什么我会在这里么，我现在一头雾水，我经历了到底是些什么？”迈克教授略带恐慌的打断了他。先知并没有生气，依然温和地笑着。</p>
+<p>“今天是周日，是上帝的安息日。你闯入了上帝曾与诺亚立约的圣殿。确实是你自己击昏了自己，只不过被击昏的，是你已死去的老我。你现在是一个新造的人，上帝拣选了你。”</p>
+<p>“你经历的一切，只不过是上帝的灵临到了你到身上，是你被上帝拯救的全过程。从今以后，你就是一个义人。因为时候已到，上帝必将你们从万民中分离开来。”</p>
+<p>迈克教授听得不知所措，“您的意思是，上帝真实存在，而且还要毁灭万民么？”他有点难以置信，但事到如今，他仿佛找不到什么更好的理由去解释这一切。他忽然想起了曾经他的教授说过的一句话：一切问题的根源到最后都要用神学来解释。</p>
+<p>“这是个罪恶的时代，人们放纵情欲与肉体，沉溺在罪恶之中。你们的仇敌魔鬼如同吼叫的狮子，遍地寻找可吞吃的人。这个时代不再会有诺亚，也不再会有方舟。”</p>
+<p>迈克教授目光呆滞，他看着眼前的先知，这位老者，感到有些意外。他好像是……</p>
+<p>他是在山洞中被自己击昏的人！迈克教授满脸惊恐，哆哆嗦嗦的伸出一只手指向先知，“你不是……”</p>
+<p>“没错，我是你。我也是诺亚。”先知笑了笑，逐渐转身消失。</p>
+<p>七位天使掌管着最后的灾，上帝大怒的七碗倒扣在地。</p>
+<p>生命册缓缓打开，世界迎来了末日的审判。</p>
+<p>那是一片新天新地。</p>
+<p>人们再次发现迈克教授时，是在阿勒山的一个山洞里。令人匪夷所思的是，此时的迈克教授目光空洞。而且在山洞里，人们还发现了另外一具没有头颅的尸体。与此同时，人们还走进了方舟中，并进一步确认了这就是神话故事中的诺亚方舟。</p>
+<p>迈克教授仍然目光空洞的待在山洞里。几天没有进食，但他的生命特征仍然明显。</p>
+<p>“你们看墙上！”一名科考队员吃惊的喊道。</p>
+<p>迈克教授突然间笑了笑，他飞快地奔向洞内，来到祭坛前。</p>
+<p>山洞轰然倒塌。</p>
+<p>再也没有方舟的出现。</p>
+<p>天开始下起了一场永不停息的雨。</p>
+]]></content>
+      <categories>
+        <category>docs</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>地铁</title>
+    <url>/docs/docs/%E5%9C%B0%E9%93%81/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>坐在地铁上的座位上，百无聊赖的看着手机闪光的屏幕打发时间。还有多久才能到站呢？或许很久吧。</p>
+<p>“九龙湖站到了。”地铁传来沉闷的报站声。我抬头看了看地铁屏幕上的字，又低下头来。</p>
+<p>“最近过得怎么样呢？”</p>
+<p>“每天都是那样，索然无味。生活的意义到底是什么呢？”</p>
+<p>“活着便是意义吧。”</p>
+<p>“请要下车的乘客做好准备。”</p>
+<p>生活是一趟永不停息的列车，大家在不同的地方上车，却在同一个终点站下车。命运总是如此戏谑，你永远不知道身边的乘客是谁，谁会半路下车，而又有谁会中途上车坐在你的对面或身旁。</p>
+<p>生活是一趟不可回头的列车，一旦搭乘便向终点义无反顾地开去，永不回头。</p>
+<p>“诚信大道站到了。”</p>
+<p>生活和地铁又有多大的区别呢？我靠着椅子，关上手机。车厢里的人逐渐散去，我突然发现，整节车厢只有我一个人。或许生命到了最后也是这般？一个人孤独的到终点，一个人下车离去。</p>
+<p>生活总是充满了烦恼。就像她，仿佛近在眼前，却也悄悄的离去。但就算重来，我还会有所改变么？</p>
+<p>地铁缓缓的停了下来，我也缓缓的站了起来。耳边的风静悄悄的吹过，指间的水也悄悄的滴下。</p>
+<p>“九龙湖站到了。”屏幕上滚动着显示出这么几个字。</p>
+<p>我看了看笑了笑。</p>
+<p>突然一愣，仿佛在那么一瞬间，世界都静止了。</p>
+<p>这趟永不回头的地铁，这趟脚步不停的地铁，是回头了吗，是停住脚步往回走了吗？</p>
+<p>我站在打开的门前，犹豫着要不要下车。时间静静地流逝，却也仿佛能听见嘀嗒的水流声。</p>
+<p>门就这么开着，也没有急促的关门的提示音。</p>
+<p>终于，我迈出了第一步。</p>
+<p>当我的脚终于踏上站台，我感觉指尖多了些什么。低头一看，指尖的水也正在看着我，缓缓上升，慢慢爬到我的脸上，爬进眼睛里。</p>
+<p>我走出站台。似乎与平常无异，似乎又有那么些区别。指示牌还是在哪里告诉着人们前进或是后退的方向，检票口还是吞咽或是吐出一枚枚硬币。我站在那里，好像与这一幕融为一体，成为画中人；又好像与这个世界格格不入。可是这终归不是我的终点站，就算下站又有什么意义？</p>
+<p>转身回去。地铁还是在那里停着，仿佛预料到我会回头。门依旧没关，依旧没有急促的滴滴声。</p>
+<p>我突然意识到，我踏上的是一趟特殊的地铁。</p>
+<p>再次进入车厢里，还坐在原来的座位上。车厢里依旧空无一人，一排排扶手像不会说话的风铃一样闭着眼。</p>
+<p>门关了。我看着窗外的广告牌开始慢慢向身后溜走，最终成为一道光影。隧道里黑漆漆一片，只有车内亮着微弱的灯。抬头看了看，车顶仿佛映着天，那么广阔，什么也看不清，什么也看不全，什么重点也把握不住。那干脆闭上眼睛吧，什么都不去想，什么都不去做，什么事情都不管不顾，任由地铁载着我，去往不知名的远方。</p>
+<p>车停了，鸡鸣寺，40分钟前。我看着我自己站在地铁站的出口，站在十字路口的中央，徘徊在梧桐树下，徘徊在古老校区的门口。我看见我发着消息，却记不清发的是什么。</p>
+<p>“是在最大的那个门等你么？”</p>
+<p>“嗯，就是有四个大字的那个门。”</p>
+<p>她来了，和别人一起。</p>
+<p>她好像看见我了，却又好像没看见。因为我面对着她，她却与我擦肩而过。</p>
+<p>她看了我一眼，也只看了我一眼。</p>
+<p>有些人原来一辈子都不会与你有交集，可总在阴差阳错之下与你相遇相识相知，又在不知不觉中离你而去。</p>
+<p>她走了，和别人一起。</p>
+<p>我走了，孑然一身。</p>
+<p>车停了，排练室，1天前。我看见我自己拿着琴和别的朋友一起讨论着和弦的走向，只为她来的时候能听到最动人的旋律。弦乐器唱着歌，月亮也变成湖水，爱也变成了舟。</p>
+<p>她进来了，紫色的衣裳甚是好看。她看着我露出甜美的笑容，而我却微微失神。手中的琴弦停了下来，朋友的黑白键依旧在不停跳动。</p>
+<p>她开心的看着排练室多种多样的乐器，忍不住想敲打架子鼓，便径自坐在椅子上，正如现在坐在车内看着这一幕幕的我一样。手中的棒槌比划着敲打下去，连鼓也闷哼出微微的叹息。</p>
+<p>当时的我笑的多快乐，笑的多开心。</p>
+<p>车内的我也不免嘴角上扬，仿佛我只是个看客，这些故事都与我无关。</p>
+<p>“下一站。”</p>
+<p>车并不会停留，好像一直也不会停留。我始终坐在车上，时间缓缓地倒退，曾经的一幕幕慢慢呈现在我眼前。</p>
+<p>车又停了。门开了。</p>
+<p>是到站了吗？我起身踏上站台，走出车站。</p>
+<p>月色朦胧，出发的时候是下午，不知不觉已经是晚上了？</p>
+<p>周围都是陌生的人，陌生的街道。几辆归途的车驶过，昏暗的灯光也阻挡不了回家的心。</p>
+<p>不，好像也有点熟悉。</p>
+<p>一年前。那时的我好像就这样拥有了她，拥有了一切。</p>
+<p>一年前，我记得我就在这里向她告白，也是一个月色朦胧的夜晚。</p>
+<p>一年前，那时的我还怀揣炙热的心，那时的她还拥有羞涩的表情。</p>
+<p>一年前，一年的时光飞速溜走。</p>
+<p>我站在这里，深有感触。这一切的一切逐渐熟悉逐渐清晰，却又让人无可奈何。</p>
+<p>“在想什么呐？”</p>
+<p>我回头发现，她向我走来。恍恍惚惚，真实而又不真实。我向她挥了挥手，却没收到任何的回应。</p>
+<p>她双眼直视前方，面带微笑。她好像看不见我。</p>
+<p>她从我身边经过。</p>
+<p>就这样，再一次擦肩而过。</p>
+<p>如果明知道结局，那么还会开始吗？我坐在地铁上，低头沉思。留在时光中的都是那些闪亮的回忆，好像所有的难过与心酸都随风而逝，在风中飘荡。</p>
+<p>车又一次停下来，仿佛也是最后一次停下来。</p>
+<p>“终点站到了。”</p>
+<p>刺耳的女声响起时，也标志着旅途到达终点。</p>
+<p>这次会回到哪里呢？我想会是第一次相遇的地方吧。记忆中的梧桐树下是那么的美好。她拿着手中的课本静静地坐在树下的长椅上。</p>
+<p>如果不相遇，又会是什么样呢？现在坐在我身边的乘客会是她么？</p>
+<p>她好像能看得见我，向我微微点头。</p>
+<p>我点头致意，沉默，坐在她的身旁。</p>
+<p>如果选择开始，便不会回头，一去不复返；如果知道了结局，还会继续么？</p>
+<p>或许生活的乐章就是这样不确定才变得跌宕起伏。</p>
+<p>“你好，你是？”</p>
+<p>如果已经知道了最后还是在这里，还是在梧桐树下，我们转身离去，渐行渐远，如果。</p>
+<p>我望着她，眼带笑意。</p>
+]]></content>
+      <categories>
+        <category>docs</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>故事的开始总是这样</title>
+    <url>/docs/docs/xenoblade2/%E6%95%85%E4%BA%8B%E7%9A%84%E5%BC%80%E5%A7%8B%E6%80%BB%E6%98%AF%E8%BF%99%E6%A0%B7/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>在一片云海中，一个带着头盔的人正向着海底的岩石发射自己左臂上的钩锚。他慢慢的向海底靠近，在海底的箱子上安装一个气球。随着气球逐渐膨胀，箱子也慢慢的上浮，直至露出云海。</p>
+<p><img src="https://pic1.zhimg.com/80/v2-fc3a1b42c62862a093dc498a0f29b48c_1440w.jpg" alt="image"></p>
+<p>终于，他把箱子搬到了一块空地之上。这块空地看起来毛茸茸的，甚至还有些青绿。他脱掉头盔，长叹了一口气：</p>
+<p>“唉——还是应该换一台探测器的。竟然往东偏了150之多，简直难以置信。”</p>
+<p>“宝物情况如何，和你的预测一样吗，莱克斯？”一个苍老的声音响起。</p>
+<p>“看起来还挺结实的，也没什么加固的必要，扣掉劳务费，应该还能赚上一笔。”</p>
+<p>“计算打捞物的构造花了整整两天，算起损益倒是挺快。”说着，不远处的“陆地”动了起来，一只巨大的生物回头看了看莱克斯，他的脖子毛绒绒的，头顶还有一只长角。</p>
+<p><img src="https://pic2.zhimg.com/80/v2-8195f39f6c939a1378f35bc279cf0cc1_1440w.jpg" alt="image"></p>
+<p>“好烦啊，爷爷，我是有生意头脑的打捞员啦！”莱克斯一边说着，一边卖力的拿着铁锹努力的想撬开刚刚打捞上来的箱子，“你就不能夸我一句聪明能干——吗！”话音刚落，箱子也随之被撬开，出现在眼前的是一只巨型螃蟹。</p>
+<p>“呜哇，吓到我了，原来是这家伙的窝。”</p>
+<p>“莱克斯！”</p>
+<p>“别担心！”说着，莱克斯回屋拿了一把刀，“今天的午饭就是它了！”</p>
+]]></content>
+      <categories>
+        <category>docs</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>写作起因</title>
+    <url>/docs/docs/xenoblade2/%E4%BA%8C%E5%91%A8%E7%9B%AE/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>还记得之前的我几乎不会去玩游戏，直到有一天我接触到了塞尔达传说·旷野之息。我只能说，真香。这是一款完全开放的世界，我可以在这个世界里做任何我想做的事。随着王国之泪的发售，这种开放世界的自由度被进一步提高，游戏的可玩性也得到了进一步的加强。</p>
+<p>王国之泪于5.12号发布。说实话，这部游戏我期待了很久，而当宣传片发布的那几个夜晚，我总是蜷缩在被窝里目不转睛的看着，大呼过瘾，恨不得立刻上手体验游戏。然而就连我自己都没想到的是，直至今日，王国之泪我游玩的时间还不超过1个小时。</p>
+<p>曾经的热情期盼，到现在的冷静处理，并不是因为我“成熟”了或者是过于忙碌，而是因为，我遇到了另一款游戏——异度之刃2（异度神剑2）。</p>
+<p><img src="https://pic1.zhimg.com/80/v2-b4ee0fd7c94391dbe290ba10c5c15fdc_1440w.jpg" alt="image"></p>
+<p>也许我玩过的游戏不多，亦或许我对这种所谓的日式剧情了解甚少，所以当我第一次接触这款游戏，我被剧情深深的感染，甚至在看过网上的评测家们的评论之后也不能对其缺点产生共鸣。在我心中这就是一部完美的作品，哪怕真的有瑕疵，也只能说是瑕不掩瑜。和塞尔达这一部优秀的作品相比，异度之刃2的优秀体现在更深的层次。塞尔达游戏性很强，非常耐玩，完全满足了我探索世界的欲望，我愿意把它称之为“物欲”层面上的打击；而相比之下，异度神剑2更像是一种“精神上的打击”，他让我在游戏结束之后仍然能够回味不尽，为跌宕起伏的剧情而感慨，为分分合合的故事而感动落泪。</p>
+<p>是的，也许正是年岁增长，我的内心也变得越来越柔软。曾以为自己对这种程度的故事并不会有情绪上巨大的起伏，但真正看完之后，我还是会多次落泪，尤其是片尾曲响起时，充满不舍的告白与不想分开而不得不分开的心酸挣扎，直击我的泪腺，让我痛哭不已。</p>
+<p>人们常说，悲伤的时候是最适合进行创作的时候，此言不假。难得有这样的情感存在，我并不想浪费，因此，我打算把异度之刃2的故事用我自己的视角和将它的理解记录下来，以作留念。这无疑是一个巨大的工作量，但是，我觉得值得。</p>
+]]></content>
+      <categories>
+        <category>docs</category>
+      </categories>
+  </entry>
+  <entry>
     <title>梦境</title>
     <url>/docs/docs/%E6%A2%A6%E5%A2%83/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>“毕竟几人真得鹿，不知终日梦为鱼。生活就像戏剧，清醒的人永远分不清梦境与现实。”</p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>“毕竟几人真得鹿，不知终日梦为鱼。生活就像戏剧，清醒的人永远分不清梦境与现实。”</p>
 <p>有人常说，这个宇宙中存在着平行世界。在那里，生活着和你完全一样的你，你的朋友，你的家人。那里有和你所生活的世界中一模一样的花花草草，一模一样的高楼大厦。而联系着两个世界的唯一途径，便是梦。</p>
 <p>羽木也是这么想的。</p>
 <p>羽木做了个梦。在做这个梦之前他绝对不会想到这个梦有多么的离奇，正如一件事情在未结束之前永远也猜不到结局一般。和往常一样，他在床上看了半个多小时的手机。黑暗的侵蚀下唯有手机的屏幕映射出微弱的亮光，吸引着小飞虫们前来舞蹈。</p>
@@ -949,9 +984,25 @@
       </categories>
   </entry>
   <entry>
+    <title>后记</title>
+    <url>/docs/docs/xenoblade2/%E5%90%8E%E8%AE%B0/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script>]]></content>
+      <categories>
+        <category>docs</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>第七章 崭新的利剑</title>
+    <url>/docs/docs/xenoblade2/%E7%AC%AC%E4%B8%83%E7%AB%A0/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script>]]></content>
+      <categories>
+        <category>docs</category>
+      </categories>
+  </entry>
+  <entry>
     <title>茶话会</title>
     <url>/docs/docs/%E8%8C%B6%E8%AF%9D%E4%BC%9A/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>“你相信有魔法吗？”</p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>“你相信有魔法吗？”</p>
 <p>“魔法，魔法就是……炸弹！”粽子一把甩出一堆牌。</p>
 <p>“看我七张二，谁能挡我，谁能挡我，哈哈哈！”言毕，一阵猖狂的笑声后，他继续说道：</p>
 <p>“我就剩一张牌了，你们谁能秒我，谁能秒我？”</p>
@@ -1277,60 +1328,9 @@
       </categories>
   </entry>
   <entry>
-    <title>后记</title>
-    <url>/docs/docs/xenoblade2/%E5%90%8E%E8%AE%B0/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
-      <categories>
-        <category>docs</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>故事的开始总是这样</title>
-    <url>/docs/docs/xenoblade2/%E6%95%85%E4%BA%8B%E7%9A%84%E5%BC%80%E5%A7%8B%E6%80%BB%E6%98%AF%E8%BF%99%E6%A0%B7/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>在一片云海中，一个带着头盔的人正向着海底的岩石发射自己左臂上的钩锚。他慢慢的向海底靠近，在海底的箱子上安装一个气球。随着气球逐渐膨胀，箱子也慢慢的上浮，直至露出云海。</p>
-<p><img src="https://pic1.zhimg.com/80/v2-fc3a1b42c62862a093dc498a0f29b48c_1440w.jpg" alt="image"></p>
-<p>终于，他把箱子搬到了一块空地之上。这块空地看起来毛茸茸的，甚至还有些青绿。他脱掉头盔，长叹了一口气：</p>
-<p>“唉——还是应该换一台探测器的。竟然往东偏了150之多，简直难以置信。”</p>
-<p>“宝物情况如何，和你的预测一样吗，莱克斯？”一个苍老的声音响起。</p>
-<p>“看起来还挺结实的，也没什么加固的必要，扣掉劳务费，应该还能赚上一笔。”</p>
-<p>“计算打捞物的构造花了整整两天，算起损益倒是挺快。”说着，不远处的“陆地”动了起来，一只巨大的生物回头看了看莱克斯，他的脖子毛绒绒的，头顶还有一只长角。</p>
-<p><img src="https://pic2.zhimg.com/80/v2-8195f39f6c939a1378f35bc279cf0cc1_1440w.jpg" alt="image"></p>
-<p>“好烦啊，爷爷，我是有生意头脑的打捞员啦！”莱克斯一边说着，一边卖力的拿着铁锹努力的想撬开刚刚打捞上来的箱子，“你就不能夸我一句聪明能干——吗！”话音刚落，箱子也随之被撬开，出现在眼前的是一只巨型螃蟹。</p>
-<p>“呜哇，吓到我了，原来是这家伙的窝。”</p>
-<p>“莱克斯！”</p>
-<p>“别担心！”说着，莱克斯回屋拿了一把刀，“今天的午饭就是它了！”</p>
-]]></content>
-      <categories>
-        <category>docs</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>写作起因</title>
-    <url>/docs/docs/xenoblade2/%E4%BA%8C%E5%91%A8%E7%9B%AE/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>还记得之前的我几乎不会去玩游戏，直到有一天我接触到了塞尔达传说·旷野之息。我只能说，真香。这是一款完全开放的世界，我可以在这个世界里做任何我想做的事。随着王国之泪的发售，这种开放世界的自由度被进一步提高，游戏的可玩性也得到了进一步的加强。</p>
-<p>王国之泪于5.12号发布。说实话，这部游戏我期待了很久，而当宣传片发布的那几个夜晚，我总是蜷缩在被窝里目不转睛的看着，大呼过瘾，恨不得立刻上手体验游戏。然而就连我自己都没想到的是，直至今日，王国之泪我游玩的时间还不超过1个小时。</p>
-<p>曾经的热情期盼，到现在的冷静处理，并不是因为我“成熟”了或者是过于忙碌，而是因为，我遇到了另一款游戏——异度之刃2（异度神剑2）。</p>
-<p><img src="https://pic1.zhimg.com/80/v2-b4ee0fd7c94391dbe290ba10c5c15fdc_1440w.jpg" alt="image"></p>
-<p>也许我玩过的游戏不多，亦或许我对这种所谓的日式剧情了解甚少，所以当我第一次接触这款游戏，我被剧情深深的感染，甚至在看过网上的评测家们的评论之后也不能对其缺点产生共鸣。在我心中这就是一部完美的作品，哪怕真的有瑕疵，也只能说是瑕不掩瑜。和塞尔达这一部优秀的作品相比，异度之刃2的优秀体现在更深的层次。塞尔达游戏性很强，非常耐玩，完全满足了我探索世界的欲望，我愿意把它称之为“物欲”层面上的打击；而相比之下，异度神剑2更像是一种“精神上的打击”，他让我在游戏结束之后仍然能够回味不尽，为跌宕起伏的剧情而感慨，为分分合合的故事而感动落泪。</p>
-<p>是的，也许正是年岁增长，我的内心也变得越来越柔软。曾以为自己对这种程度的故事并不会有情绪上巨大的起伏，但真正看完之后，我还是会多次落泪，尤其是片尾曲响起时，充满不舍的告白与不想分开而不得不分开的心酸挣扎，直击我的泪腺，让我痛哭不已。</p>
-<p>人们常说，悲伤的时候是最适合进行创作的时候，此言不假。难得有这样的情感存在，我并不想浪费，因此，我打算把异度之刃2的故事用我自己的视角和将它的理解记录下来，以作留念。这无疑是一个巨大的工作量，但是，我觉得值得。</p>
-]]></content>
-      <categories>
-        <category>docs</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>第七章 崭新的利剑</title>
-    <url>/docs/docs/xenoblade2/%E7%AC%AC%E4%B8%83%E7%AB%A0/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
-      <categories>
-        <category>docs</category>
-      </categories>
-  </entry>
-  <entry>
     <title>第一章 相遇</title>
     <url>/docs/docs/xenoblade2/%E7%AC%AC%E4%B8%80%E7%AB%A0/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><img src="https://pic3.zhimg.com/80/v2-4241343bd6cce18d32d4dde50b56973e_1440w.jpg" alt="image"></p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p><img src="https://pic3.zhimg.com/80/v2-4241343bd6cce18d32d4dde50b56973e_1440w.jpg" alt="image"></p>
 <p>一望无垠的纯白，以高耸入天的世界树为中心，铺展开来的云海，这里就是我们生活的世界，幽界。莱克斯在小火炉上烤着蟹腿，仰望着天空。</p>
 <p>遥远的过去，在世界的诞生之初，据说人类曾与居住在世界树上的创世神一同生活。构筑于苍穹之上的富饶大地，是一片可以转昼为夜，转雨为晴的理想乡，人们将其称为——乐园。但某一天，人类被逐出了乐园，没有人知道理由，是因为触怒了神，还是出于别的原因。被赶出乐园的人类移居至幽界，但却无法长存。就在人类濒临灭亡时，于心不忍的神，将自己的仆从——阿鲁斯，也就是人们口中的巨神兽遣至幽界，挽救了人类。莱克斯抬头看了看爷爷，他也是一只巨神兽。</p>
 <p>少数幸存的人类移居至巨神兽，与其共度了数以万计的日夜。而那些巨神兽，如今正濒临死绝……</p>
@@ -1638,57 +1638,17 @@
       </categories>
   </entry>
   <entry>
-    <title>第三章 战争</title>
-    <url>/docs/docs/xenoblade2/%E7%AC%AC%E4%B8%89%E7%AB%A0/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
-      <categories>
-        <category>docs</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>第八章 世界树</title>
-    <url>/docs/docs/xenoblade2/%E7%AC%AC%E5%85%AB%E7%AB%A0/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
-      <categories>
-        <category>docs</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>第五章 枷锁</title>
-    <url>/docs/docs/xenoblade2/%E7%AC%AC%E4%BA%94%E7%AB%A0/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
-      <categories>
-        <category>docs</category>
-      </categories>
-  </entry>
-  <entry>
     <title>第九章 雨</title>
     <url>/docs/docs/xenoblade2/%E7%AC%AC%E4%B9%9D%E7%AB%A0/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script>]]></content>
       <categories>
         <category>docs</category>
       </categories>
   </entry>
   <entry>
-    <title>第六章 伤痕</title>
-    <url>/docs/docs/xenoblade2/%E7%AC%AC%E5%85%AD%E7%AB%A0/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
-      <categories>
-        <category>docs</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>第十章 于是 少年遇到了少女</title>
-    <url>/docs/docs/xenoblade2/%E7%AC%AC%E5%8D%81%E7%AB%A0/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
-      <categories>
-        <category>docs</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>第四章 天之圣杯</title>
-    <url>/docs/docs/xenoblade2/%E7%AC%AC%E5%9B%9B%E7%AB%A0/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
+    <title>第三章 战争</title>
+    <url>/docs/docs/xenoblade2/%E7%AC%AC%E4%B8%89%E7%AB%A0/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script>]]></content>
       <categories>
         <category>docs</category>
       </categories>
@@ -1696,7 +1656,7 @@
   <entry>
     <title>第二章 机械人偶</title>
     <url>/docs/docs/xenoblade2/%E7%AC%AC%E4%BA%8C%E7%AB%A0/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>“就是这样，我们九死一生的逃回来了嗼。”</p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>“就是这样，我们九死一生的逃回来了嗼。”</p>
 <p>“什么就是这样嗼！你是笨蛋嗼？如果不按计划死在那里嗼，之后对方让我退钱怎么办嗼？”巴恩会长狠狠的拍着桌子，对着桌上的通讯镜说。</p>
 <p>“咦，死——退钱是什么意思？”镜子里的普宁问道。</p>
 <p>“哼，和你无关嗼。之后莱克斯和他的异刃去哪里了嗼？”</p>
@@ -2443,9 +2403,57 @@
       </categories>
   </entry>
   <entry>
+    <title>第五章 枷锁</title>
+    <url>/docs/docs/xenoblade2/%E7%AC%AC%E4%BA%94%E7%AB%A0/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script>]]></content>
+      <categories>
+        <category>docs</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>第十章 于是 少年遇到了少女</title>
+    <url>/docs/docs/xenoblade2/%E7%AC%AC%E5%8D%81%E7%AB%A0/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script>]]></content>
+      <categories>
+        <category>docs</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>第六章 伤痕</title>
+    <url>/docs/docs/xenoblade2/%E7%AC%AC%E5%85%AD%E7%AB%A0/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script>]]></content>
+      <categories>
+        <category>docs</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>第八章 世界树</title>
+    <url>/docs/docs/xenoblade2/%E7%AC%AC%E5%85%AB%E7%AB%A0/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script>]]></content>
+      <categories>
+        <category>docs</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>第四章 天之圣杯</title>
+    <url>/docs/docs/xenoblade2/%E7%AC%AC%E5%9B%9B%E7%AB%A0/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script>]]></content>
+      <categories>
+        <category>docs</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>404</title>
+    <url>/404/index.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><center>页面没有找到<center/>
+
+<p>请点击<a href="/home/">这里</a>返回主页</p>
+]]></content>
+  </entry>
+  <entry>
     <title>About Me</title>
     <url>/about/academic.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h3 id="About-Me"><a href="#About-Me" class="headerlink" title="About Me"></a><strong>About Me</strong></h3><p>Hey, this is Chongjie Si (司翀杰). I am now a Ph.D Student of computer vision at Shanghai Jiao Tong University (SJTU) advised by <a href="https://shenwei1231.github.io/">Dr. Wei Shen <i class="fa-solid fa-arrow-up-right-from-square"></i></a>. I previously obtained my Bachelor’s degree from Chien-Shiung Wu College, Southeast University (SEU) in China.</p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><h3 id="About-Me"><a href="#About-Me" class="headerlink" title="About Me"></a><strong>About Me</strong></h3><p>Hey, this is Chongjie Si (司翀杰). I am now a Ph.D Student of computer vision at Shanghai Jiao Tong University (SJTU) advised by <a href="https://shenwei1231.github.io/">Dr. Wei Shen <i class="fa-solid fa-arrow-up-right-from-square"></i></a>. I previously obtained my Bachelor’s degree from Chien-Shiung Wu College, Southeast University (SEU) in China.</p>
 <p>My recent research interests include:</p>
 <ul>
 <li>Weakly Incremental Learning for Semantic Segmentation</li>
@@ -2471,7 +2479,7 @@
   <entry>
     <title>自我介绍</title>
     <url>/about/index.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h3 id="关于我"><a href="#关于我" class="headerlink" title="关于我"></a>关于我</h3><p>行不更名，坐不改姓，司翀杰就是我了。时光荏苒，00后的我已经庆祝了20多个儿童节，预计未来还将庆祝60+儿童节。</p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><h3 id="关于我"><a href="#关于我" class="headerlink" title="关于我"></a>关于我</h3><p>行不更名，坐不改姓，司翀杰就是我了。时光荏苒，00后的我已经庆祝了20多个儿童节，预计未来还将庆祝60+儿童节。</p>
 <p>我目前正在上海某技工学校攻读博士学位，预计还有几千天才能毕业（考虑延毕也是几千天）。虽然听着高大上（指读博，不是延毕），但我属于不折不扣的躺平派，吃饭睡觉打豆豆一样不落。每每看着身边人奋笔疾书、苦思冥想或对着屏幕发呆，每每坐在老师办公室被迫传授功法与压力时，我总能轻蔑一笑：既然选择了躺平，留给世界的只能是——你也可以访问我的<a href="/about/academic">学术主页（Academic Homepage）<i class="fa-solid fa-arrow-up-right-from-square"></i></a>。</p>
 <h3 id="关于爱好"><a href="#关于爱好" class="headerlink" title="关于爱好"></a>关于爱好</h3><p>私以为鄙人の生活充满了乐趣。最喜欢做的事有三，音乐、台球和写写写写写。</p>
 <p>鄙人可以熟练的弹响钢琴和吉他（指发出声音），也可以熟练的打响架子鼓（指发出声音），也尝试过将不同的乐器进行奇妙的配比（科研人常说的缝合怪），组成一首量子力学风味的曲子。为了玩音乐，鄙人组建过社团（不知道是否已经凉了），开过个人工作室（可惜倒闭了），参加过一些比赛（？），成为了广为人知（指父母）的网易&#x2F;腾讯音乐人。有关音乐的更多信息可以访问<a href="/music/">这里 <i class="fa-solid fa-arrow-up-right-from-square"></i></a>。</p>
@@ -2480,9 +2488,26 @@
 ]]></content>
   </entry>
   <entry>
+    <title>Music</title>
+    <url>/music/index.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>这里是我写过的或者改编过的一些曲子，希望你喜欢。<br>Here are some songs I have written or arranged.</p>
+<ul>
+<li><a href="/music/music/fifth">五度圈（Circle of fifths）<i class="fa-solid fa-arrow-up-right-from-square"></i></a></li>
+<li><a href="/music/music/dontleave">爱我别走（Don’t leave if you love）<i class="fa-solid fa-arrow-up-right-from-square"></i></a></li>
+<li><a href="/music/music/empty">空无一人（Empty）<i class="fa-solid fa-arrow-up-right-from-square"></i></a></li>
+<li><a href="/music/music/ironbox">半岛铁盒（Iron box of an island）<i class="fa-solid fa-arrow-up-right-from-square"></i></a></li>
+<li><a href="/music/music/marry">愿不愿意（Marry me）<i class="fa-solid fa-arrow-up-right-from-square"></i></a></li>
+<li><a href="/music/music/skydream">星空如梦（Sky dream）<i class="fa-solid fa-arrow-up-right-from-square"></i></a></li>
+<li><a href="/music/music/sunset">晚霞（Sunset）<i class="fa-solid fa-arrow-up-right-from-square"></i></a></li>
+</ul>
+<!--
+[<i class="fa-solid fa-arrow-up-right-from-square"></i>](/music/music/)
+-->]]></content>
+  </entry>
+  <entry>
     <title>文章集</title>
     <url>/docs/index.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>这里杂乱无章地存放着我写的杂乱无章的一些东西，希望你喜欢。</p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>这里杂乱无章地存放着我写的杂乱无章的一些东西，希望你喜欢。</p>
 <h3 id="异度之刃2系列"><a href="#异度之刃2系列" class="headerlink" title="异度之刃2系列"></a>异度之刃2系列</h3><ul>
 <li><a href="/docs/docs/xenoblade2/%E4%BA%8C%E5%91%A8%E7%9B%AE">写作起因 <i class="fa-solid fa-arrow-up-right-from-square"></i></a></li>
 <li><a href="/docs/docs/xenoblade2/%E6%95%85%E4%BA%8B%E7%9A%84%E5%BC%80%E5%A7%8B%E6%80%BB%E6%98%AF%E8%BF%99%E6%A0%B7">故事的开始总是这样 <i class="fa-solid fa-arrow-up-right-from-square"></i></a></li>
@@ -2515,38 +2540,21 @@
   </entry>
   <entry>
     <title>Welcome</title>
-    <url>/home/index.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><img src="/images/2.jpg" alt="image"></p>
+    <url>/index.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p><img src="/images/2.jpg" alt="image"></p>
 ]]></content>
   </entry>
   <entry>
     <title>Welcome</title>
-    <url>/index.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><img src="/images/2.jpg" alt="image"></p>
+    <url>/home/index.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p><img src="/images/2.jpg" alt="image"></p>
 ]]></content>
   </entry>
   <entry>
     <title>Publications</title>
     <url>/pub/index.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a><strong>Journal</strong></h1><p><strong>Chongjie Si</strong>, Yuheng Jia, Ran Wang, Min-Ling Zhang, Yanghe Feng, Qu Chongxiao. <font color='Navy'>Multi-label Classification with High-rank and High-order Label Correlations</font>. Posted to <strong>IEEE Trans. Knowledge and Data Engineering</strong>, 2023. (<a href="https://arxiv.org/abs/2207.04197">PDF</a>)</p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a><strong>Journal</strong></h1><p><strong>Chongjie Si</strong>, Yuheng Jia, Ran Wang, Min-Ling Zhang, Yanghe Feng, Qu Chongxiao. <font color='Navy'>Multi-label Classification with High-rank and High-order Label Correlations</font>. Posted to <strong>IEEE Trans. Knowledge and Data Engineering</strong>, 2023. (<a href="https://arxiv.org/abs/2207.04197">PDF</a>)</p>
 <h1 id="Conference"><a href="#Conference" class="headerlink" title="Conference"></a><strong>Conference</strong></h1><p>Yuheng Jia<sup>*</sup>, <strong>Chongjie Si<sup>*</sup></strong>, Min-Ling Zhang. <font color='Navy'>Complementary Classifier Induced Partial Label Learning</font>. KDD, 2023. (<a href="https://arxiv.org/pdf/2305.09897.pdf">PDF</a>)</p>
 ]]></content>
-  </entry>
-  <entry>
-    <title>Music</title>
-    <url>/music/index.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>这里是我写过的或者改编过的一些曲子，希望你喜欢。<br>Here are some songs I have written or arranged.</p>
-<ul>
-<li><a href="/music/music/fifth">五度圈（Circle of fifths）<i class="fa-solid fa-arrow-up-right-from-square"></i></a></li>
-<li><a href="/music/music/dontleave">爱我别走（Don’t leave if you love）<i class="fa-solid fa-arrow-up-right-from-square"></i></a></li>
-<li><a href="/music/music/empty">空无一人（Empty）<i class="fa-solid fa-arrow-up-right-from-square"></i></a></li>
-<li><a href="/music/music/ironbox">半岛铁盒（Iron box of an island）<i class="fa-solid fa-arrow-up-right-from-square"></i></a></li>
-<li><a href="/music/music/marry">愿不愿意（Marry me）<i class="fa-solid fa-arrow-up-right-from-square"></i></a></li>
-<li><a href="/music/music/skydream">星空如梦（Sky dream）<i class="fa-solid fa-arrow-up-right-from-square"></i></a></li>
-<li><a href="/music/music/sunset">晚霞（Sunset）<i class="fa-solid fa-arrow-up-right-from-square"></i></a></li>
-</ul>
-<!--
-[<i class="fa-solid fa-arrow-up-right-from-square"></i>](/music/music/)
--->]]></content>
   </entry>
 </search>
