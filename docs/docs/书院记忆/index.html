@@ -19,7 +19,7 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha256-HtsXJanqjKTc8vVQjO4YMhiqFoXkfBsjBWcX91T1jr8=" crossorigin="anonymous">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.1.1/animate.min.css" integrity="sha256-PR7ttpcvz8qrF57fur/yAx1qXMFJeJFiA6pSzWi0OIE=" crossorigin="anonymous">
 
-<script class="next-config" data-name="main" type="application/json">{"hostname":"chongjiesi.site","root":"/","images":"/images","scheme":"Gemini","darkmode":true,"version":"8.16.0","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12},"copycode":{"enable":true,"style":"default"},"bookmark":{"enable":true,"color":"#222","save":"auto"},"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":"gitalk","storage":true,"lazyload":false,"nav":null,"activeClass":"gitalk"},"stickytabs":false,"motion":{"enable":true,"async":false,"transition":{"menu_item":"fadeInDown","post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"prism":false,"i18n":{"placeholder":"Searching...","empty":"We didn't find any results for the search: ${query}","hits_time":"${hits} results found in ${time} ms","hits":"${hits} results found"},"path":"/search.xml","localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false}}</script><script src="/js/config.js"></script>
+<script class="next-config" data-name="main" type="application/json">{"hostname":"chongjiesi.site","root":"/","images":"/images","scheme":"Gemini","darkmode":true,"version":"8.16.0","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12},"copycode":{"enable":true,"style":"default"},"bookmark":{"enable":true,"color":"#222","save":"auto"},"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":"waline","storage":true,"lazyload":false,"nav":null,"activeClass":"waline"},"stickytabs":false,"motion":{"enable":true,"async":false,"transition":{"menu_item":"fadeInDown","post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"prism":false,"i18n":{"placeholder":"Searching...","empty":"We didn't find any results for the search: ${query}","hits_time":"${hits} results found in ${time} ms","hits":"${hits} results found"},"path":"/search.xml","localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false}}</script><script src="/js/config.js"></script>
 
     <meta name="description" content="刚入校的时候，宿舍楼下是一片很大的空地。咱们这个宿舍楼更像是一个大一些的四合院，楼与楼之间有联系，宿舍与宿舍之间也有联系。 那时候，宿舍一楼停放着许多的自行车，俨然就是一个小的停车库。上学的学子们匆匆忙忙地从楼下推着车手里拿着饭团，有时甚至还叼着一瓶奶，骑着车绝尘而去，而下课回来的朋友们则背着书包三三两两悠悠哉哉，有说有笑的走进车库安放好自己的坐骑。 我也曾是他们中的一员，每天早晨风风火火的骑着车">
 <meta property="og:type" content="article">
@@ -50,7 +50,7 @@
 
 
 
-
+<link rel="dns-prefetch" href="homepage-comment.vercel.app">
   <noscript>
     <link rel="stylesheet" href="/css/noscript.css">
   </noscript>
@@ -233,6 +233,20 @@
       <span class="post-meta-item-text">Views: </span>
       <span id="busuanzi_value_page_pv"></span>
     </span>
+  
+  <span class="post-meta-item">
+    
+    <span class="post-meta-item-icon">
+      <i class="far fa-comment"></i>
+    </span>
+    <span class="post-meta-item-text">Waline: </span>
+  
+    <a title="waline" href="/docs/docs/%E4%B9%A6%E9%99%A2%E8%AE%B0%E5%BF%86/#waline" itemprop="discussionUrl">
+      <span class="post-comments-count waline-comment-count" data-path="/docs/docs/%E4%B9%A6%E9%99%A2%E8%AE%B0%E5%BF%86/" itemprop="commentCount"></span>
+    </a>
+  </span>
+  
+  
 </div>
 
         </div>
@@ -523,8 +537,8 @@
 
           <div class="post-nav">
             <div class="post-nav-item">
-                <a href="/docs/docs/%E6%80%9D%E6%83%B3%E8%A7%82%E7%9A%84%E5%8F%98%E5%8C%96%E5%BD%95/" rel="prev" title="思想观的变化录">
-                  <i class="fa fa-chevron-left"></i> 思想观的变化录
+                <a href="/docs/docs/%E5%9C%B0%E9%93%81/" rel="prev" title="地铁">
+                  <i class="fa fa-chevron-left"></i> 地铁
                 </a>
             </div>
             <div class="post-nav-item">
@@ -542,7 +556,7 @@
 
 
 
-    <div class="comments gitalk-container"></div>
+    <div class="comments" id="waline"></div>
 </div>
   </main>
 
@@ -614,10 +628,17 @@
 
 
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/gitalk/1.8.0/gitalk.css" integrity="sha256-AJnUHL7dBv6PGaeyPQJcgQPDjt/Hn/PvYZde1iqfp8U=" crossorigin="anonymous">
-
-<script class="next-config" data-name="gitalk" type="application/json">{"enable":true,"github_id":"Chongjie-Si","repo":"Homepage_Comment","client_id":"c817301ef8a8f5932760","client_secret":"c059a6eba8d28235947a6129f656a358c0494f88","admin_user":"Chongjie-Si","distraction_free_mode":true,"proxy":"https://chongjiesi-comment.apps1559.workers.dev/?https://github.com/login/oauth/access_token","language":"en","js":{"url":"https://cdnjs.cloudflare.com/ajax/libs/gitalk/1.8.0/gitalk.min.js","integrity":"sha256-MVK9MGD/XJaGyIghSVrONSnoXoGh3IFxLw0zfvzpxR4="},"path_md5":"3aaccf17fcbeb4a1c65c5a01edef4f2a"}</script>
-<script src="/js/third-party/comments/gitalk.js"></script>
+<script class="next-config" data-name="waline" type="application/json">{"lang":"zh-cn,en","enable":true,"serverURL":"homepage-comment.vercel.app","cssUrl":"https://unpkg.com/@waline/client@v2/dist/waline.css","commentCount":true,"pageview":false,"placeholder":"请文明评论呀~","avatar":null,"meta":["nick","mail","link"],"pageSize":10,"visitor":true,"comment_count":true,"requiredFields":["nick"],"libUrl":"//unpkg.com/@waline/client@v2/dist/waline.js","el":"#waline","comment":true,"path":"/docs/docs/%E4%B9%A6%E9%99%A2%E8%AE%B0%E5%BF%86/"}</script>
+<link rel="stylesheet" href="https://unpkg.com/@waline/client@v2/dist/waline.css">
+<script>
+document.addEventListener('page:loaded', () => {
+  NexT.utils.loadComments(CONFIG.waline.el).then(() =>
+    NexT.utils.getScript(CONFIG.waline.libUrl, { condition: window.Waline })
+  ).then(() => 
+    Waline.init(Object.assign({}, CONFIG.waline,{ el: document.querySelector(CONFIG.waline.el) }))
+  );
+});
+</script>
 
 </body>
 </html>

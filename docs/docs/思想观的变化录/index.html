@@ -19,7 +19,7 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha256-HtsXJanqjKTc8vVQjO4YMhiqFoXkfBsjBWcX91T1jr8=" crossorigin="anonymous">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.1.1/animate.min.css" integrity="sha256-PR7ttpcvz8qrF57fur/yAx1qXMFJeJFiA6pSzWi0OIE=" crossorigin="anonymous">
 
-<script class="next-config" data-name="main" type="application/json">{"hostname":"chongjiesi.site","root":"/","images":"/images","scheme":"Gemini","darkmode":true,"version":"8.16.0","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12},"copycode":{"enable":true,"style":"default"},"bookmark":{"enable":true,"color":"#222","save":"auto"},"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":"gitalk","storage":true,"lazyload":false,"nav":null,"activeClass":"gitalk"},"stickytabs":false,"motion":{"enable":true,"async":false,"transition":{"menu_item":"fadeInDown","post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"prism":false,"i18n":{"placeholder":"Searching...","empty":"We didn't find any results for the search: ${query}","hits_time":"${hits} results found in ${time} ms","hits":"${hits} results found"},"path":"/search.xml","localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false}}</script><script src="/js/config.js"></script>
+<script class="next-config" data-name="main" type="application/json">{"hostname":"chongjiesi.site","root":"/","images":"/images","scheme":"Gemini","darkmode":true,"version":"8.16.0","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12},"copycode":{"enable":true,"style":"default"},"bookmark":{"enable":true,"color":"#222","save":"auto"},"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":"waline","storage":true,"lazyload":false,"nav":null,"activeClass":"waline"},"stickytabs":false,"motion":{"enable":true,"async":false,"transition":{"menu_item":"fadeInDown","post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"prism":false,"i18n":{"placeholder":"Searching...","empty":"We didn't find any results for the search: ${query}","hits_time":"${hits} results found in ${time} ms","hits":"${hits} results found"},"path":"/search.xml","localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false}}</script><script src="/js/config.js"></script>
 
     <meta name="description" content="近来一直想写篇这样的文章，一来算是整理自己读书带来的思想与价值之转变，二来是给自己过去的单一的思想和现在稍微成熟些的思想做个总结与反思。思想的变化总是与书和事分不开，所以我打算从两方面给自己做一个记录。 年少时思想总是很单纯，读书便为读书，心无杂念。相信很多人儿时都曾被问过这样一个问题，长大了想做些什么。这个问题问得好啊，问的既远，同时又寄托了家长的殷切期望。现在过年时偶尔也会有哥哥姐姐问着自家的">
 <meta property="og:type" content="article">
@@ -50,7 +50,7 @@
 
 
 
-
+<link rel="dns-prefetch" href="homepage-comment.vercel.app">
   <noscript>
     <link rel="stylesheet" href="/css/noscript.css">
   </noscript>
@@ -232,6 +232,20 @@
       <span class="post-meta-item-text">Views: </span>
       <span id="busuanzi_value_page_pv"></span>
     </span>
+  
+  <span class="post-meta-item">
+    
+    <span class="post-meta-item-icon">
+      <i class="far fa-comment"></i>
+    </span>
+    <span class="post-meta-item-text">Waline: </span>
+  
+    <a title="waline" href="/docs/docs/%E6%80%9D%E6%83%B3%E8%A7%82%E7%9A%84%E5%8F%98%E5%8C%96%E5%BD%95/#waline" itemprop="discussionUrl">
+      <span class="post-comments-count waline-comment-count" data-path="/docs/docs/%E6%80%9D%E6%83%B3%E8%A7%82%E7%9A%84%E5%8F%98%E5%8C%96%E5%BD%95/" itemprop="commentCount"></span>
+    </a>
+  </span>
+  
+  
 </div>
 
         </div>
@@ -281,13 +295,13 @@
 
           <div class="post-nav">
             <div class="post-nav-item">
-                <a href="/docs/docs/%E5%9C%B0%E9%93%81/" rel="prev" title="地铁">
-                  <i class="fa fa-chevron-left"></i> 地铁
+                <a href="/docs/docs/%E4%BD%A0%E7%9A%84%E5%B9%B8%E8%BF%90%E6%88%91%E6%9D%A5%E4%B8%8D%E5%8F%8A/" rel="prev" title="你的幸运，我来不及">
+                  <i class="fa fa-chevron-left"></i> 你的幸运，我来不及
                 </a>
             </div>
             <div class="post-nav-item">
-                <a href="/docs/docs/%E4%B9%A6%E9%99%A2%E8%AE%B0%E5%BF%86/" rel="next" title="书院记忆">
-                  书院记忆 <i class="fa fa-chevron-right"></i>
+                <a href="/docs/docs/%E5%9C%B0%E9%93%81/" rel="next" title="地铁">
+                  地铁 <i class="fa fa-chevron-right"></i>
                 </a>
             </div>
           </div>
@@ -300,7 +314,7 @@
 
 
 
-    <div class="comments gitalk-container"></div>
+    <div class="comments" id="waline"></div>
 </div>
   </main>
 
@@ -372,10 +386,17 @@
 
 
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/gitalk/1.8.0/gitalk.css" integrity="sha256-AJnUHL7dBv6PGaeyPQJcgQPDjt/Hn/PvYZde1iqfp8U=" crossorigin="anonymous">
-
-<script class="next-config" data-name="gitalk" type="application/json">{"enable":true,"github_id":"Chongjie-Si","repo":"Homepage_Comment","client_id":"c817301ef8a8f5932760","client_secret":"c059a6eba8d28235947a6129f656a358c0494f88","admin_user":"Chongjie-Si","distraction_free_mode":true,"proxy":"https://chongjiesi-comment.apps1559.workers.dev/?https://github.com/login/oauth/access_token","language":"en","js":{"url":"https://cdnjs.cloudflare.com/ajax/libs/gitalk/1.8.0/gitalk.min.js","integrity":"sha256-MVK9MGD/XJaGyIghSVrONSnoXoGh3IFxLw0zfvzpxR4="},"path_md5":"a55f8bc7243165b55b58740aee8cd29b"}</script>
-<script src="/js/third-party/comments/gitalk.js"></script>
+<script class="next-config" data-name="waline" type="application/json">{"lang":"zh-cn,en","enable":true,"serverURL":"homepage-comment.vercel.app","cssUrl":"https://unpkg.com/@waline/client@v2/dist/waline.css","commentCount":true,"pageview":false,"placeholder":"请文明评论呀~","avatar":null,"meta":["nick","mail","link"],"pageSize":10,"visitor":true,"comment_count":true,"requiredFields":["nick"],"libUrl":"//unpkg.com/@waline/client@v2/dist/waline.js","el":"#waline","comment":true,"path":"/docs/docs/%E6%80%9D%E6%83%B3%E8%A7%82%E7%9A%84%E5%8F%98%E5%8C%96%E5%BD%95/"}</script>
+<link rel="stylesheet" href="https://unpkg.com/@waline/client@v2/dist/waline.css">
+<script>
+document.addEventListener('page:loaded', () => {
+  NexT.utils.loadComments(CONFIG.waline.el).then(() =>
+    NexT.utils.getScript(CONFIG.waline.libUrl, { condition: window.Waline })
+  ).then(() => 
+    Waline.init(Object.assign({}, CONFIG.waline,{ el: document.querySelector(CONFIG.waline.el) }))
+  );
+});
+</script>
 
 </body>
 </html>
