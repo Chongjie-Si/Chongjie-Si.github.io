@@ -1474,32 +1474,8 @@ pre code {
 .post-toc .nav .active-current > a:hover {
   color: #fc6423;
 }
-.sidebar-post-related {
-  font-size: 0.8125em;
-  padding: 18px 0 0 0;
-}
-.popular-posts {
-  margin: 0;
-  padding: 1em 0;
-  text-align: left;
-}
-.popular-posts .popular-posts-item {
-  display: block;
-}
-.popular-posts .popular-posts-item .popular-posts-link {
-  border-bottom: 0;
-  display: block;
-  padding: 5px 20px;
-  transition: background 0.2s ease-in-out;
-}
-.popular-posts .popular-posts-item .popular-posts-link:hover {
-  background: var(--menu-item-bg-color);
-}
-.popular-posts .popular-posts-item .popular-posts-time {
-  color: #999;
-}
 .footer {
-  color: #999;
+  color: #bbb;
   font-size: 0.875em;
   padding: 20px 0;
   transition: 0.2s ease-in-out;
@@ -2834,4 +2810,12 @@ header.header {
   .comments {
     padding: 10px 12px;
   }
+}
+body {
+  background-image: url("../../images/2.jpg");
+  background-color: rgba(0,0,0,0.5);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center center;
 }
