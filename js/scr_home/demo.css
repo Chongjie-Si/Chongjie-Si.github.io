@@ -300,3 +300,18 @@ p.ref {
 	background-color: rgba(186, 179, 179, 0.502);
 	z-index: -1;
   }
+
+  .animated-text {
+	color: transparent; /* 初始设置为透明 */
+	animation: fadeIn 3s forwards; /* 添加动画效果 */
+  }
+
+  /* 添加动画效果的关键帧 */
+  @keyframes fadeIn {
+	0% {
+	  color: transparent; /* 透明 */
+	}
+	100% {
+	  color: #FFFFFF; /* 最终显示的颜色 */
+	}
+  }

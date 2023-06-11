@@ -2818,3 +2818,6 @@ body {
   background-size: cover;
   background-position: center center;
 }
+.main-inner {
+  opacity: 1;
+}
