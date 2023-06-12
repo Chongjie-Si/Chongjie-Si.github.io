@@ -2812,7 +2812,7 @@ header.header {
   }
 }
 body {
-  background-image: url("../../images/bg_home.png");
+  background-image: url("../../images/bg_home.webp");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
