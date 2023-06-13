@@ -34,22 +34,7 @@
 <audio id="music-player" autoplay>
     <source src="/404/bghome.mp3" type="audio/mp3">
   </audio>
-  
-<script>
-    const playMusicElement = document.getElementById('play-music');
-    const musicPlayer = document.getElementById('music-player');
-
-    playMusicElement.addEventListener('click', function() {
-      if (musicPlayer.paused) {
-        musicPlayer.play();
-      } else {
-        musicPlayer.pause();
-      }
-    });
-  </script>
-
   </div>
-
 
   <div id="Layer1">
   <div class="navbar-container">
@@ -58,8 +43,8 @@
     <a href="./about/">About</a>
     <a href="./music/">Music</a>
     <a href="./docs/">Docs</a>
-    <a href="./pub/">Publications</a>
     <a href="./archives/">Archives</a>
+    <a href="./relaxation/">Relaxation</a>
    </nav>
    </div>
   </div>
@@ -118,30 +103,12 @@
 </div>
   </footer>
 
-<script>
-    fetch('./404/number.txt')
-      .then(response => response.text())
-      .then(text => {
-        const lines = text.split('\n');
-        const textFile1Element = document.getElementById('text-file1')
-        textFile1Element.textContent = lines[0];
-        const textFile1Element1 = document.getElementById('text-file2')
-        textFile1Element1.textContent = lines[1];
-
-      })
-      .catch(error => {
-        console.log('Error loading text file:', error);
-      });
-  </script>
-
 <script src="/js/scr_home/TweenLite.min.js"></script>
 <script src="/js/scr_home/EasePack.min.js"></script>
 <script src="/js/scr_home/rAF.js"></script>
 <script src="/js/scr_home/demo-1.js"></script>
-
- <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.1/anime.min.js" integrity="sha256-XL2inqUJaslATFnHdJOi9GfQ60on8Wx1C2H8DYiN1xY=" crossorigin="anonymous"></script>
-
-<script src="/js/utils.js"></script><script src="/js/motion.js"></script><script src="/js/next-boot.js"></script><script src="/js/bookmark.js"></script><script src="/js/pjax.js"></script>
+<script src="/js/scr_home/music_player.js"></script>
+<script src="/js/scr_home/fetch_count.js"></script>
 <script data-pjax async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 
 </body>

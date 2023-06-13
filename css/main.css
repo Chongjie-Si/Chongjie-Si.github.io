@@ -2821,3 +2821,6 @@ body {
 .main-inner {
   opacity: 1;
 }
+.post-body > section.collapsed {
+  display: none;
+}
