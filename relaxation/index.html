@@ -1,0 +1,117 @@
+<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><!DOCTYPE html>
+<html xmlns="http://chongjiesi.site" lang="-zh-CN -en">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Chongjie Si</title>
+    
+  <link rel="stylesheet" type="text/css" href="/js/scr_home/normalize.css">
+  <link rel="stylesheet" type="text/css" href="/js/scr_home/demo.css">
+  <!--必要样式-->
+  <link rel="stylesheet" type="text/css" href="/js/scr_home/component.css">
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+
+  <style type="text/css">
+    #Layer1 {position:absolute; width:100%; z-index:2; top: 60%;}
+    .STYLE3 {font-size: medium}
+    .large-header{background-image: url("/images/bg_home.webp");}
+
+  </style>
+
+</head>
+<body>
+
+<div class="container demo-1">
+ <div class="content">
+  <div id="large-header" class="large-header" style="height: 917px;">
+   <canvas id="demo-canvas" width="1920" height="917"></canvas>
+   <<h1 class="main-title"><span class="animated-text" >Relax</span><br>
+<div class="styled-text-container">
+   <span class="styled-text" id="play-music" style="cursor: pointer; text-decoration:;"><span class="animated-text" >Start</span></span></div></h1>
+
+<audio id="music-player" autoplay>
+    <source src="/404/bg404.mp3" type="audio/mp3">
+  </audio>
+  </div>
+
+  <div id="Layer1">
+  <div class="navbar-container">
+   <nav class="codrops-demos">
+    <a href="../">Home</a>
+    <a href="../about/">About</a>
+    <a href="../music/">Music</a>
+    <a href="../docs/">Docs</a>
+    <a href="../archives/">Archives</a>
+    <a href="../relaxation/">Relaxation</a>
+   </nav>
+   </div>
+  </div>
+  
+ </div>
+
+</div>
+
+<footer class="footer">
+    <div class="footer-inner">
+
+<div class="copyright">
+  &copy;
+  <span itemprop="copyrightYear"><script>document.write(new Date().getFullYear());</script></span>
+  <span class="with-love">
+    <i class="fa fa-heart"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">Chongjie Si</span>
+</div>
+
+<div class="wordcount">
+  <span class="post-meta-item">
+    <span class="post-meta-item-icon">
+      <i class="fa fa-chart-line"></i>
+    </span>
+      <span>Word count: </span>
+    <span title="Word count total" id="text-file1"></span>
+  </span>
+  <span class="separator">|</span>
+  <span class="post-meta-item">
+    <span class="post-meta-item-icon">
+      <i class="fa fa-coffee"></i>
+    </span>
+      <span>Reading time &asymp;</span>
+    <span title="Reading time total" id="text-file2"></span>
+  </span>
+</div>
+
+<div class="busuanzi-count">
+    <span class="post-meta-item" id="busuanzi_container_site_uv">
+      <span class="post-meta-item-icon">
+        <i class="fa fa-user"></i>
+      </span>
+      <span class="site-uv" title="Total Visitors">
+        <span id="busuanzi_value_site_uv"></span>
+      </span>
+    </span>
+      <span class="separator">|</span>
+    <span class="post-meta-item" id="busuanzi_container_site_pv">
+      <span class="post-meta-item-icon">
+        <i class="fa fa-eye"></i>
+      </span>
+      <span class="site-pv" title="Total Views">
+        <span id="busuanzi_value_site_pv"></span>
+      </span>
+    </span>
+</div>
+  </footer>
+
+<script src="/js/scr_home/TweenLite.min.js"></script>
+<script src="/js/scr_home/EasePack.min.js"></script>
+<script src="/js/scr_home/rAF.js"></script>
+<script src="/js/scr_home/demo-1.js"></script>
+<script src="/js/scr_home/music_player.js"></script>
+<script src="/js/scr_home/fetch_count.js"></script>
+
+<script data-pjax async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
+</body>
+</html>

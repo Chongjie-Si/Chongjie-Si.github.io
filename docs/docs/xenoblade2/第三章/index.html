@@ -4,12 +4,12 @@
   <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width">
 <meta name="theme-color" content="#222" media="(prefers-color-scheme: light)">
-<meta name="theme-color" content="#222" media="(prefers-color-scheme: dark)"><meta name="generator" content="Hexo 7.0.0-rc1">
+<meta name="theme-color" content="#222" media="(prefers-color-scheme: dark)"><meta name="generator" content="Hexo 6.3.0">
 
   <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-next.png">
   <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32-next.png">
   <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16-next.png">
-  <link rel="mask-icon" href="/images/logo.svg" color="#222">
+  <link rel="mask-icon" href="/images/apple-touch-icon-next.png" color="#222">
   <link rel="manifest" href="/manifest.json">
 
 <link rel="stylesheet" href="/css/main.css">
@@ -18,6 +18,8 @@
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha256-HtsXJanqjKTc8vVQjO4YMhiqFoXkfBsjBWcX91T1jr8=" crossorigin="anonymous">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.1.1/animate.min.css" integrity="sha256-PR7ttpcvz8qrF57fur/yAx1qXMFJeJFiA6pSzWi0OIE=" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/pace/1.2.4/themes/blue/pace-theme-minimal.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/pace/1.2.4/pace.min.js" integrity="sha256-gqd7YTjg/BtfqWSwsJOvndl0Bxc8gFImLEkXQT8+qj0=" crossorigin="anonymous"></script>
 
 <script class="next-config" data-name="main" type="application/json">{"hostname":"chongjiesi.site","root":"/","images":"/images","scheme":"Gemini","darkmode":true,"version":"8.16.0","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12},"copycode":{"enable":true,"style":"default"},"bookmark":{"enable":true,"color":"#222","save":"auto"},"mediumzoom":false,"lazyload":false,"pangu":true,"comments":{"style":"tabs","active":"waline","storage":true,"lazyload":false,"nav":null,"activeClass":"waline"},"stickytabs":false,"motion":{"enable":true,"async":false,"transition":{"menu_item":"fadeInDown","post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"prism":false,"i18n":{"placeholder":"Searching...","empty":"We didn't find any results for the search: ${query}","hits_time":"${hits} results found in ${time} ms","hits":"${hits} results found"},"path":"/search.xml","localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false}}</script><script src="/js/config.js"></script>
 
@@ -73,7 +75,7 @@
 <meta property="og:image" content="https://pic2.zhimg.com/80/v2-06112c02898759984fd8adb8a648dd95_1440w.webp">
 <meta property="og:image" content="https://pic2.zhimg.com/80/v2-865a69110b33d7ad85667dfed5c7ff95_1440w.webp">
 <meta property="article:published_time" content="2023-05-25T16:00:00.000Z">
-<meta property="article:modified_time" content="2023-06-07T04:26:11.092Z">
+<meta property="article:modified_time" content="2023-06-19T02:52:48.856Z">
 <meta property="article:author" content="Chongjie Si">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:image" content="https://pic1.zhimg.com/80/v2-a043e1179720960c43f978278442f9d8_1440w.jpg">
@@ -134,7 +136,7 @@
 
 
 <nav class="site-nav">
-  <ul class="main-menu menu"><li class="menu-item menu-item-home"><a href="/home/" rel="section"><i class="fa fa-home fa-fw"></i>Home</a></li><li class="menu-item menu-item-about"><a href="/about/" rel="section"><i class="fa fa-user fa-fw"></i>About</a></li><li class="menu-item menu-item-music"><a href="/music/" rel="section"><i class="fa fa-music fa-fw"></i>Music</a></li><li class="menu-item menu-item-docs"><a href="/docs/" rel="section"><i class="fa fa-book fa-fw"></i>Docs</a></li><li class="menu-item menu-item-publications"><a href="/pub/" rel="section"><i class="fa fa-graduation-cap fa-fw"></i>Publications</a></li><li class="menu-item menu-item-archives"><a href="/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>Archives<span class="badge">31</span></a></li>
+  <ul class="main-menu menu"><li class="menu-item menu-item-home"><a href="/" rel="section"><i class="fa fa-home fa-fw"></i>Home</a></li><li class="menu-item menu-item-about"><a href="/about/" rel="section"><i class="fa fa-user fa-fw"></i>About</a></li><li class="menu-item menu-item-music"><a href="/music/" rel="section"><i class="fa fa-music fa-fw"></i>Music</a></li><li class="menu-item menu-item-docs"><a href="/docs/" rel="section"><i class="fa fa-book fa-fw"></i>Docs</a></li><li class="menu-item menu-item-archives"><a href="/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>Archives<span class="badge">40</span></a></li><li class="menu-item menu-item-relaxation"><a href="/relaxation/" rel="section"><i class="fa fa-couch fa-fw"></i>Relaxation</a></li>
       <li class="menu-item menu-item-search">
         <a role="button" class="popup-trigger"><i class="fa fa-search fa-fw"></i>Search
         </a>
@@ -192,9 +194,9 @@
         <div class="site-overview-wrap sidebar-panel">
           <div class="site-author animated" itemprop="author" itemscope itemtype="http://schema.org/Person">
     <img class="site-author-image" itemprop="image" alt="Chongjie Si"
-      src="/images/chongjiesi.jpg">
+      src="/images/chongjiesi_cartoon.png">
   <p class="site-author-name" itemprop="name">Chongjie Si</p>
-  <div class="site-description" itemprop="description">Welcome</div>
+  <div class="site-description" itemprop="description">Welcome to my blog.</div>
 </div>
   <div class="links-of-author animated">
       <span class="links-of-author-item">
@@ -204,10 +206,60 @@
         <a href="mailto:chongjiesi@sjtu.com" title="E-Mail → mailto:chongjiesi@sjtu.com" rel="noopener me" target="_blank"><i class="fa fa-envelope fa-fw"></i></a>
       </span>
       <span class="links-of-author-item">
-        <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=wXc2EtsAAAAJ" title="Google scholar → https:&#x2F;&#x2F;scholar.google.com.hk&#x2F;citations?hl&#x3D;zh-CN&amp;user&#x3D;wXc2EtsAAAAJ" rel="noopener me" target="_blank"><i class="fa fa-graduation-cap fa-fw"></i></a>
+        <a href="https://scholar.google.com/citations?hl=zh-CN&user=wXc2EtsAAAAJ" title="Google scholar → https:&#x2F;&#x2F;scholar.google.com&#x2F;citations?hl&#x3D;zh-CN&amp;user&#x3D;wXc2EtsAAAAJ" rel="noopener me" target="_blank"><i class="fa fa-graduation-cap fa-fw"></i></a>
       </span>
   </div>
 
+<div class="footer">
+
+<div class="copyright">
+  &copy; 
+  <span itemprop="copyrightYear">2023</span>
+  <span class="with-love">
+    <i class="fa fa-heart"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">Chongjie Si</span>
+</div>
+<div class="wordcount">
+  <span class="post-meta-item">
+  <div class="wordcount-item">
+    <span class="post-meta-item-icon">
+      <i class="fa fa-chart-line"></i>
+    </span>
+      <span>Word count total: </span>
+    <span title="Word count total">315k</span>
+  </span>
+   </div>
+  <div class="wordcount-item">
+  <span class="post-meta-item">
+    <span class="post-meta-item-icon">
+      <i class="fa fa-coffee"></i>
+    </span>
+      <span>Reading time total &asymp;</span>
+    <span title="Reading time total">9:44</span>
+  </span>
+  </div>
+</div>
+<div class="busuanzi-count">
+    <span class="post-meta-item" id="busuanzi_container_site_uv">
+      <span class="post-meta-item-icon">
+        <i class="fa fa-user"></i>
+      </span>
+      <span class="site-uv" title="Total Visitors">
+        <span id="busuanzi_value_site_uv"></span>
+      </span>
+    </span>
+    <span class="post-meta-item" id="busuanzi_container_site_pv">
+      <span class="post-meta-item-icon">
+        <i class="fa fa-eye"></i>
+      </span>
+      <span class="site-pv" title="Total Views">
+        <span id="busuanzi_value_site_pv"></span>
+      </span>
+    </span>
+</div>
+
+</div>
         </div>
       </div>
     </div>
@@ -232,13 +284,13 @@
     <link itemprop="mainEntityOfPage" href="https://chongjiesi.site/docs/docs/xenoblade2/%E7%AC%AC%E4%B8%89%E7%AB%A0/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/chongjiesi.jpg">
+      <meta itemprop="image" content="/images/chongjiesi_cartoon.png">
       <meta itemprop="name" content="Chongjie Si">
     </span>
 
     <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
       <meta itemprop="name" content="Chongjie Si">
-      <meta itemprop="description" content="Welcome">
+      <meta itemprop="description" content="Welcome to my blog.">
     </span>
 
     <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
@@ -292,6 +344,21 @@
   </span>
   
   
+    <span class="post-meta-break"></span>
+    <span class="post-meta-item" title="Word count in article">
+      <span class="post-meta-item-icon">
+        <i class="far fa-file-word"></i>
+      </span>
+      <span class="post-meta-item-text">Word count in article: </span>
+      <span>24k</span>
+    </span>
+    <span class="post-meta-item" title="Reading time">
+      <span class="post-meta-item-icon">
+        <i class="far fa-clock"></i>
+      </span>
+      <span class="post-meta-item-text">Reading time &asymp;</span>
+      <span>44 mins.</span>
+    </span>
 </div>
 
             <div class="post-description">异度之刃2</div>
@@ -553,7 +620,7 @@
 <p>“独当一面吗……”莱克斯摸了摸下巴，“总感觉好遥远。”</p>
 <p>“也不尽然，”凡达姆挠着头有些不好意思，“像刚才那招，我用了5年时间才学会。”</p>
 <p>“5年那么久？！”</p>
-<p>“嗯…… 但你只是看了一次，就领会掌握，而尼娅和虎辅助菜克斯的个中行动地颇有水准，你们还是蛮值得期待的哦。”</p>
+<p>“嗯…… 但你只是看了一次，就领会掌握，而尼娅和虎辅助莱克斯的个中行动地颇有水准，你们还是蛮值得期待的哦。”</p>
 <p>“感觉很不好意思呢。”尼娅说。</p>
 <p>“莫非大叔长相吓人，其实心地善良嗼？”</p>
 <p>“哈哈哈哈，现在才发现吗？”</p>
@@ -654,7 +721,7 @@
 <p>“咦？”</p>
 <p>“村里的人都相信我们是在为仁义而战，但是，根本不存在什么仁义的战争。所谓的仁义，只是自我辨解罢了。战争就是战争，越想要自保，越是会产生对立，对立扩大就成为战争。说白了，我在为我们而战，他在为他们而战，仅此而已。”</p>
 <p>“但是他做的事……”</p>
-<p>“当然，我不是在肯定他。菜克斯，战争靠的是力量。但是，力量会因使用者的内心产生各种变化。恐惧力量，放弃守护时，也将一事无成。是非对错，没人有权决定。既然如此，竭尽全力，守护你最重要的东西。”</p>
+<p>“当然，我不是在肯定他。莱克斯，战争靠的是力量。但是，力量会因使用者的内心产生各种变化。恐惧力量，放弃守护时，也将一事无成。是非对错，没人有权决定。既然如此，竭尽全力，守护你最重要的东西。”</p>
 <p>“重要的东西……”莱克斯转身看着床上躺着的焰，陷入沉思。</p>
 <p>“这就是你的战争。”</p>
 <p>“我的……战争……”</p>
@@ -714,7 +781,7 @@
 <p>“欢迎归来，哥哥，爱心爱心！”花高兴的高高举起一只手摇摆着，一蹦一跳。</p>
 <p>“花，花？”</p>
 <p>“喂，虎，花坏掉了哦！”</p>
-<p>“不用担心哦，花现在启动了对菜克斯萌萌模式哦！哥哥，打捞工作要加油哦，爱心爱心！”</p>
+<p>“不用担心哦，花现在启动了对莱克斯萌萌模式哦！哥哥，打捞工作要加油哦，爱心爱心！”</p>
 <p>“哥，哥哥？”尼娅撇着嘴看着花。</p>
 <p>“这，这就是萌？”焰看着小花的样子问着虎。</p>
 <p>“来吧，焰，模仿花的台词嗼。”</p>
@@ -793,7 +860,7 @@
 <p><img src="https://pic4.zhimg.com/80/v2-720dfc4054c913132de6b976ef0b81df_1440w.jpg" alt="image"></p>
 <p>一行人走进了首都冯斯麦姆，他们看到不远处人们正在排队从士兵的手中领着什么东西。</p>
 <p>“那是？”莱克斯问。</p>
-<p>“是分配所，说是在国家的管理之不，对紧缺的物资进行分配。”凡达姆已经见怪不怪，“但实际上基本是先下手为强。”</p>
+<p>“是分配所，说是在国家的管理之下，对紧缺的物资进行分配。”凡达姆已经见怪不怪，“但实际上基本是先下手为强。”</p>
 <p>“给，这是今天最后的物资了。”远处的士兵将一袋物资递给了一个小女孩。女孩接过物资，高兴的笑了起来。可是，就在这时，一个中年人把小女孩推倒在地，抢过她手中的物资，大声对她吼道：</p>
 <p>“我，我可是为国作战的士兵，应，应该有权优先享受分配。”他大口的喘着气，蛮狠的说。</p>
 <p>焰看到被推倒在地的小女孩，急切的跑了过来。</p>
@@ -888,7 +955,7 @@
 <p>“通往世界树的方法只有那个男人知道，你能面对那个男人吗，我只想确定这一点。”</p>
 <p>“我会见他的，”焰坚定的点了点头，“如果这是我的命运。”</p>
 <p>“是吗……刚才的少年——”</p>
-<p>“他叫菜克斯，是一个非常开朗善良的人。”焰微微一笑。</p>
+<p>“他叫莱克斯，是一个非常开朗善良的人。”焰微微一笑。</p>
 <p>“似曾相识啊。”</p>
 <p>“嗯。”</p>
 <p>“我懂了，助你一臂之力吧。”</p>
@@ -1102,6 +1169,16 @@
     
     
 
+    <div>
+    
+    <div>
+  
+    <div style="text-align:center;color: #ccc;font-size:14px;">The End</div>
+  
+</div>
+    
+    </div>
+
     <footer class="post-footer">
 
         
@@ -1134,36 +1211,6 @@
   <footer class="footer">
     <div class="footer-inner">
 
-
-<div class="copyright">
-  &copy; 
-  <span itemprop="copyrightYear">2023</span>
-  <span class="with-love">
-    <i class="fa fa-heart"></i>
-  </span>
-  <span class="author" itemprop="copyrightHolder">Chongjie Si</span>
-</div>
-<div class="busuanzi-count">
-    <span class="post-meta-item" id="busuanzi_container_site_uv">
-      <span class="post-meta-item-icon">
-        <i class="fa fa-user"></i>
-      </span>
-      <span class="site-uv" title="Total Visitors">
-        <span id="busuanzi_value_site_uv"></span>
-      </span>
-    </span>
-    <span class="post-meta-item" id="busuanzi_container_site_pv">
-      <span class="post-meta-item-icon">
-        <i class="fa fa-eye"></i>
-      </span>
-      <span class="site-pv" title="Total Views">
-        <span id="busuanzi_value_site_pv"></span>
-      </span>
-    </span>
-</div>
-  <div class="powered-by">Powered by <a href="https://hexo.io/" rel="noopener" target="_blank">Hexo</a> & <a href="https://theme-next.js.org/" rel="noopener" target="_blank">NexT.Gemini</a>
-  </div>
-
     </div>
   </footer>
 
@@ -1193,6 +1240,7 @@
 
 
 
+  <script src="/js/third-party/pace.js"></script>
 
 
   
